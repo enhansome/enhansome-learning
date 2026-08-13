@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "description": "Swiftproxy — Premium residential proxies for developers, automation engineers, and data teams. Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, and SOCKS5, rotating and sticky sessions, and non-expiring traffic. Ideal for web scraping, browser automation, AI data collection, testing, and large-scale web research.\nRapidProxy is a global residential proxy platform built for scraping developers and data collection teams, offering 90M+ real residential IPs across 200+ countries and regions. It supports dynamic rotation, precise geo-targeting, and high-concurrency data collection, helping improve success rates and reduce ban risks.\nStart your free trial today! Use discount code RAPID10 to get 10% off.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DevOps Roadmap by Milan Milanovic",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-14T15:33:20Z",
+            "owner": "milanm",
+            "repo": "DevOps-Roadmap",
+            "stars": 20227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QA Roadmap by Anas Fitiani",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-04T11:08:57Z",
+            "owner": "fityanos",
+            "repo": "awesome-quality-assurance-roadmap",
+            "stars": 2155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Threat Modelling Roadmap by Hysn Technologies Inc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2024-08-02T19:02:17Z",
+            "owner": "hysnsec",
+            "repo": "awesome-threat-modelling",
+            "stars": 1791
+          }
+        }
+      ],
+      "title": "Sponsored By"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T17:09:36.761Z",
+    "original_repository": "mfaisalkhatri/awesome-learning",
+    "original_repository_sha": "dc021ec84b24bc03b226bb23d97eb2b93ebe07e3",
+    "enhanced_repository": "enhansome/enhansome-learning",
+    "enhanced_repository_description": null,
+    "title": "Awesome Learning with stars"
+  }
+}
