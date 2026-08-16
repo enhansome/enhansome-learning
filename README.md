@@ -1,4 +1,4 @@
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,039 | 🐛 100 | 📅 2026-06-30
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,435 | 🐛 100 | 📅 2026-06-30
 
 # Awesome Learning with stars
 
@@ -64,9 +64,9 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 
 # RoadMaps
 
-* [DevOps Roadmap by Milan Milanovic](https://github.com/milanm/DevOps-Roadmap) ⭐ 20,242 | 🐛 10 | 📅 2026-07-14
-* [QA Roadmap by Anas Fitiani](https://github.com/fityanos/awesome-quality-assurance-roadmap) ⭐ 2,155 | 🐛 8 | 📅 2026-06-04
-* [Threat Modelling Roadmap by Hysn Technologies Inc](https://github.com/hysnsec/awesome-threat-modelling) ⭐ 1,792 | 🐛 23 | 🌐 Dockerfile | 📅 2024-08-02
+* [DevOps Roadmap by Milan Milanovic](https://github.com/milanm/DevOps-Roadmap) ⭐ 20,254 | 🐛 10 | 📅 2026-07-14
+* [QA Roadmap by Anas Fitiani](https://github.com/fityanos/awesome-quality-assurance-roadmap) ⭐ 2,157 | 🐛 9 | 📅 2026-06-04
+* [Threat Modelling Roadmap by Hysn Technologies Inc](https://github.com/hysnsec/awesome-threat-modelling) ⭐ 1,793 | 🐛 23 | 🌐 Dockerfile | 📅 2024-08-02
 * [Roadmap to learn Automation Testing](https://medium.com/@iamfaisalkhatri/how-do-i-switch-from-manual-to-automation-testing-dc726950c3a9)
 * [Developer Roadmaps](https://roadmap.sh/)
 
@@ -77,7 +77,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 
 # Computer Science Courses
 
-* [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses) ⭐ 83,050 | 🐛 2 | 📅 2026-07-07
+* [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses) ⭐ 83,057 | 🐛 2 | 📅 2026-07-07
 * [1200 Free Computer Science Courses from the World’s Top Universities](https://www.freecodecamp.org/news/free-courses-top-cs-universities/)
 
 # Programming languages
@@ -85,10 +85,10 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 <details>
 <summary>Java</summary>
 
-* [Java Design Patterns - Github](https://github.com/iluwatar/java-design-patterns) ⭐ 94,565 | 🐛 156 | 🌐 Java | 📅 2026-07-31
-* [Algorithms in Java](https://github.com/TheAlgorithms/Java) ⭐ 66,153 | 🐛 16 | 🌐 Java | 📅 2026-08-14
-* [Awesome-Java](https://github.com/akullpp/awesome-java) ⭐ 48,742 | 🐛 7 | 📅 2026-08-10
-* [100+ Best System Design Resources for Interview and Learning](https://github.com/javabuddy/best-system-design-resources) ⭐ 4,397 | 🐛 4 | 📅 2026-03-31
+* [Java Design Patterns - Github](https://github.com/iluwatar/java-design-patterns) ⭐ 94,564 | 🐛 156 | 🌐 Java | 📅 2026-07-31
+* [Algorithms in Java](https://github.com/TheAlgorithms/Java) ⭐ 66,156 | 🐛 18 | 🌐 Java | 📅 2026-08-15
+* [Awesome-Java](https://github.com/akullpp/awesome-java) ⭐ 48,751 | 🐛 7 | 📅 2026-08-10
+* [100+ Best System Design Resources for Interview and Learning](https://github.com/javabuddy/best-system-design-resources) ⭐ 4,407 | 🐛 4 | 📅 2026-03-31
 * [Java Best Practices](https://github.com/in28minutes/java-best-practices) ⭐ 1,449 | 🐛 2 | 📅 2023-10-07
 * [30 Days of Java](https://github.com/AaronGalloway/30-Days-Of-Java) ⭐ 154 | 🐛 5 | 🌐 Java | 📅 2021-07-27
 * [Java Roadmap](https://roadmap.sh/java)
@@ -125,8 +125,8 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 <details>
 <summary>JavaScript</summary>
 
-* [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) ⭐ 46,702 | 🐛 368 | 🌐 JavaScript | 📅 2025-12-06
-* [Awesome-JavaScript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,019 | 🐛 28 | 📅 2026-07-31
+* [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) ⭐ 46,701 | 🐛 368 | 🌐 JavaScript | 📅 2025-12-06
+* [Awesome-JavaScript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,018 | 🐛 29 | 📅 2026-07-31
 * [JavaScript Roadmap](https://roadmap.sh/javascript)
 * [Beginners Series to JavaScript](https://learn.microsoft.com/en-us/shows/beginners-series-to-javascript/)
 * [Learn JavaScript for Beginners – JS Basics Handbook](https://www.freecodecamp.org/news/learn-javascript-for-beginners/)
@@ -147,10 +147,10 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 <details>
 <summary>TypeScript</summary>
 
-* [TypeScript](https://github.com/Microsoft/TypeScript) ⭐ 110,164 | 🐛 5,077 | 🌐 TypeScript | 📅 2026-08-14
-* [Awesome TypeScript](https://github.com/semlinker/awesome-typescript) ⭐ 4,042 | 🐛 105 | 📅 2026-08-09
+* [TypeScript](https://github.com/Microsoft/TypeScript) ⭐ 110,177 | 🐛 5,076 | 🌐 TypeScript | 📅 2026-08-14
+* [Awesome TypeScript](https://github.com/semlinker/awesome-typescript) ⭐ 4,043 | 🐛 104 | 📅 2026-08-09
 * [Awesome TypeScript projects](https://github.com/brookshi/awesome-typescript-projects) ⭐ 894 | 🐛 9 | 🌐 TypeScript | 📅 2023-06-13
-* [TypeScript Tips](https://github.com/jellydn/typescript-tips) ⭐ 440 | 🐛 1 | 📅 2026-08-10
+* [TypeScript Tips](https://github.com/jellydn/typescript-tips) ⭐ 439 | 🐛 1 | 📅 2026-08-10
 * [Awesome-TypeScript](https://github.com/ellerbrock/awesome-typescript) ⭐ 77 | 🐛 6 | 📅 2024-06-07
 * [TypeScript Roadmap](https://roadmap.sh/typescript)
 * [Learn TypeScript from Scratch](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
@@ -172,11 +172,11 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 <details>
 <summary>Python</summary>
 
-* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 314,107 | 🐛 27 | 🌐 Python | 📅 2026-08-05
-* [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) ⭐ 70,993 | 🐛 191 | 🌐 Python | 📅 2026-08-12
+* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 314,252 | 🐛 16 | 🌐 Python | 📅 2026-08-16
+* [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) ⭐ 71,064 | 🐛 193 | 🌐 Python | 📅 2026-08-12
 * [Python CheatSheet](https://github.com/gto76/python-cheatsheet) ⭐ 38,636 | 🐛 0 | 🌐 Python | 📅 2026-07-29
 * [Python CheatSheet](https://github.com/gto76/python-cheatsheet) ⭐ 38,636 | 🐛 0 | 🌐 Python | 📅 2026-07-29
-* [Practical Python Programming](https://github.com/dabeaz-course/practical-python) ⭐ 10,824 | 🐛 3 | 🌐 Python | 📅 2025-12-22
+* [Practical Python Programming](https://github.com/dabeaz-course/practical-python) ⭐ 10,825 | 🐛 3 | 🌐 Python | 📅 2025-12-22
 * [Awesome Python Books](https://github.com/junnplus/awesome-python-books) ⭐ 4,287 | 🐛 8 | 📅 2025-07-17
 * [Free Python Books](https://github.com/revolunet/PythonBooks) ⭐ 1,957 | 🐛 8 | 🌐 CSS | 📅 2021-02-03
 * [Python Roadmap](https://roadmap.sh/python)
@@ -223,9 +223,9 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 <details>
 <summary>Data Structures & Algorithms</summary>
 
-* [JavaScript Algorithm](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,463 | 🐛 403 | 🌐 JavaScript | 📅 2026-07-26
-* [Laws, Theories, Principles and Patterns for developers and technologists.](https://github.com/dwmkerr/hacker-laws) ⭐ 27,253 | 🐛 152 | 🌐 HTML | 📅 2026-05-19
-* [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) ⭐ 25,451 | 🐛 0 | 📅 2026-04-18
+* [JavaScript Algorithm](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,468 | 🐛 403 | 🌐 JavaScript | 📅 2026-07-26
+* [Laws, Theories, Principles and Patterns for developers and technologists.](https://github.com/dwmkerr/hacker-laws) ⭐ 27,255 | 🐛 152 | 🌐 HTML | 📅 2026-05-19
+* [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) ⭐ 25,453 | 🐛 0 | 📅 2026-04-18
 * [DS & A in JavaScript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript) ⭐ 7,773 | 🐛 8 | 🌐 JavaScript | 📅 2024-01-30
 * [DS & A Problems](https://github.com/mandliya/algorithms_and_data_structures) ⭐ 6,148 | 🐛 171 | 🌐 C++ | 📅 2024-02-06
 * [Algo Deck](https://github.com/teivah/algodeck) ⭐ 5,834 | 🐛 0 | 🌐 HTML | 📅 2025-12-09
@@ -239,11 +239,11 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 <details>
 <summary>Other Learning Materials </summary>
 
-* [Coding Interview University](https://github.com/jwasham/coding-interview-university) ⭐ 358,791 | 🐛 124 | 📅 2025-08-28
-* [Project based learning](https://github.com/practical-tutorials/project-based-learning) ⭐ 279,304 | 🐛 267 | 🌐 Python | 📅 2026-08-10
-* [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 238,502 | 🐛 164 | 📅 2024-11-19
-* [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) ⭐ 141,861 | 🐛 34 | 🌐 TypeScript | 📅 2026-08-07
-* [Awesome Books](https://github.com/linsa-io/books) ⭐ 7,580 | 🐛 15 | 📅 2026-03-04
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university) ⭐ 358,909 | 🐛 123 | 📅 2025-08-28
+* [Project based learning](https://github.com/practical-tutorials/project-based-learning) ⭐ 279,435 | 🐛 267 | 🌐 Python | 📅 2026-08-10
+* [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 238,678 | 🐛 164 | 📅 2024-11-19
+* [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) ⭐ 141,889 | 🐛 34 | 🌐 TypeScript | 📅 2026-08-07
+* [Awesome Books](https://github.com/linsa-io/books) ⭐ 7,583 | 🐛 15 | 📅 2026-03-04
 * [Awesome DevTools](https://github.com/devtoolsd/awesome-devtools) ⭐ 675 | 🐛 220 | 📅 2025-10-12
 * [Learn Regex step by step, from zero to advanced.](https://regexlearn.com/)
 * [Learn 25+ Programming Languages by playing games](http://codingame.com)
@@ -253,7 +253,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 <details>
 <summary>Free Programming Books </summary>
 
-* [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) ⭐ 394,452 | 🐛 83 | 🌐 Python | 📅 2026-08-11
+* [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) ⭐ 394,526 | 🐛 82 | 🌐 Python | 📅 2026-08-11
 * [Free Tech Books](https://www.freebookcentre.net/)
 * [Programming in Java - An Interdisciplinary approach](https://introcs.cs.princeton.edu/java/home/)
 * [Python Cheat Sheet](https://labex.io/pythoncheatsheet/)
@@ -315,13 +315,13 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 <details>
 <summary>Free tutorials</summary>
 
-* [system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐ 363,943 | 🐛 603 | 🌐 Python | 📅 2026-03-20
-* [system-design-101](https://github.com/ByteByteGoHq/system-design-101) ⭐ 87,100 | 🐛 67 | 📅 2025-04-04
-* [system-design](https://github.com/karanpratapsingh/system-design) ⭐ 45,552 | 🐛 4 | 📅 2026-07-08
-* [System Design Learning Resources](https://github.com/ashishps1/awesome-system-design-resources) ⭐ 40,615 | 🐛 15 | 🌐 Java | 📅 2026-02-16
-* [Awesome System Design](https://github.com/alexpate/awesome-design-systems) ⭐ 25,703 | 🐛 19 | 📅 2026-04-28
-* [system-design-interview](https://github.com/checkcheckzz/system-design-interview) ⭐ 23,608 | 🐛 26 | 📅 2023-04-03
-* [System Design Resources](https://github.com/InterviewReady/system-design-resources) ⭐ 18,411 | 🐛 2 | 📅 2025-07-16
+* [system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐ 364,159 | 🐛 605 | 🌐 Python | 📅 2026-03-20
+* [system-design-101](https://github.com/ByteByteGoHq/system-design-101) ⭐ 87,181 | 🐛 67 | 📅 2025-04-04
+* [system-design](https://github.com/karanpratapsingh/system-design) ⭐ 45,579 | 🐛 4 | 📅 2026-07-08
+* [System Design Learning Resources](https://github.com/ashishps1/awesome-system-design-resources) ⭐ 40,646 | 🐛 15 | 🌐 Java | 📅 2026-02-16
+* [Awesome System Design](https://github.com/alexpate/awesome-design-systems) ⭐ 25,717 | 🐛 20 | 📅 2026-04-28
+* [system-design-interview](https://github.com/checkcheckzz/system-design-interview) ⭐ 23,613 | 🐛 26 | 📅 2023-04-03
+* [System Design Resources](https://github.com/InterviewReady/system-design-resources) ⭐ 18,414 | 🐛 2 | 📅 2025-07-16
 * [System Design Preparation](https://github.com/shashank88/system_design) ⭐ 9,244 | 🐛 14 | 📅 2024-05-10
 * [System Design Roadmap](https://roadmap.sh/system-design)
 * [MIT 16.842 Fundamentals of Systems Engineering](https://www.youtube.com/playlist?list=PLUl4u3cNGP60jIMmB53zl6awCKMnABhYx)
@@ -362,9 +362,9 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 <details>
 <summary>Software Testing/Test Automation/Blogs and Guides</summary>
 
-* [Awesome-test-automation](https://github.com/atinfo/awesome-test-automation) ⭐ 7,131 | 🐛 126 | 📅 2025-11-28
-* [How they test?](https://github.com/abhivaikar/howtheytest) ⭐ 6,863 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-02
-* [Awesome-Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,346 | 🐛 9 | 📅 2026-08-06
+* [Awesome-test-automation](https://github.com/atinfo/awesome-test-automation) ⭐ 7,132 | 🐛 127 | 📅 2025-11-28
+* [How they test?](https://github.com/abhivaikar/howtheytest) ⭐ 6,864 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-02
+* [Awesome-Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,348 | 🐛 9 | 📅 2026-08-06
 * [Free Learning Resources For Software Testers](https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters) ⭐ 1,224 | 🐛 4 | 📅 2024-11-13
 * [Manual Testing - Test cases and Templates](https://github.com/mfaisalkhatri/Manual_Testing) ⭐ 489 | 🐛 1 | 📅 2025-08-03
 * [Awesome-Test-Case\_design](https://github.com/Treeify-ai/Awesome-Test-Case-Design/tree/main) ⭐ 43 | 🐛 1 | 📅 2025-09-18
@@ -555,7 +555,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 <details>
 <Summary>Selenium WebDriver</Summary>
 
-* [Selenium with JavaScript](https://github.com/SeleniumHQ/seleniumhq.github.io/tree/trunk/examples/javascript) ⭐ 1,397 | 🐛 26 | 🌐 HTML | 📅 2026-08-15
+* [Selenium with JavaScript](https://github.com/SeleniumHQ/seleniumhq.github.io/tree/trunk/examples/javascript) ⭐ 1,397 | 🐛 27 | 🌐 HTML | 📅 2026-08-15
 * [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium) ⭐ 1,132 | 🐛 5 | 📅 2026-03-17
 * [Selenium WebDriver example code](https://github.com/mfaisalkhatri/selenium4poc) ⭐ 210 | 🐛 3 | 🌐 Java | 📅 2026-07-20
 * [Selenium WebDriver Documentation](https://www.selenium.dev/documentation/)
@@ -618,7 +618,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 <details>
 <summary>Playwright</summary>
 
-* [Playwright - Github](https://github.com/microsoft/playwright) ⭐ 94,544 | 🐛 144 | 🌐 TypeScript | 📅 2026-08-15
+* [Playwright - Github](https://github.com/microsoft/playwright) ⭐ 94,583 | 🐛 154 | 🌐 TypeScript | 📅 2026-08-15
 * [Awesome-Playwright](https://github.com/mxschmitt/awesome-playwright) ⭐ 1,555 | 🐛 2 | 📅 2026-08-12
 * [A detailed tutorial on Playwright & Test Runner](https://github.com/ortoniKC/Playwright-Test-Runner) ⭐ 116 | 🐛 3 | 🌐 TypeScript | 📅 2023-02-19
 * [Playwright Documentation - Nodejs](https://playwright.dev/docs/intro)
@@ -692,7 +692,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 * [WebDriverIo v8 Must Know Features with Christian Bromann](https://www.youtube.com/watch?v=OZXVcK-dJkQ)
 * [WebDriverIO and Extended Debugging with Christian Bromann](https://www.youtube.com/watch?v=aX5TLGKhTKM)
 * [WebDriverIO Wednesdays with Kevin](https://www.youtube.com/watch?v=k6FFwurWhf0\&list=PL0y7qCn3hjLYGdFtm_qvF0mCdFnBKs2C7)
-* [WebdriverIO - Github](https://github.com/webdriverio/webdriverio) ⭐ 9,817 | 🐛 353 | 🌐 TypeScript | 📅 2026-08-15
+* [WebdriverIO - Github](https://github.com/webdriverio/webdriverio) ⭐ 9,816 | 🐛 353 | 🌐 TypeScript | 📅 2026-08-15
 * [WebdriverIO+TypeScript Tutorial: Automating a Login Page](https://medium.com/gitconnected/webdriverio-typescript-tutorial-automating-a-login-page-a31779c6201a)
 * [WebdriverIO + TypeScript Tutorial: How to Automate a Chat Application](https://medium.com/@iamfaisalkhatri/webdriverio-typescript-tutorial-how-to-automate-a-chat-application-0333868c019d)
 
@@ -719,7 +719,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 * [Selenium Grid 4](https://www.selenium.dev/documentation/grid/)
 * [Selenium Grid Tutorial: Parallel Testing Guide with Examples](https://www.testmuai.com/blog/selenium-grid-setup-tutorial/)
 * [Parallel Execution of Tests using Selenium Grid 4 with Docker Compose](https://medium.com/@iamfaisalkhatri/parallel-execution-of-tests-using-selenium-grid-4-with-docker-compose-2dc243f4fe8b)
-* [docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ⭐ 8,646 | 🐛 83 | 🌐 Go | 📅 2026-08-15
+* [docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ⭐ 8,647 | 🐛 83 | 🌐 Go | 📅 2026-08-15
 * [Docker Selenium Grid repository](https://www.selenium.dev/docker-selenium/)
 * [Docker Hub - Selenium](https://hub.docker.com/u/selenium)
 
@@ -735,7 +735,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 <details>
 <summary>Demo Websites for Web Automation Testing Practice</summary>
 
-* [Awesome Sites to Test On](https://github.com/BMayhew/awesome-sites-to-test-on) ⭐ 1,091 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-10
+* [Awesome Sites to Test On](https://github.com/BMayhew/awesome-sites-to-test-on) ⭐ 1,092 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-10
 * [Live Chat Playground](https://github.com/mfaisalkhatri/live-chat-playground) ⭐ 5 | 🐛 1 | 🌐 TypeScript | 📅 2025-08-03
 * [Demo Websites - AutomationPanda.com](https://automationpanda.com/2021/12/29/want-to-practice-test-automation-try-these-demo-sites/)
 * [The-internet - herokuapp](https://the-internet.herokuapp.com/)
@@ -806,7 +806,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 <details>
 <summary>Keploy</summary>
 
-* [Keploy Open source - Github](https://github.com/keploy/keploy) ⭐ 18,402 | 🐛 704 | 🌐 Go | 📅 2026-08-13
+* [Keploy Open source - Github](https://github.com/keploy/keploy) ⭐ 18,402 | 🐛 704 | 🌐 Go | 📅 2026-08-16
 * [Keploy Official Website](https://keploy.io)
 * [Keploy Official Docs](https://keploy.io/docs/)
 * [Keploy Official Community Blogs](https://keploy.io/blog/community)
@@ -880,7 +880,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 * [How to create a Custom Logger for Logging Response Details With Playwright Java](https://medium.com/@iamfaisalkhatri/playwright-java-api-testing-creating-custom-logger-for-logging-response-details-771e961d9faa)
 * [API Testing with Playwright](https://playwright.dev/docs/api-testing)
 * [Using Playwright for API testing](https://reflect.run/articles/using-playwright-for-api-testing/)
-* [API Testing with Playwright - GitHub](https://github.com/microsoft/playwright/blob/main/docs/src/api-testing-js.md) ⭐ 94,544 | 🐛 144 | 🌐 TypeScript | 📅 2026-08-15
+* [API Testing with Playwright - GitHub](https://github.com/microsoft/playwright/blob/main/docs/src/api-testing-js.md) ⭐ 94,583 | 🐛 154 | 🌐 TypeScript | 📅 2026-08-15
 * [How to perform End to End API Testing using Playwright with Java and TestNG](https://medium.com/@iamfaisalkhatri/how-to-perform-end-to-end-api-testing-using-playwright-with-java-and-testng-26b318927115)
 * [API Testing With Playwright](https://dzone.com/articles/api-testing-with-playwright)
 * [How to test GET API requests with Playwright TypeScript - Video Tutorial ](https://youtu.be/UOYuVCkUM5M?si=9fZHEaAmZX6X__Hi)
@@ -896,7 +896,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 <details>
 <summary>pytest</summary>
 
-* [pytest-dev/pytest](https://github.com/pytest-dev/pytest) ⭐ 14,421 | 🐛 811 | 🌐 Python | 📅 2026-08-12
+* [pytest-dev/pytest](https://github.com/pytest-dev/pytest) ⭐ 14,423 | 🐛 812 | 🌐 Python | 📅 2026-08-16
 * [awesome-pytest](https://github.com/augustogoulart/awesome-pytest) ⭐ 573 | 🐛 2 | 📅 2026-06-24
 * [API Testing using Pytest](https://testautomationu.applitools.com/python-api-testing/chapter1.html)
 * [Automating your API tests using Python and Pytest](https://dev.to/m4rri4nne/automating-your-api-tests-using-python-and-pytest-23cc)
@@ -945,7 +945,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 * [gRPC overview](https://learning.postman.com/docs/sending-requests/grpc/grpc-client-overview/)
 * [gRPC - QuickStart](https://grpc.io/docs/languages/java/quickstart/)
 * [The Beginner's Guide to gRPC with Examples](https://tamerlan.dev/the-beginners-guide-to-grpc-with-examples/)
-* [awesome-gRPC](https://github.com/grpc-ecosystem/awesome-grpc) ⭐ 8,345 | 🐛 26 | 📅 2025-10-28
+* [awesome-gRPC](https://github.com/grpc-ecosystem/awesome-grpc) ⭐ 8,346 | 🐛 26 | 📅 2025-10-28
 * [Postman v10 and gRPC: what you can do](https://blog.postman.com/postman-v10-and-grpc-what-you-can-do/)
 * [Public gRPC APIs](https://www.postman.com/devrel/workspace/public-grpc-apis/overview)
 * [What is gRPC? Protocol Buffers, Streaming, and Architecture Explained](https://www.freecodecamp.org/news/what-is-grpc-protocol-buffers-stream-architecture/)
@@ -957,7 +957,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 <summary>Bruno</summary>
 
 * [bruno](https://www.usebruno.com/)
-* [bruno - GitHub](https://github.com/usebruno/bruno) ⭐ 46,355 | 🐛 1,796 | 🌐 JavaScript | 📅 2026-08-14
+* [bruno - GitHub](https://github.com/usebruno/bruno) ⭐ 46,363 | 🐛 1,797 | 🌐 JavaScript | 📅 2026-08-14
 * [How to Use Bruno for API Testing (Beginner's Guide)](https://apidog.com/blog/bruno-api/)
 
 </details>
@@ -965,16 +965,16 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 <details>
 <summary>Tools/Frameworks for API Testing</summary>
 
-* [Hoppscotch - Open-source alternative to Postman, Insomnia)](https://github.com/hoppscotch/hoppscotch) ⭐ 80,039 | 🐛 786 | 🌐 TypeScript | 📅 2026-08-05
-* [Insomnia - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.](https://github.com/Kong/insomnia) ⭐ 39,949 | 🐛 889 | 🌐 TypeScript | 📅 2026-08-14
-* [HTTPie CLI — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.](https://github.com/httpie/cli) ⭐ 38,422 | 🐛 330 | 🌐 Python | 📅 2024-12-17
-* [Hurl, run and test HTTP requests with plain text.](https://github.com/Orange-OpenSource/hurl) ⭐ 19,144 | 🐛 203 | 🌐 Rust | 📅 2026-08-15
-* [Karate DSL](https://github.com/karatelabs/karate) ⭐ 8,920 | 🐛 1 | 🌐 Java | 📅 2026-08-15
-* [xh - Friendly and fast tool for sending HTTP requests](https://github.com/ducaale/xh) ⭐ 8,018 | 🐛 38 | 🌐 Rust | 📅 2026-07-26
+* [Hoppscotch - Open-source alternative to Postman, Insomnia)](https://github.com/hoppscotch/hoppscotch) ⭐ 80,043 | 🐛 791 | 🌐 TypeScript | 📅 2026-08-16
+* [Insomnia - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.](https://github.com/Kong/insomnia) ⭐ 39,949 | 🐛 890 | 🌐 TypeScript | 📅 2026-08-16
+* [HTTPie CLI — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.](https://github.com/httpie/cli) ⭐ 38,423 | 🐛 330 | 🌐 Python | 📅 2024-12-17
+* [Hurl, run and test HTTP requests with plain text.](https://github.com/Orange-OpenSource/hurl) ⭐ 19,143 | 🐛 203 | 🌐 Rust | 📅 2026-08-15
+* [Karate DSL](https://github.com/karatelabs/karate) ⭐ 8,920 | 🐛 1 | 🌐 Java | 📅 2026-08-16
+* [xh - Friendly and fast tool for sending HTTP requests](https://github.com/ducaale/xh) ⭐ 8,020 | 🐛 38 | 🌐 Rust | 📅 2026-08-16
 * [Newman - Commandline collection runner for Postman](https://github.com/postmanlabs/newman) ⭐ 7,246 | 🐛 332 | 🌐 JavaScript | 📅 2026-08-05
-* [Requestly - Free and open-source API Client & Interceptor.](https://github.com/requestly/requestly) ⭐ 6,748 | 🐛 276 | 📅 2026-08-14
-* [schemathesis](https://github.com/schemathesis/schemathesis) ⭐ 3,529 | 🐛 9 | 🌐 Python | 📅 2026-08-14
-* [Restxox](https://github.com/flawiddsouza/Restfox) ⭐ 2,742 | 🐛 48 | 🌐 Vue | 📅 2026-07-03
+* [Requestly - Free and open-source API Client & Interceptor.](https://github.com/requestly/requestly) ⭐ 6,748 | 🐛 275 | 📅 2026-08-14
+* [schemathesis](https://github.com/schemathesis/schemathesis) ⭐ 3,529 | 🐛 10 | 🌐 Python | 📅 2026-08-16
+* [Restxox](https://github.com/flawiddsouza/Restfox) ⭐ 2,743 | 🐛 48 | 🌐 Vue | 📅 2026-07-03
 
 </details>
 
@@ -1036,7 +1036,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 <summary>Appium</summary>
 
 * [Appium Desktop](https://github.com/appium/appium-desktop) ⚠️ Archived
-* [Appium Inspector](https://github.com/appium/appium-inspector) ⭐ 1,884 | 🐛 29 | 🌐 JavaScript | 📅 2026-08-15
+* [Appium Inspector](https://github.com/appium/appium-inspector) ⭐ 1,884 | 🐛 29 | 🌐 JavaScript | 📅 2026-08-16
 * [Awesome-Appium](https://github.com/SrinivasanTarget/awesome-appium) ⭐ 464 | 🐛 7 | 📅 2021-09-28
 * [Appium Gestures Plugin](https://github.com/AppiumTestDistribution/appium-gestures-plugin) ⭐ 62 | 🐛 13 | 🌐 JavaScript | 📅 2025-12-29
 * [Appium Conference](https://www.youtube.com/playlist?list=PL9Z-JgiTsOYRCcJhDfmKAah9XmAp2b903)
@@ -1107,7 +1107,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 * [Maestro.dev](https://maestro.dev/)
 * [Maestro Documentation](https://docs.maestro.dev/)
 * [Maestro blog](https://maestro.dev/blog)
-* [Maestro Github](https://github.com/mobile-dev-inc/Maestro) ⭐ 15,332 | 🐛 494 | 🌐 Kotlin | 📅 2026-08-15
+* [Maestro Github](https://github.com/mobile-dev-inc/Maestro) ⭐ 15,345 | 🐛 494 | 🌐 Kotlin | 📅 2026-08-15
 
 </details>
 
@@ -1125,18 +1125,18 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 <details>
 <summary>Tutorials</summary>
 
-* [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,297 | 🐛 2 | 📅 2026-07-21
-* [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 14,749 | 🐛 306 | 📅 2026-01-11
-* [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) ⭐ 13,678 | 🐛 15 | 🌐 Python | 📅 2026-08-04
-* [Awesome Hacking](https://github.com/qazbnm456/awesome-web-security) ⭐ 13,678 | 🐛 15 | 🌐 Python | 📅 2026-08-04
+* [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,299 | 🐛 2 | 📅 2026-07-21
+* [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 14,754 | 🐛 306 | 📅 2026-01-11
+* [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) ⭐ 13,690 | 🐛 15 | 🌐 Python | 📅 2026-08-04
+* [Awesome Hacking](https://github.com/qazbnm456/awesome-web-security) ⭐ 13,690 | 🐛 15 | 🌐 Python | 📅 2026-08-04
 * [Security Testing Guide](https://github.com/OWASP/wstg/tree/master/document) ⭐ 9,691 | 🐛 33 | 🌐 CSS | 📅 2026-08-10
-* [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking) ⭐ 7,232 | 🐛 7 | 📅 2026-08-13
-* [Awesome Appsec](https://github.com/paragonie/awesome-appsec) ⭐ 7,025 | 🐛 40 | 🌐 PHP | 📅 2025-02-22
+* [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking) ⭐ 7,229 | 🐛 7 | 📅 2026-08-13
+* [Awesome Appsec](https://github.com/paragonie/awesome-appsec) ⭐ 7,027 | 🐛 40 | 🌐 PHP | 📅 2025-02-22
 * [Ultimate DevSecOps library](https://github.com/sottlmarek/DevSecOps) ⭐ 6,837 | 🐛 21 | 📅 2026-08-12
-* [Cybersecurity for Beginners](https://github.com/microsoft/Security-101) ⭐ 6,799 | 🐛 1 | 🌐 HTML | 📅 2025-12-21
+* [Cybersecurity for Beginners](https://github.com/microsoft/Security-101) ⭐ 6,801 | 🐛 1 | 🌐 HTML | 📅 2025-12-21
 * [Awesome-api-security](https://github.com/arainho/awesome-api-security) ⚠️ Archived
 * [awesome-api-security](https://github.com/arainho/awesome-api-security) ⚠️ Archived
-* [Awesome Mobile Security](https://github.com/vaib25vicky/awesome-mobile-security) ⭐ 3,522 | 🐛 13 | 📅 2024-03-01
+* [Awesome Mobile Security](https://github.com/vaib25vicky/awesome-mobile-security) ⭐ 3,523 | 🐛 13 | 📅 2024-03-01
 * [Awesome-DevSecOps](https://github.com/JakobTheDev/awesome-devsecops) ⭐ 1,711 | 🐛 39 | 📅 2024-08-02
 * [Awesome CICD Security](https://github.com/myugan/awesome-cicd-security) ⭐ 837 | 🐛 6 | 📅 2026-05-26
 * [What is Security Testing?](https://www.hackerone.com/knowledge-center/what-security-testing)
@@ -1184,7 +1184,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 * [Difference between DAST,SAST, IAST and RAST](https://www.softwaretestinghelp.com/differences-between-sast-dast-iast-and-rasp/)
 * [SAST, DAST and IAST](https://www.getastra.com/blog/security-audit/interactive-application-security-testing/)
 * [CyberSecurity - Codeacademy](https://www.codecademy.com/catalog/subject/cybersecurity)
-* [Collection of Penetration Testing resources](https://github.com/wtsxDev/Penetration-Testing#penetration-testing-resources) ⭐ 2,779 | 🐛 20 | 📅 2023-10-18
+* [Collection of Penetration Testing resources](https://github.com/wtsxDev/Penetration-Testing#penetration-testing-resources) ⭐ 2,780 | 🐛 20 | 📅 2023-10-18
 * [Penetration Testing Full Course - FreeCodeCamp.org](https://www.freecodecamp.org/news/full-penetration-testing-course/)
 * [APISec University - API Penetration Testing Free Course](https://www.apisecuniversity.com/courses/api-penetration-testing)
 * [APISec University - API Security Fundamentals](https://www.apisecuniversity.com/courses/api-security-fundamentals)
@@ -1253,8 +1253,8 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 <details> 
 <summary>K6</summary>
 
-* [Grafana K6](https://github.com/grafana/k6) ⭐ 31,264 | 🐛 779 | 🌐 Go | 📅 2026-08-15
-* [Awesome-k6](https://github.com/grafana/awesome-k6) ⭐ 772 | 🐛 3 | 📅 2026-07-22
+* [Grafana K6](https://github.com/grafana/k6) ⭐ 31,268 | 🐛 784 | 🌐 Go | 📅 2026-08-16
+* [Awesome-k6](https://github.com/grafana/awesome-k6) ⭐ 772 | 🐛 4 | 📅 2026-07-22
 * [Performance Testing with K6](https://github.com/cajames/performance-testing-with-k6) ⭐ 97 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-12
 * [Beginner’s Guide to Load Testing with k6](https://medium.com/swlh/beginners-guide-to-load-testing-with-k6-85ec614d2f0d)
 * [API performance testing with k6](https://circleci.com/blog/api-performance-testing-with-k6/)
@@ -1269,7 +1269,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 <summary>Gatling</summary>
 
 * [Free Gatling Courses on Gatling Academy](https://docs.gatling.io/guides/)
-* [Awesome-Gatling](https://github.com/aliesbelik/awesome-gatling) ⭐ 80 | 🐛 0 | 📅 2026-08-09
+* [Awesome-Gatling](https://github.com/aliesbelik/awesome-gatling) ⭐ 79 | 🐛 0 | 📅 2026-08-09
 * [Gatling Tutorial: Getting Started With Gatling Load Testing](https://www.softwaretestinghelp.com/gatling-tutorial/)
 * [Gatling Tutorials](https://docs.gatling.io/tutorials/)
 * [Load Testing with Gatling - James Willett](https://www.james-willett.com/gatling-load-testing-complete-guide/)
@@ -1297,7 +1297,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 <details>
 <summary>Google Lighthouse</summary>
 
-* [Lighthouse - GitHub](https://github.com/GoogleChrome/lighthouse) ⭐ 30,667 | 🐛 451 | 🌐 JavaScript | 📅 2026-08-12
+* [Lighthouse - GitHub](https://github.com/GoogleChrome/lighthouse) ⭐ 30,668 | 🐛 454 | 🌐 JavaScript | 📅 2026-08-16
 * [What Is Google Lighthouse and How to Use It?](https://www.elegantthemes.com/blog/wordpress/what-is-google-lighthouse-and-how-to-use-it)
 * [Introduction to Chrome Lighthouse](https://www.freecodecamp.org/news/introduction-to-chrome-lighthouse/)
 
@@ -1359,7 +1359,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 * [What is Visual Regression Testing?](https://applitools.com/blog/visual-regression-testing/)
 * [What Is Visual Regression Testing: A Detailed Guide](https://www.testmuai.com/learning-hub/visual-regression-testing)
 * [Visual Testing](https://www.tpointtech.com/visual-testing)
-* [Awesome-Visual-Regression-Testing](https://github.com/mojoaxel/awesome-regression-testing) ⭐ 2,410 | 🐛 15 | 📅 2026-05-27
+* [Awesome-Visual-Regression-Testing](https://github.com/mojoaxel/awesome-regression-testing) ⭐ 2,411 | 🐛 16 | 📅 2026-05-27
 * [Top 10 Visual Testing Tools](https://applitools.com/blog/top-10-visual-testing-tools/)
 * [Complete Guide of 15 Visual Testing Tools: Features, Benefits & Prices](https://www.functionize.com/automated-testing/visual-testing-tools)
 * [Visual Regression Testing what, why and how](https://medium.com/loftbr/visual-regression-testing-eb74050f3366)
@@ -1482,7 +1482,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 * [DynamoDB Tutorial - tpointtech](https://www.tpointtech.com/aws-dynamodb)
 * [DynamoDB Tutorial - Tutorialsdojo](https://tutorialsdojo.com/amazon-dynamodb/)
 * [DynamoDB Tutorial - DigitalCloud](https://digitalcloud.training/amazon-dynamodb-tutorial-for-beginners/)
-* [Awesome DynamoDB](https://github.com/alexdebrie/awesome-dynamodb) ⭐ 1,818 | 🐛 9 | 📅 2026-03-23
+* [Awesome DynamoDB](https://github.com/alexdebrie/awesome-dynamodb) ⭐ 1,819 | 🐛 9 | 📅 2026-03-23
 
 </details>
 
@@ -1517,21 +1517,21 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 <details>
 <summary>Learning Materials</summary>
 
-* [DevOps Exercises](https://github.com/bregman-arie/devops-exercises) ⭐ 84,031 | 🐛 53 | 🌐 Python | 📅 2025-12-27
-* [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) ⭐ 73,304 | 🐛 26 | 📅 2026-01-04
-* [90 Days Of DevOps](https://github.com/MichaelCade/90DaysOfDevOps) ⭐ 29,648 | 🐛 10 | 🌐 Shell | 📅 2026-06-24
-* [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) ⭐ 16,049 | 🐛 78 | 🌐 Shell | 📅 2026-06-23
-* [A curated list of Site Reliability and Production Engineering resources](https://github.com/dastergon/awesome-sre) ⭐ 13,438 | 🐛 97 | 📅 2025-08-28
-* [A collection of Linux Sysadmin Test Questions and Answers](https://github.com/trimstray/test-your-sysadmin-skills) ⭐ 11,834 | 🐛 19 | 📅 2024-11-19
-* [DevOps Guide](https://github.com/Tikam02/DevOps-Guide) ⭐ 9,297 | 🐛 11 | 🌐 HTML | 📅 2026-05-22
-* [Awesome DevSecOps](https://github.com/devsecops/awesome-devsecops) ⭐ 5,454 | 🐛 76 | 📅 2024-05-11
+* [DevOps Exercises](https://github.com/bregman-arie/devops-exercises) ⭐ 84,068 | 🐛 53 | 🌐 Python | 📅 2025-12-27
+* [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) ⭐ 73,314 | 🐛 26 | 📅 2026-01-04
+* [90 Days Of DevOps](https://github.com/MichaelCade/90DaysOfDevOps) ⭐ 29,650 | 🐛 10 | 🌐 Shell | 📅 2026-06-24
+* [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) ⭐ 16,053 | 🐛 78 | 🌐 Shell | 📅 2026-06-23
+* [A curated list of Site Reliability and Production Engineering resources](https://github.com/dastergon/awesome-sre) ⭐ 13,441 | 🐛 97 | 📅 2025-08-28
+* [A collection of Linux Sysadmin Test Questions and Answers](https://github.com/trimstray/test-your-sysadmin-skills) ⭐ 11,835 | 🐛 19 | 📅 2024-11-19
+* [DevOps Guide](https://github.com/Tikam02/DevOps-Guide) ⭐ 9,299 | 🐛 11 | 🌐 HTML | 📅 2026-05-22
+* [Awesome DevSecOps](https://github.com/devsecops/awesome-devsecops) ⭐ 5,455 | 🐛 77 | 📅 2024-05-11
 * [awesome-devops](https://github.com/wmariuss/awesome-devops) ⭐ 4,326 | 🐛 174 | 🌐 Python | 📅 2026-07-24
 * [veriqta/DEVOPS-WORLD](https://github.com/veriqta/DEVOPS-WORLD) ⭐ 3,477 | 🐛 0 | 📅 2026-07-02
 * [Learning DevOps](https://github.com/Pradumnasaraf/DevOps) ⭐ 3,257 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-12
 * [DevOps and IT Cheat-Sheet Collection](https://github.com/sk3pp3r/cheat-sheet-pdf) ⭐ 2,385 | 🐛 1 | 🌐 HTML | 📅 2025-05-25
 * [Awesome-CIandCD](https://github.com/cicdops/awesome-ciandcd) ⭐ 2,007 | 🐛 32 | 📅 2026-04-14
 * [Cloud DevOps Learning Resources](https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources) ⭐ 1,977 | 🐛 0 | 📅 2024-06-24
-* [Lets-DevOps/awesome-learning](https://github.com/Lets-DevOps/awesome-learning) ⭐ 1,656 | 🐛 7 | 📅 2024-09-04
+* [Lets-DevOps/awesome-learning](https://github.com/Lets-DevOps/awesome-learning) ⭐ 1,657 | 🐛 7 | 📅 2024-09-04
 * [DevOps - Step by Step](https://github.com/MohamedRadwan-DevOps/devops-step-by-step) ⭐ 1,130 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-10
 * [DevOps Books](https://github.com/DevOps-Projects-Ideas/DevOps-Books) ⭐ 704 | 🐛 0 | 📅 2024-09-25
 * [Free Devops Books](https://github.com/ahmedamsaleh/Free-DevOps-Books-1) ⭐ 255 | 🐛 2 | 📅 2018-05-07
@@ -1631,13 +1631,13 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 <details>
 <summary>Docker</summary>
 
-* [Awesome Docker Compose](https://github.com/docker/awesome-compose) ⭐ 46,102 | 🐛 414 | 🌐 HTML | 📅 2026-08-11
-* [Docke Compose GitHub](https://github.com/docker/compose) ⭐ 38,075 | 🐛 96 | 🌐 Go | 📅 2026-08-15
-* [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,645 | 🐛 25 | 📅 2026-07-29
-* [Docker Cheat Sheet - GitHub](https://github.com/wsargent/docker-cheat-sheet) ⭐ 22,537 | 🐛 7 | 📅 2024-12-31
+* [Awesome Docker Compose](https://github.com/docker/awesome-compose) ⭐ 46,107 | 🐛 415 | 🌐 HTML | 📅 2026-08-15
+* [Docke Compose GitHub](https://github.com/docker/compose) ⭐ 38,078 | 🐛 96 | 🌐 Go | 📅 2026-08-16
+* [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,646 | 🐛 25 | 📅 2026-07-29
+* [Docker Cheat Sheet - GitHub](https://github.com/wsargent/docker-cheat-sheet) ⭐ 22,539 | 🐛 7 | 📅 2024-12-31
 * [Docker Labs](https://github.com/docker-archive-public/docker.labs) ⚠️ Archived
 * [DockerLabs - Getting Started with Docker](https://github.com/collabnix/dockerlabs) ⭐ 8,029 | 🐛 28 | 🌐 JavaScript | 📅 2026-07-11
-* [Docker Curriculum GitHub](https://github.com/prakhar1989/docker-curriculum) ⭐ 6,077 | 🐛 17 | 🌐 CSS | 📅 2026-08-12
+* [Docker Curriculum GitHub](https://github.com/prakhar1989/docker-curriculum) ⭐ 6,079 | 🐛 17 | 🌐 CSS | 📅 2026-08-12
 * [Learning Docker](https://github.com/willitscale/learning-docker) ⭐ 111 | 🐛 2 | 🌐 PHP | 📅 2019-10-24
 * [Docker](https://www.youtube.com/@DockerInc)
 * [Docker Roadmap](https://roadmap.sh/docker)
@@ -1682,7 +1682,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 <details>
 <summary>Linux</summary>
 
-* [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) ⭐ 30,279 | 🐛 34 | 📅 2026-07-13
+* [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) ⭐ 30,285 | 🐛 34 | 📅 2026-07-13
 * [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software) ⚠️ Archived
 * [Free Linux Basics - KodeKloud](https://github.com/kodekloudhub/linux-basics-course) ⭐ 2,062 | 🐛 18 | 📅 2024-07-18
 * [Linux Journey - Tutorials and lessons to learn Linux](https://linuxjourney.org/)
@@ -1792,7 +1792,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 <details>
 <summary>Learning Materials </summary>
 
-* [Awesome Agile](https://github.com/lorabv/awesome-agile) ⭐ 1,481 | 🐛 11 | 📅 2024-08-10
+* [Awesome Agile](https://github.com/lorabv/awesome-agile) ⭐ 1,480 | 🐛 11 | 📅 2024-08-10
 * [What is Agile?](https://www.coursera.org/articles/what-is-agile-a-beginners-guide)
 * [Agile Software blogs by Mike Cohn](https://www.mountaingoatsoftware.com/blog)
 * [Agile Software Guide - Martin Fowler](https://martinfowler.com/agile.html)
@@ -1863,7 +1863,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 <summary>JUnit</summary>
 
 * [JUnit 5 - Documentation](https://junit.org/)
-* [Junit 5 - GitHub](https://github.com/junit-team/junit-framework) ⭐ 7,040 | 🐛 113 | 🌐 Java | 📅 2026-08-15
+* [Junit 5 - GitHub](https://github.com/junit-team/junit-framework) ⭐ 7,041 | 🐛 113 | 🌐 Java | 📅 2026-08-16
 * [JUnit 5 Tutorial](https://testautomationu.applitools.com/junit5-tutorial/)
 * [Beginner’s Guide to JUnit 5](https://medium.com/@iamfaisalkhatri/beginners-guide-to-junit-5-7756286cd4be)
 * [TutorialsPoint - JUnit Tutorial](https://www.tutorialspoint.com/junit/index.htm)
@@ -1881,7 +1881,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 <details>
 <summary>TestNG</summary>
 
-* [TestNG GitHub repo](https://github.com/testng-team/testng) ⭐ 2,058 | 🐛 260 | 🌐 Java | 📅 2026-08-15
+* [TestNG GitHub repo](https://github.com/testng-team/testng) ⭐ 2,058 | 🐛 265 | 🌐 Java | 📅 2026-08-16
 * [TestNG Eclipse Plugin](https://github.com/testng-team/testng-eclipse) ⭐ 197 | 🐛 69 | 🌐 Java | 📅 2026-02-15
 * [TestNG documentation](https://testng.org/)
 * [Test Automation University - Introduction to TestNG](https://testautomationu.applitools.com/introduction-to-testng/)
@@ -1938,12 +1938,12 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 <details>
 <summary>AI</summary>
 
-* [LLM Course - Roadmaps + Notebooks - GitHub](https://github.com/mlabonne/llm-course) ⭐ 81,693 | 🐛 87 | 📅 2026-02-05
-* [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners) ⭐ 72,232 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2026-07-29
-* [AI for Beginners](https://github.com/microsoft/ai-for-beginners) ⭐ 64,971 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2026-07-21
-* [LocalAI](https://github.com/mudler/LocalAI) ⭐ 48,489 | 🐛 153 | 🌐 Go | 📅 2026-08-15
-* [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners) ⭐ 36,619 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2026-08-11
-* [Promptfoo - Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs.](https://github.com/promptfoo/promptfoo) ⭐ 24,255 | 🐛 497 | 🌐 TypeScript | 📅 2026-08-15
+* [LLM Course - Roadmaps + Notebooks - GitHub](https://github.com/mlabonne/llm-course) ⭐ 81,716 | 🐛 87 | 📅 2026-02-05
+* [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners) ⭐ 72,291 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2026-07-29
+* [AI for Beginners](https://github.com/microsoft/ai-for-beginners) ⭐ 65,041 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2026-07-21
+* [LocalAI](https://github.com/mudler/LocalAI) ⭐ 48,507 | 🐛 159 | 🌐 Go | 📅 2026-08-16
+* [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners) ⭐ 36,626 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2026-08-11
+* [Promptfoo - Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs.](https://github.com/promptfoo/promptfoo) ⭐ 24,274 | 🐛 505 | 🌐 TypeScript | 📅 2026-08-16
 * [IoT for Beginners](https://github.com/microsoft/IoT-For-Beginners) ⭐ 16,999 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-05-26
 * [Learn AI Engineering](https://github.com/ashishps1/learn-ai-engineering) ⭐ 5,931 | 🐛 8 | 📅 2026-02-05
 * [AI Engineer Roadmap](https://roadmap.sh/ai-engineer)
@@ -1974,14 +1974,14 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 <details>
 <summary>Machine Learning</summary>
 
-* [Machine Learning for Beginners](https://github.com/microsoft/ML-For-Beginners) ⭐ 89,407 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2026-08-12
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,041 | 🐛 24 | 🌐 Python | 📅 2026-08-11
-* [100 Days of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) ⭐ 51,647 | 🐛 68 | 📅 2023-12-29
-* [Made with ML](https://github.com/GokuMohandas/Made-With-ML) ⭐ 49,086 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2026-03-04
-* [ML from Scratch](https://github.com/eriklindernoren/ML-From-Scratch) ⭐ 32,466 | 🐛 77 | 🌐 Python | 📅 2023-10-15
-* [Applied ML](https://github.com/eugeneyan/applied-ml) ⭐ 30,035 | 🐛 8 | 📅 2024-07-18
-* [ML Algorithms](https://github.com/rushter/MLAlgorithms) ⭐ 11,163 | 🐛 10 | 🌐 Python | 📅 2026-05-07
-* [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) ⭐ 10,691 | 🐛 4 | 🌐 Python | 📅 2026-03-01
+* [Machine Learning for Beginners](https://github.com/microsoft/ML-For-Beginners) ⭐ 89,434 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2026-08-12
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,034 | 🐛 24 | 🌐 Python | 📅 2026-08-11
+* [100 Days of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) ⭐ 51,648 | 🐛 68 | 📅 2023-12-29
+* [Made with ML](https://github.com/GokuMohandas/Made-With-ML) ⭐ 49,101 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2026-03-04
+* [ML from Scratch](https://github.com/eriklindernoren/ML-From-Scratch) ⭐ 32,477 | 🐛 78 | 🌐 Python | 📅 2023-10-15
+* [Applied ML](https://github.com/eugeneyan/applied-ml) ⭐ 30,045 | 🐛 8 | 📅 2024-07-18
+* [ML Algorithms](https://github.com/rushter/MLAlgorithms) ⭐ 11,164 | 🐛 10 | 🌐 Python | 📅 2026-05-07
+* [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) ⭐ 10,690 | 🐛 4 | 🌐 Python | 📅 2026-03-01
 * [Machine Learning Tools in JavaScript](https://github.com/mljs/ml) ⭐ 2,715 | 🐛 27 | 🌐 JavaScript | 📅 2024-10-21
 * [A collection of papers and resources about the utilization of large language models (LLMs) in software testing.](https://github.com/LLM-Testing/LLM4SoftwareTesting) ⭐ 529 | 🐛 1 | 📅 2024-01-10
 * [MLOps Roadmap](https://roadmap.sh/mlops)
@@ -1995,4 +1995,4 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._

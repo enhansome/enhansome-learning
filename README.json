@@ -14,7 +14,7 @@
             "last_commit": "2026-07-14T15:33:20Z",
             "owner": "milanm",
             "repo": "DevOps-Roadmap",
-            "stars": 20242
+            "stars": 20254
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-06-04T11:08:57Z",
             "owner": "fityanos",
             "repo": "awesome-quality-assurance-roadmap",
-            "stars": 2155
+            "stars": 2157
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2024-08-02T19:02:17Z",
             "owner": "hysnsec",
             "repo": "awesome-threat-modelling",
-            "stars": 1792
+            "stars": 1793
           }
         }
       ],
@@ -50,7 +50,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T16:37:36.580Z",
+    "last_updated": "2026-08-16T16:38:23.666Z",
     "original_repository": "mfaisalkhatri/awesome-learning",
     "original_repository_sha": "dc021ec84b24bc03b226bb23d97eb2b93ebe07e3",
     "enhanced_repository": "enhansome/enhansome-learning",
