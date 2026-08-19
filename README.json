@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "Swiftproxy — Premium residential proxies for developers, automation engineers, and data teams. Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, and SOCKS5, rotating and sticky sessions, and non-expiring traffic. Ideal for web scraping, browser automation, AI data collection, testing, and large-scale web research.\nRapidProxy is a global residential proxy platform built for scraping developers and data collection teams, offering 90M+ real residential IPs across 200+ countries and regions. It supports dynamic rotation, precise geo-targeting, and high-concurrency data collection, helping improve success rates and reduce ban risks.\nStart your free trial today! Use discount code RAPID10 to get 10% off.",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 556191546,
             "language": null,
             "last_commit": "2026-07-14T15:33:20Z",
             "owner": "milanm",
             "repo": "DevOps-Roadmap",
-            "stars": 20271
+            "stars": 20280
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121133891,
             "language": null,
             "last_commit": "2026-06-04T11:08:57Z",
             "owner": "fityanos",
             "repo": "awesome-quality-assurance-roadmap",
-            "stars": 2158
+            "stars": 2160
           }
         },
         {
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 230712512,
             "language": "Dockerfile",
             "last_commit": "2024-08-02T19:02:17Z",
             "owner": "hysnsec",
@@ -46,12 +49,2365 @@
           }
         }
       ],
-      "title": "Sponsored By"
+      "title": "RoadMaps"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Java Design Patterns - Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22790488,
+            "language": "Java",
+            "last_commit": "2026-08-17T22:42:48Z",
+            "owner": "iluwatar",
+            "repo": "java-design-patterns",
+            "stars": 94588
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Algorithms in Java",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 63477660,
+            "language": "Java",
+            "last_commit": "2026-08-19T08:47:09Z",
+            "owner": "TheAlgorithms",
+            "repo": "Java",
+            "stars": 66168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Java",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21648001,
+            "language": null,
+            "last_commit": "2026-08-17T00:12:13Z",
+            "owner": "akullpp",
+            "repo": "awesome-java",
+            "stars": 48783
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "100+ Best System Design Resources for Interview and Learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 796185465,
+            "language": null,
+            "last_commit": "2026-03-31T10:23:52Z",
+            "owner": "javabuddy",
+            "repo": "best-system-design-resources",
+            "stars": 4418
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Java Best Practices",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 69795103,
+            "language": null,
+            "last_commit": "2023-10-07T16:15:12Z",
+            "owner": "in28minutes",
+            "repo": "java-best-practices",
+            "stars": 1449
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "30 Days of Java",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 390065923,
+            "language": "Java",
+            "last_commit": "2021-07-27T17:52:58Z",
+            "owner": "AaronGalloway",
+            "repo": "30-Days-Of-Java",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "30 Days Of JavaScript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 229764465,
+            "language": "JavaScript",
+            "last_commit": "2025-12-06T11:12:48Z",
+            "owner": "Asabeneh",
+            "repo": "30-Days-Of-JavaScript",
+            "stars": 46717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-JavaScript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21393871,
+            "language": null,
+            "last_commit": "2026-08-17T07:30:04Z",
+            "owner": "sorrycc",
+            "repo": "awesome-javascript",
+            "stars": 35015
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TypeScript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20929025,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T19:07:48Z",
+            "owner": "microsoft",
+            "repo": "TypeScript",
+            "stars": 110204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome TypeScript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 148978247,
+            "language": null,
+            "last_commit": "2026-08-09T15:23:34Z",
+            "owner": "semlinker",
+            "repo": "awesome-typescript",
+            "stars": 4042
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome TypeScript projects",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 82440765,
+            "language": "TypeScript",
+            "last_commit": "2023-06-13T19:31:34Z",
+            "owner": "brookshi",
+            "repo": "awesome-typescript-projects",
+            "stars": 894
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TypeScript Tips",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 567322406,
+            "language": null,
+            "last_commit": "2026-08-17T05:31:10Z",
+            "owner": "jellydn",
+            "repo": "typescript-tips",
+            "stars": 439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-TypeScript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 60059944,
+            "language": null,
+            "last_commit": "2024-06-07T13:45:10Z",
+            "owner": "ellerbrock",
+            "repo": "awesome-typescript",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Python",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21289110,
+            "language": "Python",
+            "last_commit": "2026-08-16T13:31:43Z",
+            "owner": "vinta",
+            "repo": "awesome-python",
+            "stars": 314853
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "30 Days of Python",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 222751131,
+            "language": "Python",
+            "last_commit": "2026-08-12T20:53:22Z",
+            "owner": "Asabeneh",
+            "repo": "30-Days-Of-Python",
+            "stars": 71370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python CheatSheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 118861276,
+            "language": "Python",
+            "last_commit": "2026-07-29T14:56:37Z",
+            "owner": "gto76",
+            "repo": "python-cheatsheet",
+            "stars": 38635
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python CheatSheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 118861276,
+            "language": "Python",
+            "last_commit": "2026-07-29T14:56:37Z",
+            "owner": "gto76",
+            "repo": "python-cheatsheet",
+            "stars": 38635
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Practical Python Programming",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 266613704,
+            "language": "Python",
+            "last_commit": "2025-12-22T19:51:29Z",
+            "owner": "dabeaz-course",
+            "repo": "practical-python",
+            "stars": 10828
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Python Books",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 55897437,
+            "language": null,
+            "last_commit": "2025-07-17T12:26:40Z",
+            "owner": "junnplus",
+            "repo": "awesome-python-books",
+            "stars": 4287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Python Books",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5556156,
+            "language": "CSS",
+            "last_commit": "2021-02-03T16:12:30Z",
+            "owner": "revolunet",
+            "repo": "PythonBooks",
+            "stars": 1958
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JavaScript Algorithm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 126577260,
+            "language": "JavaScript",
+            "last_commit": "2026-07-26T02:43:08Z",
+            "owner": "trekhleb",
+            "repo": "javascript-algorithms",
+            "stars": 196522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laws, Theories, Principles and Patterns for developers and technologists.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 118858739,
+            "language": "HTML",
+            "last_commit": "2026-05-19T06:22:17Z",
+            "owner": "dwmkerr",
+            "repo": "hacker-laws",
+            "stars": 27256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Algorithms",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21911597,
+            "language": null,
+            "last_commit": "2026-04-18T15:06:58Z",
+            "owner": "tayllan",
+            "repo": "awesome-algorithms",
+            "stars": 25459
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DS & A in JavaScript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 77558427,
+            "language": "JavaScript",
+            "last_commit": "2024-01-30T12:03:50Z",
+            "owner": "amejiarosario",
+            "repo": "dsa.js-data-structures-algorithms-javascript",
+            "stars": 7772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DS & A Problems",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22687036,
+            "language": "C++",
+            "last_commit": "2024-02-06T21:40:11Z",
+            "owner": "mandliya",
+            "repo": "algorithms_and_data_structures",
+            "stars": 6148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Algo Deck",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 237596051,
+            "language": "HTML",
+            "last_commit": "2025-12-09T20:42:35Z",
+            "owner": "teivah",
+            "repo": "algodeck",
+            "stars": 5836
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Coding Interview University",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 60493101,
+            "language": null,
+            "last_commit": "2025-08-28T14:42:47Z",
+            "owner": "jwasham",
+            "repo": "coding-interview-university",
+            "stars": 359199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Project based learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 88011908,
+            "language": "Python",
+            "last_commit": "2026-08-17T06:46:47Z",
+            "owner": "practical-tutorials",
+            "repo": "project-based-learning",
+            "stars": 279877
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Book of Secret Knowledge",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 138393139,
+            "language": null,
+            "last_commit": "2024-11-19T14:00:38Z",
+            "owner": "trimstray",
+            "repo": "the-book-of-secret-knowledge",
+            "stars": 239119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tech Interview Handbook",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 62607227,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T12:06:42Z",
+            "owner": "yangshun",
+            "repo": "tech-interview-handbook",
+            "stars": 141992
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Books",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 93441336,
+            "language": null,
+            "last_commit": "2026-03-04T15:38:20Z",
+            "owner": "linsa-io",
+            "repo": "books",
+            "stars": 7589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome DevTools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 163808917,
+            "language": null,
+            "last_commit": "2025-10-12T01:02:48Z",
+            "owner": "devtoolsd",
+            "repo": "awesome-devtools",
+            "stars": 675
+          }
+        }
+      ],
+      "title": "Programming languages"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "system-design-primer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 83222441,
+            "language": "Python",
+            "last_commit": "2026-03-20T01:52:19Z",
+            "owner": "donnemartin",
+            "repo": "system-design-primer",
+            "stars": 364830
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "system-design-101",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 693342566,
+            "language": null,
+            "last_commit": "2025-04-04T17:30:30Z",
+            "owner": "ByteByteGoHq",
+            "repo": "system-design-101",
+            "stars": 87319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "system-design",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 525105056,
+            "language": null,
+            "last_commit": "2026-07-08T00:36:51Z",
+            "owner": "karanpratapsingh",
+            "repo": "system-design",
+            "stars": 45636
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "System Design Learning Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 709589487,
+            "language": "Java",
+            "last_commit": "2026-02-16T18:32:29Z",
+            "owner": "ashishps1",
+            "repo": "awesome-system-design-resources",
+            "stars": 40764
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome System Design",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 93558276,
+            "language": null,
+            "last_commit": "2026-04-28T16:03:25Z",
+            "owner": "alexpate",
+            "repo": "awesome-design-systems",
+            "stars": 25739
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "system-design-interview",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19901248,
+            "language": null,
+            "last_commit": "2023-04-03T04:22:45Z",
+            "owner": "checkcheckzz",
+            "repo": "system-design-interview",
+            "stars": 23626
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "System Design Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 493934907,
+            "language": null,
+            "last_commit": "2025-07-16T22:41:39Z",
+            "owner": "InterviewReady",
+            "repo": "system-design-resources",
+            "stars": 18428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "System Design Preparation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 37711899,
+            "language": null,
+            "last_commit": "2024-05-10T19:49:11Z",
+            "owner": "shashank88",
+            "repo": "system_design",
+            "stars": 9245
+          }
+        }
+      ],
+      "title": "Software Design and Architecture"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome-test-automation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29977860,
+            "language": null,
+            "last_commit": "2025-11-28T16:02:39Z",
+            "owner": "atinfo",
+            "repo": "awesome-test-automation",
+            "stars": 7134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How they test?",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 249660426,
+            "language": "TypeScript",
+            "last_commit": "2026-08-02T16:08:38Z",
+            "owner": "abhivaikar",
+            "repo": "howtheytest",
+            "stars": 6864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Testing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 77133957,
+            "language": null,
+            "last_commit": "2026-08-06T00:22:20Z",
+            "owner": "TheJambo",
+            "repo": "awesome-testing",
+            "stars": 2347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Learning Resources For Software Testers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 89074073,
+            "language": null,
+            "last_commit": "2024-11-13T01:20:53Z",
+            "owner": "PaulWaltersDev",
+            "repo": "FreeLearningResourcesForSoftwareTesters",
+            "stars": 1224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Manual Testing - Test cases and Templates",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 104551127,
+            "language": null,
+            "last_commit": "2025-08-03T15:03:29Z",
+            "owner": "mfaisalkhatri",
+            "repo": "Manual_Testing",
+            "stars": 489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Test-Case_design",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 891510956,
+            "language": null,
+            "last_commit": "2025-09-18T14:34:41Z",
+            "owner": "Treeify-ai",
+            "repo": "Awesome-Test-Case-Design",
+            "stars": 43
+          }
+        }
+      ],
+      "title": "Software Testing"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Selenium with JavaScript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 210569465,
+            "language": "HTML",
+            "last_commit": "2026-08-18T05:20:34Z",
+            "owner": "SeleniumHQ",
+            "repo": "seleniumhq.github.io",
+            "stars": 1397
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Selenium",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22268536,
+            "language": null,
+            "last_commit": "2026-03-17T19:57:25Z",
+            "owner": "christian-bromann",
+            "repo": "awesome-selenium",
+            "stars": 1131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Selenium WebDriver example code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 436932767,
+            "language": "Java",
+            "last_commit": "2026-08-19T00:56:39Z",
+            "owner": "mfaisalkhatri",
+            "repo": "selenium4poc",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Playwright - Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 221981891,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T06:44:48Z",
+            "owner": "microsoft",
+            "repo": "playwright",
+            "stars": 94729
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Playwright",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 246150059,
+            "language": null,
+            "last_commit": "2026-08-12T21:41:13Z",
+            "owner": "mxschmitt",
+            "repo": "awesome-playwright",
+            "stars": 1556
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A detailed tutorial on Playwright & Test Runner",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 376892107,
+            "language": "TypeScript",
+            "last_commit": "2023-02-19T12:03:44Z",
+            "owner": "ortoniKC",
+            "repo": "Playwright-Test-Runner",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Sites to Test On",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 365120811,
+            "language": "JavaScript",
+            "last_commit": "2026-08-17T09:14:33Z",
+            "owner": "BMayhew",
+            "repo": "awesome-sites-to-test-on",
+            "stars": 1094
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Live Chat Playground",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 861801741,
+            "language": "TypeScript",
+            "last_commit": "2025-08-03T16:02:49Z",
+            "owner": "mfaisalkhatri",
+            "repo": "live-chat-playground",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Web Testing"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Keploy Open source - Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 449649393,
+            "language": "Go",
+            "last_commit": "2026-08-19T11:41:15Z",
+            "owner": "keploy",
+            "repo": "keploy",
+            "stars": 18399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rest Assured Usage Guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1011539,
+            "language": "Java",
+            "last_commit": "2026-07-22T08:35:07Z",
+            "owner": "rest-assured",
+            "repo": "rest-assured",
+            "stars": 7136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rest Assured Example code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 429911642,
+            "language": "Java",
+            "last_commit": "2026-08-03T16:45:00Z",
+            "owner": "mfaisalkhatri",
+            "repo": "rest-assured-examples",
+            "stars": 223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytest-dev/pytest",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 37489525,
+            "language": "Python",
+            "last_commit": "2026-08-19T11:45:23Z",
+            "owner": "pytest-dev",
+            "repo": "pytest",
+            "stars": 14429
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-pytest",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 110533057,
+            "language": null,
+            "last_commit": "2026-06-24T17:41:32Z",
+            "owner": "augustogoulart",
+            "repo": "awesome-pytest",
+            "stars": 573
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hoppscotch - Open-source alternative to Postman, Insomnia)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 203587744,
+            "language": "TypeScript",
+            "last_commit": "2026-08-16T19:17:55Z",
+            "owner": "hoppscotch",
+            "repo": "hoppscotch",
+            "stars": 80057
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Insomnia - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 56899284,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T09:25:46Z",
+            "owner": "Kong",
+            "repo": "insomnia",
+            "stars": 39956
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HTTPie CLI — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3544424,
+            "language": "Python",
+            "last_commit": "2024-12-17T17:30:35Z",
+            "owner": "httpie",
+            "repo": "cli",
+            "stars": 38431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hurl, run and test HTTP requests with plain text.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 290243101,
+            "language": "Rust",
+            "last_commit": "2026-08-19T08:00:58Z",
+            "owner": "Orange-OpenSource",
+            "repo": "hurl",
+            "stars": 19152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Karate DSL",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 81226206,
+            "language": "Java",
+            "last_commit": "2026-08-17T10:28:58Z",
+            "owner": "karatelabs",
+            "repo": "karate",
+            "stars": 8925
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xh - Friendly and fast tool for sending HTTP requests",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 294521053,
+            "language": "Rust",
+            "last_commit": "2026-08-16T21:58:33Z",
+            "owner": "ducaale",
+            "repo": "xh",
+            "stars": 8027
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Newman - Commandline collection runner for Postman",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17449493,
+            "language": "JavaScript",
+            "last_commit": "2026-08-05T06:42:35Z",
+            "owner": "postmanlabs",
+            "repo": "newman",
+            "stars": 7246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Requestly - Free and open-source API Client & Interceptor.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 75255555,
+            "language": null,
+            "last_commit": "2026-08-19T10:30:29Z",
+            "owner": "requestly",
+            "repo": "requestly",
+            "stars": 6750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "schemathesis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 203157084,
+            "language": "Python",
+            "last_commit": "2026-08-19T12:05:56Z",
+            "owner": "schemathesis",
+            "repo": "schemathesis",
+            "stars": 3538
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Restxox",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 428941158,
+            "language": "Vue",
+            "last_commit": "2026-07-03T22:18:31Z",
+            "owner": "flawiddsouza",
+            "repo": "Restfox",
+            "stars": 2743
+          }
+        }
+      ],
+      "title": "API Testing"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Appium Desktop",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 63558084,
+            "language": "JavaScript",
+            "last_commit": "2023-04-12T21:04:14Z",
+            "owner": "appium",
+            "repo": "appium-desktop",
+            "stars": 4808
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appium Inspector",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 355277962,
+            "language": "JavaScript",
+            "last_commit": "2026-08-19T11:54:02Z",
+            "owner": "appium",
+            "repo": "appium-inspector",
+            "stars": 1887
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Appium",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 64320099,
+            "language": null,
+            "last_commit": "2021-09-28T14:59:54Z",
+            "owner": "SrinivasanTarget",
+            "repo": "awesome-appium",
+            "stars": 464
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appium Gestures Plugin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 372508957,
+            "language": "JavaScript",
+            "last_commit": "2025-12-29T21:02:13Z",
+            "owner": "AppiumTestDistribution",
+            "repo": "appium-gestures-plugin",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appium Flutter Driver",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 197505662,
+            "language": "TypeScript",
+            "last_commit": "2026-08-17T03:53:45Z",
+            "owner": "appium",
+            "repo": "appium-flutter-driver",
+            "stars": 537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appium Flutter Finder Java",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 548310902,
+            "language": "Java",
+            "last_commit": "2025-10-12T09:17:47Z",
+            "owner": "ashwithpoojary98",
+            "repo": "javaflutterfinder",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebdriverIO - Native Demo app - Android/iOS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 147817294,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T16:14:54Z",
+            "owner": "webdriverio",
+            "repo": "native-demo-app",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sauce labs Android App",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 405314654,
+            "language": "Java",
+            "last_commit": "2026-08-11T21:52:32Z",
+            "owner": "saucelabs",
+            "repo": "my-demo-app-android",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sauce Labs iOS App",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 406408307,
+            "language": "Swift",
+            "last_commit": "2026-08-11T20:51:35Z",
+            "owner": "saucelabs",
+            "repo": "my-demo-app-ios",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "Mobile Testing"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "API Security Checklist",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 96641209,
+            "language": null,
+            "last_commit": "2026-07-21T07:59:55Z",
+            "owner": "shieldfy",
+            "repo": "API-Security-Checklist",
+            "stars": 23301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Security",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23208012,
+            "language": null,
+            "last_commit": "2026-01-11T02:00:26Z",
+            "owner": "sbilly",
+            "repo": "awesome-security",
+            "stars": 14766
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Web Security",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 80358070,
+            "language": "Python",
+            "last_commit": "2026-08-04T04:50:06Z",
+            "owner": "qazbnm456",
+            "repo": "awesome-web-security",
+            "stars": 13698
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Hacking",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 80358070,
+            "language": "Python",
+            "last_commit": "2026-08-04T04:50:06Z",
+            "owner": "qazbnm456",
+            "repo": "awesome-web-security",
+            "stars": 13698
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Security Testing Guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 91277330,
+            "language": "Python",
+            "last_commit": "2026-08-19T12:19:15Z",
+            "owner": "OWASP",
+            "repo": "wstg",
+            "stars": 9709
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Web Hacking",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 34994225,
+            "language": null,
+            "last_commit": "2026-08-13T15:21:19Z",
+            "owner": "infoslack",
+            "repo": "awesome-web-hacking",
+            "stars": 7235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Appsec",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 34877308,
+            "language": "PHP",
+            "last_commit": "2025-02-22T16:39:11Z",
+            "owner": "paragonie",
+            "repo": "awesome-appsec",
+            "stars": 7034
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ultimate DevSecOps library",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 138931215,
+            "language": null,
+            "last_commit": "2026-08-12T20:14:41Z",
+            "owner": "sottlmarek",
+            "repo": "DevSecOps",
+            "stars": 6839
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cybersecurity for Beginners",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 750629019,
+            "language": "HTML",
+            "last_commit": "2025-12-21T10:07:56Z",
+            "owner": "microsoft",
+            "repo": "Security-101",
+            "stars": 6810
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-api-security",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 287584589,
+            "language": null,
+            "last_commit": "2026-05-01T18:32:56Z",
+            "owner": "arainho",
+            "repo": "awesome-api-security",
+            "stars": 3859
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-api-security",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 287584589,
+            "language": null,
+            "last_commit": "2026-05-01T18:32:56Z",
+            "owner": "arainho",
+            "repo": "awesome-api-security",
+            "stars": 3859
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Mobile Security",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 231425210,
+            "language": null,
+            "last_commit": "2024-03-01T10:39:44Z",
+            "owner": "vaib25vicky",
+            "repo": "awesome-mobile-security",
+            "stars": 3524
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-DevSecOps",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 244098056,
+            "language": null,
+            "last_commit": "2024-08-02T12:52:41Z",
+            "owner": "jakob-pennington",
+            "repo": "awesome-devsecops",
+            "stars": 1714
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome CICD Security",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 461237668,
+            "language": null,
+            "last_commit": "2026-05-26T13:17:13Z",
+            "owner": "myugan",
+            "repo": "awesome-cicd-security",
+            "stars": 837
+          }
+        }
+      ],
+      "title": "Security Testing"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Grafana K6",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 54400687,
+            "language": "Go",
+            "last_commit": "2026-08-19T11:02:37Z",
+            "owner": "grafana",
+            "repo": "k6",
+            "stars": 31279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-k6",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 236692087,
+            "language": null,
+            "last_commit": "2026-08-18T23:40:48Z",
+            "owner": "grafana",
+            "repo": "awesome-k6",
+            "stars": 772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Performance Testing with K6",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 199486416,
+            "language": "JavaScript",
+            "last_commit": "2023-03-12T05:50:19Z",
+            "owner": "cajames",
+            "repo": "performance-testing-with-k6",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JMeter-Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 688352,
+            "language": "Java",
+            "last_commit": "2026-08-14T19:33:43Z",
+            "owner": "apache",
+            "repo": "jmeter",
+            "stars": 9510
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-JMeter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 37666064,
+            "language": "HTML",
+            "last_commit": "2026-08-01T02:02:30Z",
+            "owner": "aliesbelik",
+            "repo": "awesome-jmeter",
+            "stars": 807
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JMeter Maven Plugin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 971134,
+            "language": "Java",
+            "last_commit": "2025-01-03T19:17:10Z",
+            "owner": "jmeter-maven-plugin",
+            "repo": "jmeter-maven-plugin",
+            "stars": 439
+          }
+        }
+      ],
+      "title": "Performance Testing"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome MySQL",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32276625,
+            "language": "Python",
+            "last_commit": "2026-08-17T12:26:05Z",
+            "owner": "shlomi-noach",
+            "repo": "awesome-mysql",
+            "stars": 2607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome SQL",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27949400,
+            "language": null,
+            "last_commit": "2026-04-25T14:15:25Z",
+            "owner": "danhuss",
+            "repo": "awesome-sql",
+            "stars": 449
+          }
+        }
+      ],
+      "title": "Database Testing"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DevOps Exercises",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 212639071,
+            "language": "Python",
+            "last_commit": "2025-12-27T14:22:30Z",
+            "owner": "bregman-arie",
+            "repo": "devops-exercises",
+            "stars": 84151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Scalability",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 115478820,
+            "language": null,
+            "last_commit": "2026-01-04T03:51:47Z",
+            "owner": "binhnguyennus",
+            "repo": "awesome-scalability",
+            "stars": 73384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "90 Days Of DevOps",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 441903012,
+            "language": "Shell",
+            "last_commit": "2026-06-24T15:29:07Z",
+            "owner": "MichaelCade",
+            "repo": "90DaysOfDevOps",
+            "stars": 29658
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Kubernetes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 44315167,
+            "language": "Shell",
+            "last_commit": "2026-06-23T13:33:19Z",
+            "owner": "ramitsurana",
+            "repo": "awesome-kubernetes",
+            "stars": 16054
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A curated list of Site Reliability and Production Engineering resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 56103979,
+            "language": null,
+            "last_commit": "2025-08-28T14:43:14Z",
+            "owner": "dastergon",
+            "repo": "awesome-sre",
+            "stars": 13446
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A collection of Linux Sysadmin Test Questions and Answers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 144152935,
+            "language": null,
+            "last_commit": "2024-11-19T14:07:11Z",
+            "owner": "trimstray",
+            "repo": "test-your-sysadmin-skills",
+            "stars": 11834
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DevOps Guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 215599579,
+            "language": "HTML",
+            "last_commit": "2026-05-22T21:30:07Z",
+            "owner": "Tikam02",
+            "repo": "DevOps-Guide",
+            "stars": 9305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome DevSecOps",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 43963567,
+            "language": null,
+            "last_commit": "2024-05-11T17:48:07Z",
+            "owner": "devsecops",
+            "repo": "awesome-devsecops",
+            "stars": 5456
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-devops",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 222709217,
+            "language": "Python",
+            "last_commit": "2026-07-24T15:52:00Z",
+            "owner": "wmariuss",
+            "repo": "awesome-devops",
+            "stars": 4332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "veriqta/DEVOPS-WORLD",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 516735733,
+            "language": null,
+            "last_commit": "2026-07-02T11:44:06Z",
+            "owner": "veriqta",
+            "repo": "DEVOPS-WORLD",
+            "stars": 3479
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning DevOps",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 553120474,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T07:24:24Z",
+            "owner": "Pradumnasaraf",
+            "repo": "DevOps",
+            "stars": 3256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DevOps and IT Cheat-Sheet Collection",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 220934262,
+            "language": "HTML",
+            "last_commit": "2025-05-25T08:44:16Z",
+            "owner": "sk3pp3r",
+            "repo": "cheat-sheet-pdf",
+            "stars": 2387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-CIandCD",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27022152,
+            "language": null,
+            "last_commit": "2026-04-14T12:29:54Z",
+            "owner": "cicdops",
+            "repo": "awesome-ciandcd",
+            "stars": 2007
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cloud DevOps Learning Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 499400876,
+            "language": null,
+            "last_commit": "2024-06-24T08:44:49Z",
+            "owner": "ahmedtariq01",
+            "repo": "Cloud-DevOps-Learning-Resources",
+            "stars": 1977
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lets-DevOps/awesome-learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 49137518,
+            "language": null,
+            "last_commit": "2024-09-04T22:04:13Z",
+            "owner": "Lets-DevOps",
+            "repo": "awesome-learning",
+            "stars": 1657
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DevOps - Step by Step",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 332548472,
+            "language": "JavaScript",
+            "last_commit": "2026-03-10T18:58:25Z",
+            "owner": "MohamedRadwan-DevOps",
+            "repo": "devops-step-by-step",
+            "stars": 1130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DevOps Books",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 634370219,
+            "language": null,
+            "last_commit": "2024-09-25T23:23:23Z",
+            "owner": "DevOps-Projects-Ideas",
+            "repo": "DevOps-Books",
+            "stars": 706
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Devops Books",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 199429519,
+            "language": null,
+            "last_commit": "2018-05-07T13:40:57Z",
+            "owner": "ahmedamsaleh",
+            "repo": "Free-DevOps-Books-1",
+            "stars": 255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Docker Compose",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 240215314,
+            "language": "HTML",
+            "last_commit": "2026-08-15T19:45:19Z",
+            "owner": "docker",
+            "repo": "awesome-compose",
+            "stars": 46117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docke Compose GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15045751,
+            "language": "Go",
+            "last_commit": "2026-08-19T11:46:33Z",
+            "owner": "docker",
+            "repo": "compose",
+            "stars": 38048
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "veggiemonk/awesome-docker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24297122,
+            "language": null,
+            "last_commit": "2026-08-18T20:54:04Z",
+            "owner": "veggiemonk",
+            "repo": "awesome-docker",
+            "stars": 36668
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docker Cheat Sheet - GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22657662,
+            "language": null,
+            "last_commit": "2024-12-31T03:00:47Z",
+            "owner": "wsargent",
+            "repo": "docker-cheat-sheet",
+            "stars": 22540
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docker Labs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 56728437,
+            "language": "PHP",
+            "last_commit": "2023-07-27T10:31:38Z",
+            "owner": "docker-archive-public",
+            "repo": "docker.labs",
+            "stars": 11897
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DockerLabs - Getting Started with Docker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 153069455,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T17:31:36Z",
+            "owner": "collabnix",
+            "repo": "dockerlabs",
+            "stars": 8029
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docker Curriculum GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 47304932,
+            "language": "CSS",
+            "last_commit": "2026-08-12T01:12:01Z",
+            "owner": "prakhar1989",
+            "repo": "docker-curriculum",
+            "stars": 6081
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Docker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 161267780,
+            "language": "PHP",
+            "last_commit": "2019-10-24T01:53:58Z",
+            "owner": "willitscale",
+            "repo": "learning-docker",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How to Secure a Linux Server",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 169839893,
+            "language": null,
+            "last_commit": "2026-07-13T18:25:52Z",
+            "owner": "imthenachoman",
+            "repo": "How-To-Secure-A-Linux-Server",
+            "stars": 30295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Linux Software",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 65083316,
+            "language": "HTML",
+            "last_commit": "2026-05-03T08:15:18Z",
+            "owner": "luong-komorebi",
+            "repo": "Awesome-Linux-Software",
+            "stars": 25572
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Linux Basics - KodeKloud",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 266641317,
+            "language": null,
+            "last_commit": "2024-07-18T17:32:22Z",
+            "owner": "kodekloudhub",
+            "repo": "linux-basics-course",
+            "stars": 2063
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-tf",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 58478671,
+            "language": null,
+            "last_commit": "2026-07-27T07:32:27Z",
+            "owner": "shuaibiyy",
+            "repo": "awesome-tf",
+            "stars": 6571
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Infrastructure as code - Terraform Tutorials",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 118977874,
+            "language": null,
+            "last_commit": "2022-11-19T00:17:00Z",
+            "owner": "Artemmkin",
+            "repo": "infrastructure-as-code-tutorial",
+            "stars": 2307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Terraform - Azure",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 123993651,
+            "language": "HCL",
+            "last_commit": "2023-12-06T14:27:12Z",
+            "owner": "Azure",
+            "repo": "awesome-terraform",
+            "stars": 180
+          }
+        }
+      ],
+      "title": "DevOps"
+    },
+    {
+      "description": "NodeMaven is a proxy provider that provides reliable residential proxies using which automation tests could be run to overcome IP blocks.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TestNG GitHub repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 745749,
+            "language": "Java",
+            "last_commit": "2026-08-19T12:11:02Z",
+            "owner": "testng-team",
+            "repo": "testng",
+            "stars": 2059
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TestNG Eclipse Plugin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 745766,
+            "language": "Java",
+            "last_commit": "2026-02-15T06:56:21Z",
+            "owner": "testng-team",
+            "repo": "testng-eclipse",
+            "stars": 197
+          }
+        }
+      ],
+      "title": "QA Assistance tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LLM Course - Roadmaps + Notebooks - GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 655099582,
+            "language": null,
+            "last_commit": "2026-02-05T13:09:26Z",
+            "owner": "mlabonne",
+            "repo": "llm-course",
+            "stars": 81814
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Agents for Beginners",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 895508656,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-18T11:47:04Z",
+            "owner": "microsoft",
+            "repo": "ai-agents-for-beginners",
+            "stars": 72667
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI for Beginners",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 344190478,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-21T11:11:48Z",
+            "owner": "microsoft",
+            "repo": "AI-For-Beginners",
+            "stars": 65595
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LocalAI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 615869301,
+            "language": "Go",
+            "last_commit": "2026-08-19T12:06:13Z",
+            "owner": "mudler",
+            "repo": "LocalAI",
+            "stars": 48572
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Data Science for Beginners",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 344191198,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-11T19:43:58Z",
+            "owner": "microsoft",
+            "repo": "Data-Science-For-Beginners",
+            "stars": 36650
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Promptfoo - Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 633927609,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T12:21:50Z",
+            "owner": "promptfoo",
+            "repo": "promptfoo",
+            "stars": 24372
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IoT for Beginners",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 344192338,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-26T21:50:02Z",
+            "owner": "microsoft",
+            "repo": "IoT-For-Beginners",
+            "stars": 17001
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learn AI Engineering",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 964477695,
+            "language": null,
+            "last_commit": "2026-02-05T02:34:40Z",
+            "owner": "ashishps1",
+            "repo": "learn-ai-engineering",
+            "stars": 5937
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Machine Learning for Beginners",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 343965132,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-12T11:03:44Z",
+            "owner": "microsoft",
+            "repo": "ML-For-Beginners",
+            "stars": 89520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Machine Learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21872392,
+            "language": "Python",
+            "last_commit": "2026-08-11T21:49:59Z",
+            "owner": "josephmisiti",
+            "repo": "awesome-machine-learning",
+            "stars": 74070
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "100 Days of ML Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 139824423,
+            "language": null,
+            "last_commit": "2023-12-29T07:57:53Z",
+            "owner": "Avik-Jain",
+            "repo": "100-Days-Of-ML-Code",
+            "stars": 51650
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Made with ML",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 156157055,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-04T23:44:21Z",
+            "owner": "GokuMohandas",
+            "repo": "Made-With-ML",
+            "stars": 49139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ML from Scratch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 80990461,
+            "language": "Python",
+            "last_commit": "2023-10-15T06:05:06Z",
+            "owner": "eriklindernoren",
+            "repo": "ML-From-Scratch",
+            "stars": 32494
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Applied ML",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 277168957,
+            "language": null,
+            "last_commit": "2024-07-18T22:41:02Z",
+            "owner": "eugeneyan",
+            "repo": "applied-ml",
+            "stars": 30069
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ML Algorithms",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 70036319,
+            "language": "Python",
+            "last_commit": "2026-05-07T06:48:35Z",
+            "owner": "rushter",
+            "repo": "MLAlgorithms",
+            "stars": 11166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mlcourse.ai",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 83286964,
+            "language": "Python",
+            "last_commit": "2026-03-01T09:12:51Z",
+            "owner": "Yorko",
+            "repo": "mlcourse.ai",
+            "stars": 10687
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Machine Learning Tools in JavaScript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25819289,
+            "language": "JavaScript",
+            "last_commit": "2024-10-21T07:02:43Z",
+            "owner": "mljs",
+            "repo": "ml",
+            "stars": 2716
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A collection of papers and resources about the utilization of large language models (LLMs) in software testing.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 740346958,
+            "language": null,
+            "last_commit": "2024-01-10T02:39:00Z",
+            "owner": "LLM-Testing",
+            "repo": "LLM4SoftwareTesting",
+            "stars": 529
+          }
+        }
+      ],
+      "title": "AI/ML Learning Materials"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:46:13.461Z",
+    "last_updated": "2026-08-19T12:37:04.240Z",
     "original_repository": "mfaisalkhatri/awesome-learning",
+    "original_repository_id": 590043905,
     "original_repository_sha": "dc021ec84b24bc03b226bb23d97eb2b93ebe07e3",
     "enhanced_repository": "enhansome/enhansome-learning",
     "enhanced_repository_description": null,
