@@ -10,12 +10,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DevOps Roadmap for 2026. with learning resources",
+            "homepage": "https://newsletter.techworld-with-milan.com/",
             "id": 556191546,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-07-14T15:33:20Z",
+            "open_issues": 11,
             "owner": "milanm",
             "repo": "DevOps-Roadmap",
-            "stars": 20382
+            "stars": 20384,
+            "topics": [
+              "aws",
+              "azure",
+              "computer-science",
+              "continous-delivery",
+              "continuous-integration",
+              "developer-roadmap",
+              "devops",
+              "devops-roadmap",
+              "docker",
+              "go",
+              "grafana",
+              "jira",
+              "kubernetes",
+              "linux",
+              "prometheus",
+              "python",
+              "roadmap",
+              "sre",
+              "study-plan"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -26,12 +51,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":books: The starting point of your career as a Software Quality Assurance Engineer | Quality Automation Engineer :books:",
+            "homepage": null,
             "id": 121133891,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-06-04T11:08:57Z",
+            "open_issues": 9,
             "owner": "fityanos",
             "repo": "awesome-quality-assurance-roadmap",
-            "stars": 2170
+            "stars": 2170,
+            "topics": [
+              "api-testing",
+              "automation-test",
+              "awesome",
+              "awesome-list",
+              "career",
+              "e2e-testing",
+              "qa",
+              "quality-engineering",
+              "roadmap",
+              "software-testing",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -42,12 +84,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of threat modeling resources (Books, courses - free and paid, videos, tools, tutorials and workshops to practice on ) for learning Threat modeling and initial phases of security review.",
+            "homepage": "https://www.practical-devsecops.com/devsecops-university/",
             "id": 230712512,
             "language": "Dockerfile",
+            "license": "CC0-1.0",
             "last_commit": "2024-08-02T19:02:17Z",
+            "open_issues": 23,
             "owner": "hysnsec",
             "repo": "awesome-threat-modelling",
-            "stars": 1803
+            "stars": 1803,
+            "topics": [
+              "appsec",
+              "awesome",
+              "awesome-list",
+              "devsecops",
+              "devsecops-university",
+              "practical-devsecops",
+              "security-review",
+              "threat-modeling"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -64,12 +120,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Design patterns implemented in Java",
+            "homepage": "https://java-design-patterns.com",
             "id": 22790488,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T04:52:07Z",
+            "open_issues": 135,
             "owner": "iluwatar",
             "repo": "java-design-patterns",
-            "stars": 94634
+            "stars": 94632,
+            "topics": [
+              "awesome-list",
+              "design-patterns",
+              "hacktoberfest",
+              "java",
+              "principles",
+              "snippets",
+              "snippets-collection",
+              "snippets-library"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -80,12 +150,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "All Algorithms implemented in Java",
+            "homepage": null,
             "id": 63477660,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-08-28T21:43:53Z",
+            "open_issues": 12,
             "owner": "TheAlgorithms",
             "repo": "Java",
-            "stars": 66195
+            "stars": 66196,
+            "topics": [
+              "algorithm",
+              "algorithm-challenges",
+              "algorithms",
+              "algorithms-datastructures",
+              "data-structures",
+              "hacktoberfest",
+              "java",
+              "search",
+              "sort",
+              "sorting-algorithms"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -96,12 +182,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome frameworks, libraries and software for the Java programming language.",
+            "homepage": null,
             "id": 21648001,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-24T00:59:50Z",
+            "open_issues": 3,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48877
+            "stars": 48878,
+            "topics": [
+              "awesome",
+              "awesome-list"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -112,12 +206,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of best resources to learn System Design, Software architecture, and prepare for System Design Interviews",
+            "homepage": null,
             "id": 796185465,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-31T10:23:52Z",
+            "open_issues": 4,
             "owner": "javabuddy",
             "repo": "best-system-design-resources",
-            "stars": 4439
+            "stars": 4439,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -128,12 +227,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Best practices in Coding, Designing and Architecting Java Applications",
+            "homepage": "https://cloud.in28minutes.com",
             "id": 69795103,
             "language": null,
+            "license": null,
             "last_commit": "2023-10-07T16:15:12Z",
+            "open_issues": 2,
             "owner": "in28minutes",
             "repo": "java-best-practices",
-            "stars": 1450
+            "stars": 1450,
+            "topics": [
+              "architecture",
+              "best-practices",
+              "java-application",
+              "microservices-architecture",
+              "service-consumer"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -144,12 +254,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code and lessons from \"30 Days Of Code\" put together by @BlondieBytes. Topics include variables, methods, binary search trees and more. It is a general, yet thorough, introduction to Java.",
+            "homepage": null,
             "id": 390065923,
             "language": "Java",
+            "license": null,
             "last_commit": "2021-07-27T17:52:58Z",
+            "open_issues": 5,
             "owner": "AaronGalloway",
             "repo": "30-Days-Of-Java",
-            "stars": 160
+            "stars": 160,
+            "topics": [
+              "arrays",
+              "binary-search-tree",
+              "java",
+              "library"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -166,12 +286,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+            "homepage": null,
             "id": 229764465,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-27T12:03:08Z",
+            "open_issues": 371,
             "owner": "Asabeneh",
             "repo": "30-Days-Of-JavaScript",
-            "stars": 46744
+            "stars": 46745,
+            "topics": [
+              "30daysofjavascript",
+              "angular",
+              "challenge",
+              "css",
+              "d3",
+              "d3js",
+              "html",
+              "javascript",
+              "javascript-for-everyone",
+              "js",
+              "json",
+              "node",
+              "nodejs",
+              "programming",
+              "react",
+              "redux",
+              "typescript",
+              "vue",
+              "webdevelopment",
+              "website"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -182,12 +328,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.",
+            "homepage": null,
             "id": 21393871,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-19T17:00:42Z",
+            "open_issues": 31,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35022
+            "stars": 35022,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -204,12 +355,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+            "homepage": "https://www.typescriptlang.org",
             "id": 20929025,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-29T00:01:59Z",
+            "open_issues": 5166,
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110752
+            "stars": 110758,
+            "topics": [
+              "javascript",
+              "language",
+              "typechecker",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -220,12 +381,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome TypeScript resources for client-side and server-side development",
+            "homepage": null,
             "id": 148978247,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-22T02:15:33Z",
+            "open_issues": 107,
             "owner": "semlinker",
             "repo": "awesome-typescript",
-            "stars": 4045
+            "stars": 4045,
+            "topics": [
+              "awesome-list",
+              "react-typescripts",
+              "typescript",
+              "vue-typescript"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -236,12 +407,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "awesome typescript open source projects, includes IDE, Framework, Library, Tool",
+            "homepage": null,
             "id": 82440765,
             "language": "TypeScript",
+            "license": "Unlicense",
             "last_commit": "2023-06-13T19:31:34Z",
+            "open_issues": 11,
             "owner": "brookshi",
             "repo": "awesome-typescript-projects",
-            "stars": 896
+            "stars": 896,
+            "topics": [
+              "awesome",
+              "project",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -252,12 +432,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome 🔥 TypeScript Tips 🔥",
+            "homepage": "https://jellydn.github.io/typescript-tips/",
             "id": 567322406,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-17T05:31:10Z",
+            "open_issues": 1,
             "owner": "jellydn",
             "repo": "typescript-tips",
-            "stars": 440
+            "stars": 440,
+            "topics": [
+              "awesome-list",
+              "hacktoberfest",
+              "tips-and-tricks",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -268,12 +458,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":star2: A collection of awesome TypeScript resources.",
+            "homepage": "https://ellerbrock.github.io/awesome-typescript",
             "id": 60059944,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2024-06-07T13:45:10Z",
+            "open_issues": 6,
             "owner": "ellerbrock",
             "repo": "awesome-typescript",
-            "stars": 77
+            "stars": 77,
+            "topics": [
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -290,12 +487,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+            "homepage": "https://awesome-python.com/",
             "id": 21289110,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T04:08:40Z",
+            "open_issues": 19,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 316778
+            "stars": 316807,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "python",
+              "python-frameworks",
+              "python-libraries",
+              "python-tools"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -306,12 +515,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+            "homepage": null,
             "id": 222751131,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-27T11:58:35Z",
+            "open_issues": 200,
             "owner": "Asabeneh",
             "repo": "30-Days-Of-Python",
-            "stars": 72126
+            "stars": 72134,
+            "topics": [
+              "30-days-of-python",
+              "data",
+              "data-science",
+              "database",
+              "flask",
+              "fullstack",
+              "github",
+              "heroku",
+              "matplotlib",
+              "ml",
+              "mongodb",
+              "numpy",
+              "pandas",
+              "python",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -322,12 +552,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Comprehensive Python Cheatsheet",
+            "homepage": "https://gto76.github.io/python-cheatsheet/",
             "id": 118861276,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-29T14:56:37Z",
+            "open_issues": 0,
             "owner": "gto76",
             "repo": "python-cheatsheet",
-            "stars": 38643
+            "stars": 38643,
+            "topics": [
+              "cheatsheet",
+              "python",
+              "python-cheatsheet",
+              "reference"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -338,12 +578,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Comprehensive Python Cheatsheet",
+            "homepage": "https://gto76.github.io/python-cheatsheet/",
             "id": 118861276,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-29T14:56:37Z",
+            "open_issues": 0,
             "owner": "gto76",
             "repo": "python-cheatsheet",
-            "stars": 38643
+            "stars": 38643,
+            "topics": [
+              "cheatsheet",
+              "python",
+              "python-cheatsheet",
+              "reference"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -354,12 +604,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Practical Python Programming (course by @dabeaz)",
+            "homepage": "https://dabeaz-course.github.io/practical-python",
             "id": 266613704,
             "language": "Python",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2025-12-22T19:51:29Z",
+            "open_issues": 3,
             "owner": "dabeaz-course",
             "repo": "practical-python",
-            "stars": 10842
+            "stars": 10842,
+            "topics": [
+              "python",
+              "pythontutorial",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -370,12 +629,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":books: Directory of Python books",
+            "homepage": null,
             "id": 55897437,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2025-07-17T12:26:40Z",
+            "open_issues": 8,
             "owner": "junnplus",
             "repo": "awesome-python-books",
-            "stars": 4292
+            "stars": 4292,
+            "topics": [
+              "book",
+              "learning-python",
+              "python-book",
+              "python-cookbook",
+              "python-programming"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -386,12 +656,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Directory of free Python ebooks",
+            "homepage": "http://pythonbooks.revolunet.com",
             "id": 5556156,
             "language": "CSS",
+            "license": null,
             "last_commit": "2021-02-03T16:12:30Z",
+            "open_issues": 8,
             "owner": "revolunet",
             "repo": "PythonBooks",
-            "stars": 1957
+            "stars": 1957,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -408,12 +683,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+            "homepage": null,
             "id": 126577260,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-26T02:43:08Z",
+            "open_issues": 404,
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196576
+            "stars": 196577,
+            "topics": [
+              "algorithm",
+              "algorithms",
+              "computer-science",
+              "data-structures",
+              "interview",
+              "interview-preparation",
+              "javascript",
+              "javascript-algorithms"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -424,12 +713,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧠 Laws, Theories, Principles and Patterns for developers and technologists.",
+            "homepage": "http://hacker-laws.com/",
             "id": 118858739,
             "language": "HTML",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-05-19T06:22:17Z",
+            "open_issues": 152,
             "owner": "dwmkerr",
             "repo": "hacker-laws",
-            "stars": 27273
+            "stars": 27273,
+            "topics": [
+              "coding",
+              "computerscience",
+              "laws",
+              "principles"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -440,12 +739,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome places to learn and/or practice algorithms.",
+            "homepage": null,
             "id": 21911597,
             "language": null,
+            "license": null,
             "last_commit": "2026-04-18T15:06:58Z",
+            "open_issues": 1,
             "owner": "tayllan",
             "repo": "awesome-algorithms",
-            "stars": 25476
+            "stars": 25477,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -456,12 +760,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🥞Data Structures and Algorithms explained and implemented in JavaScript + eBook",
+            "homepage": "https://books.adrianmejia.com",
             "id": 77558427,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-01-30T12:03:50Z",
+            "open_issues": 8,
             "owner": "amejiarosario",
             "repo": "dsa.js-data-structures-algorithms-javascript",
-            "stars": 7776
+            "stars": 7776,
+            "topics": [
+              "algorithm",
+              "algorithms",
+              "book",
+              "coding-interviews",
+              "computer-science",
+              "data-structures",
+              "graph",
+              "heap",
+              "javascript",
+              "javascript-algorithms",
+              "search",
+              "tree"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -472,12 +794,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "180+ Algorithm & Data Structure Problems using C++",
+            "homepage": null,
             "id": 22687036,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2024-02-06T21:40:11Z",
+            "open_issues": 171,
             "owner": "mandliya",
             "repo": "algorithms_and_data_structures",
-            "stars": 6153
+            "stars": 6153,
+            "topics": [
+              "algorithm",
+              "bit-manipulation",
+              "c",
+              "c-plus-plus",
+              "cpp",
+              "data-structures",
+              "datastructures",
+              "interview-practice",
+              "interview-questions",
+              "leetcode",
+              "leetcode-solutions",
+              "string-manipulation",
+              "tree"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -488,12 +829,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Open-Source Collection of Flash Cards to Help You Preparing Your Algorithms & Data Structures and System Design Interviews 💯",
+            "homepage": "https://deckly.dev/",
             "id": 237596051,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-09T20:42:35Z",
+            "open_issues": 0,
             "owner": "teivah",
             "repo": "algodeck",
-            "stars": 5836
+            "stars": 5836,
+            "topics": [
+              "algorithm",
+              "algorithms",
+              "array",
+              "bit-manipulation",
+              "complexity",
+              "data-structures",
+              "dynamic-programming",
+              "graph",
+              "greedy-algorithms",
+              "hashtable",
+              "heap",
+              "interview-practice",
+              "java",
+              "linked-list",
+              "math",
+              "queue",
+              "recursion",
+              "sorting-algorithms",
+              "stack",
+              "tree"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -510,12 +877,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A complete computer science study plan to become a software engineer.",
+            "homepage": null,
             "id": 60493101,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2025-08-28T14:42:47Z",
+            "open_issues": 126,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 359915
+            "stars": 359924,
+            "topics": [
+              "algorithm",
+              "algorithms",
+              "coding-interview",
+              "coding-interviews",
+              "computer-science",
+              "data-structures",
+              "interview",
+              "interview-prep",
+              "interview-preparation",
+              "programming-interviews",
+              "software-engineering",
+              "study-plan"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -526,12 +911,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of project-based tutorials",
+            "homepage": null,
             "id": 88011908,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T07:38:50Z",
+            "open_issues": 271,
             "owner": "practical-tutorials",
             "repo": "project-based-learning",
-            "stars": 281193
+            "stars": 281200,
+            "topics": [
+              "beginner-project",
+              "cpp",
+              "golang",
+              "javascript",
+              "project",
+              "python",
+              "tutorial",
+              "webdevelopment"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -542,12 +941,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+            "homepage": null,
             "id": 138393139,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-11-19T14:00:38Z",
+            "open_issues": 170,
             "owner": "trimstray",
             "repo": "the-book-of-secret-knowledge",
-            "stars": 240887
+            "stars": 240937,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "bsd",
+              "cheatsheets",
+              "devops",
+              "guidelines",
+              "hacking",
+              "hacks",
+              "howtos",
+              "linux",
+              "lists",
+              "manuals",
+              "one-liners",
+              "pentesters",
+              "resources",
+              "search-engines",
+              "security",
+              "security-researchers",
+              "sysops"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -558,12 +982,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated coding interview preparation materials for busy software engineers",
+            "homepage": "https://www.techinterviewhandbook.org",
             "id": 62607227,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-07T12:06:42Z",
+            "open_issues": 35,
             "owner": "yangshun",
             "repo": "tech-interview-handbook",
-            "stars": 142269
+            "stars": 142270,
+            "topics": [
+              "algorithm",
+              "algorithm-interview",
+              "algorithm-interview-questions",
+              "algorithms",
+              "behavioral-interviews",
+              "coding-interviews",
+              "interview-practice",
+              "interview-preparation",
+              "interview-questions",
+              "system-design"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -574,12 +1014,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Books",
+            "homepage": null,
             "id": 93441336,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-04T15:38:20Z",
+            "open_issues": 15,
             "owner": "linsa-io",
             "repo": "books",
-            "stars": 7613
+            "stars": 7613,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "books",
+              "education",
+              "free",
+              "learn-anything",
+              "learning",
+              "list",
+              "pdf",
+              "resources"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -590,12 +1046,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome developer tools and services — from cloud platforms and IDEs to AI-powered coding assistants and productivity utilities.",
+            "homepage": null,
             "id": 163808917,
             "language": null,
+            "license": "Unlicense",
             "last_commit": "2025-10-12T01:02:48Z",
+            "open_issues": 238,
             "owner": "devtoolsd",
             "repo": "awesome-devtools",
-            "stars": 676
+            "stars": 676,
+            "topics": [
+              "alternatives",
+              "antigravity",
+              "awesome",
+              "awesome-devtools",
+              "awesome-lists",
+              "cursor",
+              "cursor-ai",
+              "cursor-rules",
+              "dev",
+              "dev-tools",
+              "develop",
+              "developer",
+              "developer-tools",
+              "development",
+              "development-tools",
+              "devops-tools",
+              "devtool",
+              "devtools",
+              "open-source",
+              "oss"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -612,12 +1094,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":books: Freely available programming books",
+            "homepage": "https://ebookfoundation.github.io/free-programming-books/",
             "id": 13491895,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-08-18T14:16:15Z",
+            "open_issues": 92,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395465
+            "stars": 395483,
+            "topics": [
+              "books",
+              "education",
+              "hacktoberfest",
+              "list",
+              "resource"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -634,12 +1127,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+            "homepage": null,
             "id": 83222441,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-20T01:52:19Z",
+            "open_issues": 613,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 366585
+            "stars": 366602,
+            "topics": [
+              "design",
+              "design-patterns",
+              "design-system",
+              "development",
+              "interview",
+              "interview-practice",
+              "interview-questions",
+              "programming",
+              "python",
+              "system",
+              "web",
+              "web-application",
+              "webapp"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -650,12 +1162,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+            "homepage": "https://bytebytego.com/guides",
             "id": 693342566,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2025-04-04T17:30:30Z",
+            "open_issues": 67,
             "owner": "ByteByteGoHq",
             "repo": "system-design-101",
-            "stars": 87693
+            "stars": 87695,
+            "topics": [
+              "aws",
+              "cloud-computing",
+              "coding-interviews",
+              "computer-science",
+              "interview-questions",
+              "software-architecture",
+              "software-development",
+              "software-engineering",
+              "system-design",
+              "system-design-interview"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -666,12 +1194,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learn how to design systems at scale and prepare for system design interviews",
+            "homepage": "https://leanpub.com/systemdesign",
             "id": 525105056,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-07-08T00:36:51Z",
+            "open_issues": 4,
             "owner": "karanpratapsingh",
             "repo": "system-design",
-            "stars": 45833
+            "stars": 45836,
+            "topics": [
+              "architecture",
+              "distributed-systems",
+              "engineering",
+              "interview",
+              "interview-preparation",
+              "microservices",
+              "scalability",
+              "system-design",
+              "system-design-interview",
+              "tech"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -682,12 +1226,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learn System Design concepts and prepare for interviews using free resources.",
+            "homepage": "https://algomaster.io",
             "id": 709589487,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-02-16T18:32:29Z",
+            "open_issues": 16,
             "owner": "ashishps1",
             "repo": "awesome-system-design-resources",
-            "stars": 41011
+            "stars": 41012,
+            "topics": [
+              "awesome",
+              "backend",
+              "computer-science",
+              "distributed-systems",
+              "high-level-design",
+              "hld",
+              "interview",
+              "interview-questions",
+              "scalability",
+              "system-design"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -698,12 +1258,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💅🏻 ⚒ A collection of awesome design systems",
+            "homepage": "https://git.io/design-systems",
             "id": 93558276,
             "language": null,
+            "license": "Unlicense",
             "last_commit": "2026-04-28T16:03:25Z",
+            "open_issues": 23,
             "owner": "alexpate",
             "repo": "awesome-design-systems",
-            "stars": 25817
+            "stars": 25818,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "design-systems",
+              "hacktoberfest",
+              "pattern-library",
+              "ui-library"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -714,12 +1286,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "System design interview for IT companies",
+            "homepage": null,
             "id": 19901248,
             "language": null,
+            "license": null,
             "last_commit": "2023-04-03T04:22:45Z",
+            "open_issues": 26,
             "owner": "checkcheckzz",
             "repo": "system-design-interview",
-            "stars": 23651
+            "stars": 23651,
+            "topics": [
+              "design-systems",
+              "interview",
+              "interview-preparation",
+              "interview-questions",
+              "system",
+              "system-design"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -730,12 +1314,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "These are the best resources for System Design on the Internet",
+            "homepage": "https://interviewready.io",
             "id": 493934907,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2025-07-16T22:41:39Z",
+            "open_issues": 2,
             "owner": "InterviewReady",
             "repo": "system-design-resources",
-            "stars": 18459
+            "stars": 18460,
+            "topics": [
+              "cache",
+              "fault-tolerance",
+              "scalability",
+              "system-design"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -746,12 +1340,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Preparation links and resources for system design questions",
+            "homepage": null,
             "id": 37711899,
             "language": null,
+            "license": null,
             "last_commit": "2024-05-10T19:49:11Z",
+            "open_issues": 14,
             "owner": "shashank88",
             "repo": "system_design",
-            "stars": 9249
+            "stars": 9249,
+            "topics": [
+              "architecture",
+              "concurrency",
+              "engineering",
+              "facebook",
+              "interview",
+              "interview-preparation",
+              "interview-preparation-resources",
+              "interview-questions",
+              "preparation",
+              "scalability",
+              "scale-systems",
+              "system-design"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -768,12 +1380,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by https://zapple.tech and https://automated-testing.info",
+            "homepage": "https://testomat.io",
             "id": 29977860,
             "language": null,
+            "license": null,
             "last_commit": "2025-11-28T16:02:39Z",
+            "open_issues": 135,
             "owner": "atinfo",
             "repo": "awesome-test-automation",
-            "stars": 7147
+            "stars": 7147,
+            "topics": [
+              "android",
+              "awesome",
+              "awesome-list",
+              "build-automation",
+              "c-sharp",
+              "framework",
+              "ios",
+              "java",
+              "javascript",
+              "kotlin",
+              "load-testing",
+              "mobile",
+              "performance-testing",
+              "php",
+              "python",
+              "ruby",
+              "software-quality",
+              "software-testing",
+              "test-automation",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -784,12 +1422,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of public resources about how software companies test their software",
+            "homepage": "https://abhivaikar.github.io/howtheytest/",
             "id": 249660426,
             "language": "TypeScript",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-22T05:12:59Z",
+            "open_issues": 3,
             "owner": "abhivaikar",
             "repo": "howtheytest",
-            "stars": 6865
+            "stars": 6865,
+            "topics": [
+              "companies",
+              "culture",
+              "knowledge",
+              "knowledge-sharing",
+              "quality",
+              "quality-engineering",
+              "software-quality",
+              "software-testing",
+              "test-engineering",
+              "testing",
+              "testing-practices"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -800,12 +1455,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of testing resources",
+            "homepage": "https://git.io/v1hSm",
             "id": 77133957,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-28T21:20:23Z",
+            "open_issues": 5,
             "owner": "TheJambo",
             "repo": "awesome-testing",
-            "stars": 2359
+            "stars": 2359,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "list",
+              "naughty-strings",
+              "tester",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -816,12 +1483,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A New Project to create a set of links to free Online Learning Resources for New and Experienced Software Testers.",
+            "homepage": null,
             "id": 89074073,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-11-13T01:20:53Z",
+            "open_issues": 4,
             "owner": "PaulWaltersDev",
             "repo": "FreeLearningResourcesForSoftwareTesters",
-            "stars": 1232
+            "stars": 1232,
+            "topics": [
+              "automation",
+              "exploratory",
+              "software",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -832,12 +1509,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains General Test Cases for performing Manual Testing on the Web/Mobile application. It also has Test cases related to API Testing. Templates related to Test Plan and BugBash are also updated.",
+            "homepage": "https://mfaisalkhatri.github.io",
             "id": 104551127,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2025-08-03T15:03:29Z",
+            "open_issues": 1,
             "owner": "mfaisalkhatri",
             "repo": "Manual_Testing",
-            "stars": 490
+            "stars": 490,
+            "topics": [
+              "apitesting",
+              "beginner",
+              "examples",
+              "learning",
+              "mobiletesting",
+              "software-testing",
+              "templates",
+              "test-cases",
+              "testcases",
+              "testing",
+              "testing-practices",
+              "tests",
+              "tutorial",
+              "tutorials",
+              "validation",
+              "webtesting"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -848,12 +1547,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Master the art and science of test case design. Here, you’ll find 🔑foundational concepts, 🚀advanced techniques, 🌍real-world examples, and 📈innovative tools to take your QA skills to the next level.",
+            "homepage": "https://treeifyai.com",
             "id": 891510956,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2025-09-18T14:34:41Z",
+            "open_issues": 1,
             "owner": "Treeify-ai",
             "repo": "Awesome-Test-Case-Design",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "quality-assurance",
+              "software-testing",
+              "test-case",
+              "test-case-design",
+              "test-case-generation",
+              "test-case-writing",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -870,12 +1582,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of free software testing books",
+            "homepage": "https://bronevichok.ru/",
             "id": 34383738,
             "language": "Python",
+            "license": "Unlicense",
             "last_commit": "2021-08-05T14:35:12Z",
+            "open_issues": 0,
             "owner": "bigfool",
             "repo": "free-software-testing-books",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -892,12 +1609,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Selenium website and documentation",
+            "homepage": "https://selenium.dev",
             "id": 210569465,
             "language": "HTML",
-            "last_commit": "2026-08-27T11:52:59Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:57:23Z",
+            "open_issues": 27,
             "owner": "SeleniumHQ",
             "repo": "seleniumhq.github.io",
-            "stars": 1397
+            "stars": 1397,
+            "topics": [
+              "hugo"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -908,12 +1632,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of delightful Selenium resources.",
+            "homepage": null,
             "id": 22268536,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-03-17T19:57:25Z",
+            "open_issues": 6,
             "owner": "christian-bromann",
             "repo": "awesome-selenium",
-            "stars": 1130
+            "stars": 1130,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "list"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -924,12 +1657,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learn Web Automation testing using Selenium Webdriver 4.",
+            "homepage": "https://mfaisalkhatri.github.io",
             "id": 436932767,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T12:36:56Z",
+            "open_issues": 3,
             "owner": "mfaisalkhatri",
             "repo": "selenium4poc",
-            "stars": 210
+            "stars": 210,
+            "topics": [
+              "beginner-friendly",
+              "examples",
+              "hacktoberfest",
+              "java",
+              "selenium",
+              "selenium-java",
+              "selenium-webdriver",
+              "test-automation",
+              "testing",
+              "tutorial",
+              "webautomation",
+              "webautomationtesting"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -946,12 +1697,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. ",
+            "homepage": "https://playwright.dev",
             "id": 221981891,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T23:40:20Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T01:43:34Z",
+            "open_issues": 167,
             "owner": "microsoft",
             "repo": "playwright",
-            "stars": 95310
+            "stars": 95316,
+            "topics": [
+              "automation",
+              "chrome",
+              "chromium",
+              "e2e-testing",
+              "electron",
+              "end-to-end-testing",
+              "firefox",
+              "javascript",
+              "playwright",
+              "test",
+              "test-automation",
+              "testing",
+              "testing-tools",
+              "web",
+              "webkit"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -962,12 +1734,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome tools, utils and projects using Playwright",
+            "homepage": "https://mxschmitt.github.io/awesome-playwright/",
             "id": 246150059,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-12T21:41:13Z",
+            "open_issues": 11,
             "owner": "mxschmitt",
             "repo": "awesome-playwright",
-            "stars": 1561
+            "stars": 1561,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "browser-automation",
+              "playwright",
+              "puppeteer",
+              "testing",
+              "tests"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -978,12 +1763,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A detailed tutorial on Playwright & Test Runner",
+            "homepage": "https://youtube.com/playlist?list=PL699Xf-_ilW7EyC6lMuU4jelKemmS6KgD",
             "id": 376892107,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-02-19T12:03:44Z",
+            "open_issues": 3,
             "owner": "ortoniKC",
             "repo": "Playwright-Test-Runner",
-            "stars": 116
+            "stars": 116,
+            "topics": [
+              "playwright",
+              "playwright-test-runner",
+              "playwright-typescript",
+              "test-automation",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -1000,12 +1796,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Next-gen browser and mobile automation test framework for Node.js",
+            "homepage": "http://webdriver.io",
             "id": 2296970,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T12:11:04Z",
+            "open_issues": 288,
             "owner": "webdriverio",
             "repo": "webdriverio",
-            "stars": 9828
+            "stars": 9828,
+            "topics": [
+              "automation",
+              "cucumber",
+              "devtools",
+              "jasmine",
+              "javascript",
+              "mocha",
+              "node",
+              "performance",
+              "performance-test",
+              "test",
+              "webdriver",
+              "webdriverio"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -1022,12 +1836,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale",
+            "homepage": "http://www.selenium.dev/docker-selenium/",
             "id": 26768643,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T21:55:02Z",
+            "open_issues": 88,
             "owner": "SeleniumHQ",
             "repo": "docker-selenium",
-            "stars": 8647
+            "stars": 8647,
+            "topics": [
+              "containerization",
+              "devops",
+              "distributed-systems",
+              "docker",
+              "docker-selenium-grid",
+              "helm-chart",
+              "keda",
+              "kubernetes",
+              "kubernetes-selenium-grid",
+              "selenium",
+              "selenium-grid",
+              "selenium-grid-4",
+              "selenium-grid-setup",
+              "selenium-server",
+              "tools-and-automation",
+              "webdriver"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -1044,12 +1880,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of sites to practice testing on",
+            "homepage": null,
             "id": 365120811,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-17T09:14:33Z",
+            "open_issues": 2,
             "owner": "BMayhew",
             "repo": "awesome-sites-to-test-on",
-            "stars": 1096
+            "stars": 1096,
+            "topics": [
+              "hacktoberfest",
+              "hacktoberfest-accepted"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -1060,12 +1904,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A demo live chatting application built for testers to practice and learn web automation testing.",
+            "homepage": null,
             "id": 861801741,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-08-03T16:02:49Z",
+            "open_issues": 1,
             "owner": "mfaisalkhatri",
             "repo": "live-chat-playground",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "chat-app",
+              "nextjs",
+              "nodejs",
+              "practice-project",
+              "sample-app",
+              "tailwindcss",
+              "testing",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -1082,12 +1940,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Newman is a command-line collection runner for Postman",
+            "homepage": "https://www.postman.com",
             "id": 17449493,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-05T06:42:35Z",
+            "open_issues": 335,
             "owner": "postmanlabs",
             "repo": "newman",
-            "stars": 7248
+            "stars": 7248,
+            "topics": [
+              "api-test",
+              "api-testing",
+              "ci",
+              "jenkins",
+              "json-report",
+              "newman",
+              "postman",
+              "postman-collection"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -1104,12 +1976,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.",
+            "homepage": "https://keploy.io",
             "id": 449649393,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T04:45:03Z",
+            "open_issues": 716,
             "owner": "keploy",
             "repo": "keploy",
-            "stars": 18435
+            "stars": 18435,
+            "topics": [
+              "agentic-ai",
+              "ai-testing-tool",
+              "api-testing",
+              "code-quality",
+              "mock",
+              "mock-data-generator",
+              "mock-framework",
+              "test-automation",
+              "test-automation-framework",
+              "test-generation",
+              "testing",
+              "testing-library",
+              "testing-tool",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -1126,12 +2018,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java DSL for easy testing of REST services",
+            "homepage": null,
             "id": 1011539,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-22T08:35:07Z",
+            "open_issues": 593,
             "owner": "rest-assured",
             "repo": "rest-assured",
-            "stars": 7138
+            "stars": 7140,
+            "topics": [
+              "groovy",
+              "http",
+              "java",
+              "json",
+              "kotlin",
+              "rest",
+              "rest-api",
+              "test",
+              "test-automation",
+              "xml"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -1142,12 +2050,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learn API testing using rest-assured framework.",
+            "homepage": "https://mfaisalkhatri.github.io/rest-assured-examples/",
             "id": 429911642,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T12:38:37Z",
+            "open_issues": 1,
             "owner": "mfaisalkhatri",
             "repo": "rest-assured-examples",
-            "stars": 223
+            "stars": 223,
+            "topics": [
+              "api-automation",
+              "apitesting",
+              "automation-test",
+              "hacktoberfest",
+              "learning-by-doing",
+              "rest-assured",
+              "test-automation",
+              "testing",
+              "testing-framework",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -1164,12 +2088,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. ",
+            "homepage": "https://playwright.dev",
             "id": 221981891,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T23:40:20Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T01:43:34Z",
+            "open_issues": 167,
             "owner": "microsoft",
             "repo": "playwright",
-            "stars": 95310
+            "stars": 95316,
+            "topics": [
+              "automation",
+              "chrome",
+              "chromium",
+              "e2e-testing",
+              "electron",
+              "end-to-end-testing",
+              "firefox",
+              "javascript",
+              "playwright",
+              "test",
+              "test-automation",
+              "testing",
+              "testing-tools",
+              "web",
+              "webkit"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -1186,12 +2131,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
+            "homepage": "https://pytest.org",
             "id": 37489525,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T19:55:51Z",
+            "open_issues": 807,
             "owner": "pytest-dev",
             "repo": "pytest",
-            "stars": 14456
+            "stars": 14458,
+            "topics": [
+              "hacktoberfest",
+              "python",
+              "test",
+              "testing",
+              "unit-testing"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -1202,12 +2158,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome pytest resources",
+            "homepage": null,
             "id": 110533057,
             "language": null,
+            "license": null,
             "last_commit": "2026-06-24T17:41:32Z",
+            "open_issues": 5,
             "owner": "augustogoulart",
             "repo": "awesome-pytest",
-            "stars": 574
+            "stars": 575,
+            "topics": [
+              "awesome",
+              "digitalocean",
+              "hacktoberfest",
+              "open-source",
+              "pytest",
+              "python",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -1224,12 +2193,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of useful resources for gRPC",
+            "homepage": null,
             "id": 103694867,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2025-10-28T00:53:09Z",
+            "open_issues": 26,
             "owner": "grpc-ecosystem",
             "repo": "awesome-grpc",
-            "stars": 8354
+            "stars": 8354,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "grpc",
+              "protocol-buffers"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -1246,12 +2225,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
+            "homepage": "https://www.usebruno.com/",
             "id": 542284380,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T18:33:13Z",
+            "open_issues": 1824,
             "owner": "usebruno",
             "repo": "bruno",
-            "stars": 46618
+            "stars": 46623,
+            "topics": [
+              "api-client",
+              "api-testing",
+              "automation",
+              "developer-tools",
+              "git",
+              "graphql-client",
+              "http-client",
+              "javascript",
+              "openapi",
+              "openapi3",
+              "opensource",
+              "rest-api",
+              "testing",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -1268,12 +2267,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia",
+            "homepage": "https://hoppscotch.io",
             "id": 203587744,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:30:09Z",
+            "open_issues": 804,
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80114
+            "stars": 80113,
+            "topics": [
+              "api",
+              "api-client",
+              "api-rest",
+              "api-testing",
+              "developer-tools",
+              "graphql",
+              "http",
+              "http-client",
+              "pwa",
+              "rest",
+              "rest-api",
+              "spa",
+              "testing",
+              "testing-tools",
+              "tools",
+              "vue",
+              "vuejs",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -1284,12 +2307,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+            "homepage": "https://insomnia.rest",
             "id": 56899284,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T10:12:18Z",
+            "open_issues": 867,
             "owner": "Kong",
             "repo": "insomnia",
-            "stars": 39958
+            "stars": 39958,
+            "topics": [
+              "api",
+              "api-client",
+              "api-design",
+              "curl",
+              "electron-app",
+              "graphql",
+              "grpc",
+              "http-client",
+              "rest-api",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -1300,12 +2339,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.",
+            "homepage": "https://httpie.io",
             "id": 3544424,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-12-17T17:30:35Z",
+            "open_issues": 335,
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38465
+            "stars": 38465,
+            "topics": [
+              "api",
+              "api-client",
+              "api-testing",
+              "cli",
+              "client",
+              "curl",
+              "debugging",
+              "developer-tools",
+              "development",
+              "devops",
+              "http",
+              "http-client",
+              "httpie",
+              "json",
+              "python",
+              "rest",
+              "rest-api",
+              "terminal",
+              "usability",
+              "web"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -1316,12 +2381,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hurl, run and test HTTP requests with plain text.",
+            "homepage": "https://hurl.dev",
             "id": 290243101,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T21:48:13Z",
+            "open_issues": 203,
             "owner": "Orange-OpenSource",
             "repo": "hurl",
-            "stars": 19163
+            "stars": 19163,
+            "topics": [
+              "api-testing",
+              "cli",
+              "curl",
+              "http",
+              "http-client",
+              "integration-testing",
+              "testing",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -1332,12 +2411,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Test Automation Made Simple",
+            "homepage": "https://docs.karatelabs.io",
             "id": 81226206,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-08-28T15:46:31Z",
+            "open_issues": 9,
             "owner": "karatelabs",
             "repo": "karate",
-            "stars": 8930
+            "stars": 8931,
+            "topics": [
+              "api-testing",
+              "assertions",
+              "automated-testing",
+              "automation",
+              "bdd",
+              "contract-testing",
+              "cucumber",
+              "developer-tools",
+              "load-testing",
+              "microservices",
+              "mock-server",
+              "test-automation",
+              "testing",
+              "testing-framework",
+              "testing-tools",
+              "webdriver"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -1348,12 +2449,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Friendly and fast tool for sending HTTP requests",
+            "homepage": null,
             "id": 294521053,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-23T11:18:23Z",
+            "open_issues": 38,
             "owner": "ducaale",
             "repo": "xh",
-            "stars": 8042
+            "stars": 8042,
+            "topics": [
+              "api-testing",
+              "cli",
+              "developer-tools",
+              "http-client",
+              "rust",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -1364,12 +2477,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Newman is a command-line collection runner for Postman",
+            "homepage": "https://www.postman.com",
             "id": 17449493,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-05T06:42:35Z",
+            "open_issues": 335,
             "owner": "postmanlabs",
             "repo": "newman",
-            "stars": 7248
+            "stars": 7248,
+            "topics": [
+              "api-test",
+              "api-testing",
+              "ci",
+              "jenkins",
+              "json-report",
+              "newman",
+              "postman",
+              "postman-collection"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -1380,12 +2507,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Community hub for Requestly API Client — bugs, feature requests, and roadmap. The privacy-first Postman alternative.",
+            "homepage": "https://requestly.com/",
             "id": 75255555,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T10:30:12Z",
+            "open_issues": 273,
             "owner": "requestly",
             "repo": "requestly",
-            "stars": 6752
+            "stars": 6752,
+            "topics": [
+              "api-client",
+              "api-testing",
+              "developer-tools",
+              "git-sync",
+              "graphql",
+              "grpc",
+              "open-source",
+              "postman-alternative",
+              "privacy-first",
+              "rest-api",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -1396,12 +2540,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Catch API bugs before your users do",
+            "homepage": "https://schemathesis.readthedocs.io",
             "id": 203157084,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T20:20:07Z",
+            "open_issues": 8,
             "owner": "schemathesis",
             "repo": "schemathesis",
-            "stars": 3565
+            "stars": 3565,
+            "topics": [
+              "api",
+              "api-testing",
+              "cli",
+              "fuzzing",
+              "graphql",
+              "hypothesis",
+              "openapi",
+              "property-based-testing",
+              "pytest",
+              "swagger",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -1412,12 +2573,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Offline-First Minimalistic HTTP & Socket Testing Client for the Web & Desktop",
+            "homepage": "https://restfox.dev",
             "id": 428941158,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2026-07-03T22:18:31Z",
+            "open_issues": 48,
             "owner": "flawiddsouza",
             "repo": "Restfox",
-            "stars": 2747
+            "stars": 2747,
+            "topics": [
+              "api-client",
+              "api-testing",
+              "developer-tools",
+              "graphql-client",
+              "hacktoberfest",
+              "http",
+              "http-client",
+              "pwa",
+              "rest-api",
+              "rest-client",
+              "testing-tools",
+              "vue",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -1434,12 +2614,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A free to use E-Commerce Web APIs for practising API testing.",
+            "homepage": null,
             "id": 851187683,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-10T11:38:49Z",
+            "open_issues": 2,
             "owner": "mfaisalkhatri",
             "repo": "restful-ecommerce",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "api",
+              "api-testing",
+              "e-commerce",
+              "expressjs",
+              "hacktoberfest",
+              "nodejs",
+              "rest-api",
+              "testing",
+              "training",
+              "web-apis"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -1456,12 +2652,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Appium Server in Desktop GUIs for Mac, Windows, and Linux",
+            "homepage": null,
             "id": 63558084,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-04-12T21:04:14Z",
+            "open_issues": 132,
             "owner": "appium",
             "repo": "appium-desktop",
-            "stars": 4807
+            "stars": 4807,
+            "topics": [
+              "appium"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -1472,12 +2675,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A GUI inspector for mobile apps and more, powered by a (separately installed) Appium server",
+            "homepage": "https://appium.github.io/appium-inspector/",
             "id": 355277962,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T03:09:41Z",
+            "open_issues": 28,
             "owner": "appium",
             "repo": "appium-inspector",
-            "stars": 1887
+            "stars": 1888,
+            "topics": [
+              "appium",
+              "inspector"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -1488,12 +2699,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of delightful Appium resources.",
+            "homepage": null,
             "id": 64320099,
             "language": null,
+            "license": null,
             "last_commit": "2021-09-28T14:59:54Z",
+            "open_issues": 7,
             "owner": "SrinivasanTarget",
             "repo": "awesome-appium",
-            "stars": 464
+            "stars": 464,
+            "topics": [
+              "appium",
+              "appium-android",
+              "appium-ios",
+              "appium-tests",
+              "appium-tutorials",
+              "awesome-appium",
+              "cloud-solution",
+              "docker-appium",
+              "inspector"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -1504,12 +2730,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Appium plugin designed to perform gestures using W3C Actions.",
+            "homepage": null,
             "id": 372508957,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-12-29T21:02:13Z",
+            "open_issues": 13,
             "owner": "AppiumTestDistribution",
             "repo": "appium-gestures-plugin",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -1526,12 +2757,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Appium driver for Flutter apps, maintained by the community",
+            "homepage": null,
             "id": 197505662,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T04:39:24Z",
+            "open_issues": 87,
             "owner": "appium",
             "repo": "appium-flutter-driver",
-            "stars": 537
+            "stars": 537,
+            "topics": [
+              "appium",
+              "driver",
+              "flutter"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -1542,12 +2782,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flutter driver with Java implementation",
+            "homepage": null,
             "id": 548310902,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2025-10-12T09:17:47Z",
+            "open_issues": 8,
             "owner": "ashwithpoojary98",
             "repo": "javaflutterfinder",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -1564,12 +2809,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Boilerplate project to run WebdriverIO tests with Appium to test native applications on iOS and Android",
+            "homepage": null,
             "id": 147927317,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T11:05:50Z",
+            "open_issues": 7,
             "owner": "webdriverio",
             "repo": "appium-boilerplate",
-            "stars": 489
+            "stars": 489,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -1586,12 +2836,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Painless E2E Automation for Mobile and Web",
+            "homepage": "https://maestro.dev",
             "id": 476427476,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T21:13:03Z",
+            "open_issues": 496,
             "owner": "mobile-dev-inc",
             "repo": "Maestro",
-            "stars": 15448
+            "stars": 15448,
+            "topics": [
+              "android",
+              "blackbox-testing",
+              "ios",
+              "ui-automation"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -1608,12 +2868,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Guinea pig app for showcasing test automation with WebdriverIO and Appium",
+            "homepage": null,
             "id": 147817294,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-11T16:14:54Z",
+            "open_issues": 6,
             "owner": "webdriverio",
             "repo": "native-demo-app",
-            "stars": 113
+            "stars": 113,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -1624,12 +2889,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 405314654,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-08-11T21:52:32Z",
+            "open_issues": 12,
             "owner": "saucelabs",
             "repo": "my-demo-app-android",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -1640,12 +2910,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 406408307,
             "language": "Swift",
+            "license": null,
             "last_commit": "2026-08-11T20:51:35Z",
+            "open_issues": 4,
             "owner": "saucelabs",
             "repo": "my-demo-app-ios",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -1662,12 +2937,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Checklist of the most important security countermeasures when designing, testing, and releasing your API",
+            "homepage": null,
             "id": 96641209,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-21T07:59:55Z",
+            "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23305
+            "stars": 23306,
+            "topics": [
+              "api",
+              "jwt",
+              "oauth2",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -1678,12 +2963,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
+            "homepage": null,
             "id": 23208012,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-01-11T02:00:26Z",
+            "open_issues": 316,
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14805
+            "stars": 14805,
+            "topics": [
+              "awesome-list",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -1694,12 +2987,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐶 A curated list of Web Security materials and resources.",
+            "homepage": "https://awesomelists.top/#/repos/qazbnm456/awesome-web-security",
             "id": 80358070,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-21T13:51:02Z",
+            "open_issues": 4,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13738
+            "stars": 13739,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "list",
+              "penetration-testing",
+              "security",
+              "web",
+              "websecurity"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -1710,12 +3016,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐶 A curated list of Web Security materials and resources.",
+            "homepage": "https://awesomelists.top/#/repos/qazbnm456/awesome-web-security",
             "id": 80358070,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-21T13:51:02Z",
+            "open_issues": 4,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13738
+            "stars": 13739,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "list",
+              "penetration-testing",
+              "security",
+              "web",
+              "websecurity"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -1726,12 +3045,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.",
+            "homepage": "https://owasp.org/www-project-web-security-testing-guide/",
             "id": 91277330,
             "language": "Python",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-27T01:03:40Z",
+            "open_issues": 31,
             "owner": "OWASP",
             "repo": "wstg",
-            "stars": 9761
+            "stars": 9761,
+            "topics": [
+              "application-security",
+              "appsec",
+              "best-practices",
+              "bugbounty",
+              "guide",
+              "hacking",
+              "hacktoberfest",
+              "owasp",
+              "penetration-testing",
+              "pentesting",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -1742,12 +3078,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of web application security",
+            "homepage": null,
             "id": 34994225,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-13T15:21:19Z",
+            "open_issues": 7,
             "owner": "infoslack",
             "repo": "awesome-web-hacking",
-            "stars": 7245
+            "stars": 7245,
+            "topics": [
+              "appsec",
+              "hacking",
+              "hacking-tools",
+              "metasploit",
+              "owasp",
+              "penetration-testing",
+              "pentesting",
+              "scanner",
+              "security",
+              "vulnerabilities",
+              "vulnerability",
+              "web-hacking",
+              "web-security"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -1758,12 +3113,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources for learning about application security",
+            "homepage": "https://paragonie.com/projects",
             "id": 34877308,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2025-02-22T16:39:11Z",
+            "open_issues": 40,
             "owner": "paragonie",
             "repo": "awesome-appsec",
-            "stars": 7046
+            "stars": 7046,
+            "topics": [
+              "application-security",
+              "curated",
+              "owasp",
+              "reading-list",
+              "security",
+              "security-experts"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -1774,12 +3141,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ultimate DevSecOps library",
+            "homepage": null,
             "id": 138931215,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-12T20:14:41Z",
+            "open_issues": 21,
             "owner": "sottlmarek",
             "repo": "DevSecOps",
-            "stars": 6858
+            "stars": 6858,
+            "topics": [
+              "automation",
+              "awesome",
+              "awesome-list",
+              "aws",
+              "azure",
+              "ci-cd",
+              "cloud",
+              "containers",
+              "cybersecurity",
+              "devops",
+              "devsecops",
+              "docker",
+              "gcp",
+              "k8s",
+              "kubernetes",
+              "security",
+              "serverless",
+              "ssdlc",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -1790,12 +3182,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "8 Lessons, Kick-start Your Cybersecurity Learning.",
+            "homepage": "https://microsoft.github.io/Security-101/",
             "id": 750629019,
             "language": "HTML",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-24T14:33:45Z",
+            "open_issues": 2,
             "owner": "microsoft",
             "repo": "Security-101",
-            "stars": 6838
+            "stars": 6838,
+            "topics": [
+              "appsec",
+              "cia-triad",
+              "data-protection",
+              "data-security",
+              "iam",
+              "identity",
+              "risk-management",
+              "secops",
+              "security",
+              "threat-modeling",
+              "zero-trust"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -1806,12 +3215,31 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A collection of awesome API Security tools and resources. The focus goes to open-source tools and resources that benefit all the community.",
+            "homepage": null,
             "id": 287584589,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2026-05-01T18:32:56Z",
+            "open_issues": 2,
             "owner": "arainho",
             "repo": "awesome-api-security",
-            "stars": 3862
+            "stars": 3862,
+            "topics": [
+              "api-hacking",
+              "api-hacks",
+              "api-hardening",
+              "api-hunting",
+              "api-pentest",
+              "api-sec",
+              "api-security",
+              "apisec",
+              "awesome-list",
+              "fuzzing",
+              "infosec",
+              "pentest",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -1822,12 +3250,31 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A collection of awesome API Security tools and resources. The focus goes to open-source tools and resources that benefit all the community.",
+            "homepage": null,
             "id": 287584589,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2026-05-01T18:32:56Z",
+            "open_issues": 2,
             "owner": "arainho",
             "repo": "awesome-api-security",
-            "stars": 3862
+            "stars": 3862,
+            "topics": [
+              "api-hacking",
+              "api-hacks",
+              "api-hardening",
+              "api-hunting",
+              "api-pentest",
+              "api-sec",
+              "api-security",
+              "apisec",
+              "awesome-list",
+              "fuzzing",
+              "infosec",
+              "pentest",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -1838,12 +3285,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.",
+            "homepage": null,
             "id": 231425210,
             "language": null,
+            "license": null,
             "last_commit": "2024-03-01T10:39:44Z",
+            "open_issues": 15,
             "owner": "vaib25vicky",
             "repo": "awesome-mobile-security",
-            "stars": 3525
+            "stars": 3525,
+            "topics": [
+              "android",
+              "android-security",
+              "awesome",
+              "awesome-list",
+              "bugbounty",
+              "hacking",
+              "hacking-tools",
+              "ios",
+              "ios-security",
+              "mobile",
+              "mobile-security",
+              "pentesting",
+              "redteam",
+              "resources",
+              "reverse-engineering",
+              "security-tools"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -1854,12 +3323,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curating the best DevSecOps resources and tooling.",
+            "homepage": null,
             "id": 244098056,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-08-02T12:52:41Z",
+            "open_issues": 39,
             "owner": "jakob-pennington",
             "repo": "awesome-devsecops",
-            "stars": 1720
+            "stars": 1720,
+            "topics": [
+              "application-security",
+              "awesome",
+              "awesome-list",
+              "devops",
+              "devsecops",
+              "hacktoberfest",
+              "secure-software-development"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -1870,12 +3352,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":books: A curated list of awesome CI CD security resources",
+            "homepage": null,
             "id": 461237668,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-05-26T13:17:13Z",
+            "open_issues": 7,
             "owner": "myugan",
             "repo": "awesome-cicd-security",
-            "stars": 839
+            "stars": 839,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -1892,12 +3379,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of awesome penetration testing resources, tools and other shiny things",
+            "homepage": null,
             "id": 79034887,
             "language": null,
+            "license": null,
             "last_commit": "2023-10-18T18:27:08Z",
+            "open_issues": 19,
             "owner": "wtsxDev",
             "repo": "Penetration-Testing",
-            "stars": 2784
+            "stars": 2784,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -1914,12 +3406,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome performance testing resources",
+            "homepage": null,
             "id": 34650768,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-01-09T16:16:53Z",
+            "open_issues": 4,
             "owner": "andriisoldatenko",
             "repo": "awesome-performance-testing",
-            "stars": 198
+            "stars": 198,
+            "topics": [
+              "awesome-list",
+              "measure",
+              "pagespeed",
+              "performance",
+              "testing",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -1936,12 +3440,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern load testing tool, using Go and JavaScript",
+            "homepage": "https://grafana.com/oss/k6/",
             "id": 54400687,
             "language": "Go",
-            "last_commit": "2026-08-28T23:48:13Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T04:01:11Z",
+            "open_issues": 799,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31348
+            "stars": 31349,
+            "topics": [
+              "es6",
+              "go",
+              "golang",
+              "hacktoberfest",
+              "javascript",
+              "k6",
+              "load-generator",
+              "load-testing",
+              "performance"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -1952,12 +3471,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome tools, content and projects using k6",
+            "homepage": null,
             "id": 236692087,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-18T23:40:48Z",
+            "open_issues": 3,
             "owner": "grafana",
             "repo": "awesome-k6",
-            "stars": 774
+            "stars": 774,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "k6",
+              "load-testing",
+              "performance-monitoring",
+              "performance-testing",
+              "test-automation",
+              "testing",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -1968,12 +3502,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Playground for a k6 workshop",
+            "homepage": null,
             "id": 199486416,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-03-12T05:50:19Z",
+            "open_issues": 0,
             "owner": "cajames",
             "repo": "performance-testing-with-k6",
-            "stars": 97
+            "stars": 97,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -1990,12 +3529,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of resources covering different aspects of Gatling load testing tool usage.",
+            "homepage": "https://aliesbelik.github.io/awesome-gatling/",
             "id": 216829747,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2026-08-09T11:47:20Z",
+            "open_issues": 0,
             "owner": "aliesbelik",
             "repo": "awesome-gatling",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "awesome",
+              "awesome-gatling",
+              "awesome-list",
+              "benchmarking",
+              "gatling",
+              "gatling-plugin",
+              "load-testing",
+              "performance-testing",
+              "scala"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -2012,12 +3566,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services",
+            "homepage": "https://jmeter.apache.org/",
             "id": 688352,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T11:30:17Z",
+            "open_issues": 971,
             "owner": "apache",
             "repo": "jmeter",
-            "stars": 9519
+            "stars": 9521,
+            "topics": [
+              "java",
+              "performance",
+              "test"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -2028,12 +3591,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of resources covering different aspects of JMeter usage.",
+            "homepage": "https://aliesbelik.github.io/awesome-jmeter/",
             "id": 37666064,
             "language": "HTML",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-08-01T02:02:30Z",
+            "open_issues": 4,
             "owner": "aliesbelik",
             "repo": "awesome-jmeter",
-            "stars": 807
+            "stars": 807,
+            "topics": [
+              "apache-jmeter",
+              "awesome",
+              "awesome-list",
+              "benchmarking",
+              "jmeter",
+              "jmeter-plugin",
+              "load-testing",
+              "performance-testing"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -2044,12 +3621,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The JMeter Maven Plugin",
+            "homepage": "http://jmeter.lazerycode.com",
             "id": 971134,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-03T19:17:10Z",
+            "open_issues": 21,
             "owner": "jmeter-maven-plugin",
             "repo": "jmeter-maven-plugin",
-            "stars": 439
+            "stars": 439,
+            "topics": [
+              "continuous-integration",
+              "java",
+              "jmeter",
+              "load-test",
+              "load-testing",
+              "maven-plugin",
+              "performance-analysis",
+              "performance-test",
+              "performance-testing"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -2066,12 +3658,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated auditing, performance metrics, and best practices for the web.",
+            "homepage": "https://developer.chrome.com/docs/lighthouse/overview/",
             "id": 53370988,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T19:40:54Z",
+            "open_issues": 460,
             "owner": "GoogleChrome",
             "repo": "lighthouse",
-            "stars": 30707
+            "stars": 30707,
+            "topics": [
+              "audit",
+              "best-practices",
+              "chrome-devtools",
+              "developer-tools",
+              "performance-analysis",
+              "performance-metrics",
+              "pwa",
+              "web"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -2088,12 +3694,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":iphone: Automation for iOS, Android, and Windows Apps.",
+            "homepage": "http://appium.io/",
             "id": 327472489,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2021-01-07T11:41:01Z",
+            "open_issues": 0,
             "owner": "clarabez",
             "repo": "appium-1",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -2110,12 +3721,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Automation Testing Framework for XR(Unity) Applications.",
+            "homepage": null,
             "id": 290967338,
             "language": "C#",
+            "license": "AGPL-3.0",
             "last_commit": "2023-09-25T10:05:31Z",
+            "open_issues": 0,
             "owner": "thoughtworks",
             "repo": "Arium",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "arvr",
+              "automation",
+              "testing",
+              "unity3d"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -2132,12 +3753,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome MySQL software, libraries, tools and resources",
+            "homepage": null,
             "id": 32276625,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-17T12:26:05Z",
+            "open_issues": 17,
             "owner": "shlomi-noach",
             "repo": "awesome-mysql",
-            "stars": 2610
+            "stars": 2610,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -2148,12 +3774,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of tools and techniques for working with relational databases.",
+            "homepage": null,
             "id": 27949400,
             "language": null,
+            "license": null,
             "last_commit": "2026-04-25T14:15:25Z",
+            "open_issues": 22,
             "owner": "danhuss",
             "repo": "awesome-sql",
-            "stars": 451
+            "stars": 451,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "database",
+              "oracle",
+              "postgresql",
+              "sql",
+              "sql-server"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -2170,12 +3809,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":computer: Curated list of awesome resources and links about using NoSQL databases",
+            "homepage": "https://erictleung.com/awesome-nosql-guides/",
             "id": 56873877,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2022-03-29T18:21:38Z",
+            "open_issues": 10,
             "owner": "erictleung",
             "repo": "awesome-nosql-guides",
-            "stars": 302
+            "stars": 302,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "brewer-theorem",
+              "databases",
+              "graph-databases",
+              "learning-nosql",
+              "nosql",
+              "nosql-databases",
+              "nosql-guides",
+              "relational-databases"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -2192,12 +3847,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":leaves: A curated list of awesome MongoDB resources, libraries, tools and applications",
+            "homepage": null,
             "id": 52230198,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-26T17:14:59Z",
+            "open_issues": 5,
             "owner": "ramnes",
             "repo": "awesome-mongodb",
-            "stars": 2673
+            "stars": 2673,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "list",
+              "mongodb",
+              "mongodb-resources"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -2214,12 +3880,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of resources for learning about modeling, operating, and using Amazon DynamoDB",
+            "homepage": null,
             "id": 227178500,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-23T13:19:14Z",
+            "open_issues": 9,
             "owner": "alexdebrie",
             "repo": "awesome-dynamodb",
-            "stars": 1820
+            "stars": 1820,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -2236,12 +3907,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql",
+            "homepage": "http://dhamaniasad.github.io/awesome-postgres",
             "id": 40072159,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-05-21T14:10:48Z",
+            "open_issues": 70,
             "owner": "dhamaniasad",
             "repo": "awesome-postgres",
-            "stars": 12064
+            "stars": 12065,
+            "topics": [
+              "database",
+              "postgres",
+              "postgresql"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -2258,12 +3938,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+            "homepage": null,
             "id": 212639071,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-27T14:22:30Z",
+            "open_issues": 55,
             "owner": "bregman-arie",
             "repo": "devops-exercises",
-            "stars": 84299
+            "stars": 84298,
+            "topics": [
+              "ansible",
+              "aws",
+              "azure",
+              "coding",
+              "containers",
+              "devops",
+              "docker",
+              "git",
+              "interview",
+              "interview-questions",
+              "kubernetes",
+              "linux",
+              "openstack",
+              "production-engineer",
+              "prometheus",
+              "python",
+              "sql",
+              "sre",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -2274,12 +3979,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
+            "homepage": null,
             "id": 115478820,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-01-04T03:51:47Z",
+            "open_issues": 26,
             "owner": "binhnguyennus",
             "repo": "awesome-scalability",
-            "stars": 73578
+            "stars": 73580,
+            "topics": [
+              "architecture",
+              "awesome",
+              "awesome-list",
+              "backend",
+              "big-data",
+              "computer-science",
+              "design-patterns",
+              "devops",
+              "distributed-systems",
+              "interview",
+              "interview-practice",
+              "interview-questions",
+              "lists",
+              "machine-learning",
+              "programming",
+              "resources",
+              "scalability",
+              "system",
+              "system-design",
+              "web-development"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -2290,12 +4021,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic. ",
+            "homepage": "https://www.90daysofdevops.com/",
             "id": 441903012,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-24T15:29:07Z",
+            "open_issues": 10,
             "owner": "MichaelCade",
             "repo": "90DaysOfDevOps",
-            "stars": 29670
+            "stars": 29670,
+            "topics": [
+              "ansible",
+              "backup",
+              "containers",
+              "devops",
+              "iac",
+              "kubernetes",
+              "networking",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -2306,12 +4051,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list for awesome kubernetes sources :ship::tada:",
+            "homepage": "https://ramitsurana.github.io/awesome-kubernetes",
             "id": 44315167,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-23T13:33:19Z",
+            "open_issues": 83,
             "owner": "ramitsurana",
             "repo": "awesome-kubernetes",
-            "stars": 16060
+            "stars": 16060,
+            "topics": [
+              "aws",
+              "azure",
+              "books",
+              "cloud-providers",
+              "deploy-kubernetes",
+              "docker",
+              "enterprise-kubernetes-products",
+              "google-cloud",
+              "google-kubernetes",
+              "kubernetes",
+              "kubernetes-cluster",
+              "kubernetes-sources",
+              "machine-learning",
+              "meetup",
+              "minikube",
+              "monitoring-kubernetes",
+              "resource",
+              "schedule"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -2322,12 +4091,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Site Reliability and Production Engineering resources.",
+            "homepage": "https://sre.xyz",
             "id": 56103979,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-08-28T14:43:14Z",
+            "open_issues": 101,
             "owner": "dastergon",
             "repo": "awesome-sre",
-            "stars": 13465
+            "stars": 13465,
+            "topics": [
+              "alerting",
+              "availability",
+              "awesome",
+              "awesome-list",
+              "capacity-planning",
+              "devops",
+              "incident-response",
+              "list",
+              "monitoring",
+              "on-call",
+              "post-mortem",
+              "postmortem",
+              "production",
+              "reliability",
+              "reliability-engineering",
+              "scalability",
+              "service-level-agreement",
+              "site-reliability",
+              "site-reliability-engineering",
+              "sre"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -2338,12 +4133,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.",
+            "homepage": null,
             "id": 144152935,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-11-19T14:07:11Z",
+            "open_issues": 19,
             "owner": "trimstray",
             "repo": "test-your-sysadmin-skills",
-            "stars": 11846
+            "stars": 11847,
+            "topics": [
+              "answers",
+              "bsd",
+              "cheatsheets",
+              "cybersecurity",
+              "databases",
+              "devops",
+              "exam",
+              "interview",
+              "interview-questions",
+              "knowledge",
+              "linux",
+              "network",
+              "resources",
+              "security",
+              "skills",
+              "sysadmin",
+              "sysops",
+              "systems",
+              "unix",
+              "webops"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -2354,12 +4175,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.",
+            "homepage": null,
             "id": 215599579,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-05-22T21:30:07Z",
+            "open_issues": 11,
             "owner": "Tikam02",
             "repo": "DevOps-Guide",
-            "stars": 9321
+            "stars": 9321,
+            "topics": [
+              "ansible",
+              "cheatsheet",
+              "ci-cd",
+              "containers",
+              "devops",
+              "devops-cheatsheets",
+              "docker",
+              "git",
+              "grafana",
+              "hacktoberfest",
+              "hacktoberfest-2020",
+              "hacktoberfest2020",
+              "interview",
+              "jenkins",
+              "kubernetes",
+              "kubernetes-monitoring",
+              "linux",
+              "networking",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -2370,12 +4216,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An authoritative list of awesome devsecops tools with the help from community experiments and contributions.",
+            "homepage": "http://devsecops.org",
             "id": 43963567,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-05-11T17:48:07Z",
+            "open_issues": 83,
             "owner": "devsecops",
             "repo": "awesome-devsecops",
-            "stars": 5460
+            "stars": 5460,
+            "topics": [
+              "devops",
+              "devsecops",
+              "podcast",
+              "threat-intelligence"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -2386,12 +4242,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome DevOps platforms, tools, practices and resources",
+            "homepage": "http://awesome-devops.xyz",
             "id": 222709217,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2026-07-24T15:52:00Z",
+            "open_issues": 182,
             "owner": "wmariuss",
             "repo": "awesome-devops",
-            "stars": 4336
+            "stars": 4336,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "collections",
+              "development",
+              "devops",
+              "production",
+              "productivity",
+              "resources",
+              "sre",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -2402,12 +4274,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 516735733,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-07-02T11:44:06Z",
+            "open_issues": 0,
             "owner": "veriqta",
             "repo": "DEVOPS-WORLD",
-            "stars": 3486
+            "stars": 3486,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -2418,12 +4295,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "I created this repository to keep my learning, notes, and code in one place for various tools in DevOps. Now, it's helping thousands of learners, practitioners, and professionals every day in their DevOps journey.",
+            "homepage": "https://devops.pradumnasaraf.dev",
             "id": 553120474,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-24T21:45:34Z",
+            "open_issues": 2,
             "owner": "Pradumnasaraf",
             "repo": "DevOps",
-            "stars": 3259
+            "stars": 3259,
+            "topics": [
+              "argocd",
+              "bash-script",
+              "ci-cd",
+              "devops",
+              "docker",
+              "docker-compose",
+              "git",
+              "github-actions",
+              "gitops",
+              "go",
+              "grafana",
+              "helm",
+              "jenkins",
+              "kubernetes",
+              "linux",
+              "networking",
+              "portainer",
+              "prometheus",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -2434,12 +4336,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📜 A Cheat-Sheet Collection from the WWW",
+            "homepage": null,
             "id": 220934262,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2025-05-25T08:44:16Z",
+            "open_issues": 1,
             "owner": "sk3pp3r",
             "repo": "cheat-sheet-pdf",
-            "stars": 2389
+            "stars": 2389,
+            "topics": [
+              "ai",
+              "ansible",
+              "bash",
+              "cheat-sheet",
+              "cheat-sheets",
+              "cheatsheet",
+              "ci-cd",
+              "devops-tools",
+              "docker",
+              "jenkins",
+              "linux",
+              "nginx",
+              "pdf",
+              "powershell",
+              "python",
+              "redis",
+              "regex",
+              "regular-expression",
+              "slack",
+              "vim"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -2450,12 +4378,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "continuous integration and continuous delivery",
+            "homepage": "http://www.theaiera.cn",
             "id": 27022152,
             "language": null,
+            "license": "GPL-2.0",
             "last_commit": "2026-04-14T12:29:54Z",
+            "open_issues": 32,
             "owner": "cicdops",
             "repo": "awesome-ciandcd",
-            "stars": 2009
+            "stars": 2009,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -2466,12 +4399,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes.",
+            "homepage": null,
             "id": 499400876,
             "language": null,
+            "license": null,
             "last_commit": "2024-06-24T08:44:49Z",
+            "open_issues": 0,
             "owner": "ahmedtariq01",
             "repo": "Cloud-DevOps-Learning-Resources",
-            "stars": 1980
+            "stars": 1980,
+            "topics": [
+              "ansible",
+              "aws",
+              "azure",
+              "azure-devops",
+              "cicd",
+              "cloudcomputing",
+              "cloudnative",
+              "cloudsecurity",
+              "containers",
+              "devops",
+              "devops-tools",
+              "devsecops",
+              "docker",
+              "gcp",
+              "jenkins",
+              "kubernetes",
+              "linux",
+              "multicloud",
+              "notes",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -2482,12 +4441,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list for DevOps learning resources. Join the slack channel to discuss more.",
+            "homepage": null,
             "id": 49137518,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2024-09-04T22:04:13Z",
+            "open_issues": 7,
             "owner": "Lets-DevOps",
             "repo": "awesome-learning",
-            "stars": 1657
+            "stars": 1657,
+            "topics": [
+              "devops",
+              "infrastructure",
+              "learning"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -2498,12 +4466,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learn DevOps Step-by-step",
+            "homepage": "http://mohamedradwan.com/",
             "id": 332548472,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-03-10T18:58:25Z",
+            "open_issues": 0,
             "owner": "MohamedRadwan-DevOps",
             "repo": "devops-step-by-step",
-            "stars": 1132
+            "stars": 1132,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -2514,12 +4487,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated DevOps Books",
+            "homepage": null,
             "id": 634370219,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-09-25T23:23:23Z",
+            "open_issues": 0,
             "owner": "DevOps-Projects-Ideas",
             "repo": "DevOps-Books",
-            "stars": 710
+            "stars": 710,
+            "topics": [
+              "ansible",
+              "aws",
+              "azure",
+              "bash",
+              "chef",
+              "cloud",
+              "devops",
+              "git",
+              "github-actions",
+              "googlecloud",
+              "gradle",
+              "jenkins",
+              "kubernetes",
+              "linux",
+              "networking",
+              "nginx",
+              "python",
+              "sql",
+              "terraform",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -2530,12 +4529,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated collection of free DevOps related eBooks",
+            "homepage": null,
             "id": 199429519,
             "language": null,
+            "license": null,
             "last_commit": "2018-05-07T13:40:57Z",
+            "open_issues": 2,
             "owner": "ahmedamsaleh",
             "repo": "Free-DevOps-Books-1",
-            "stars": 255
+            "stars": 255,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -2552,12 +4556,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The completest Jenkins tutorial, reference, awesome, examples",
+            "homepage": null,
             "id": 399533657,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2024-05-30T13:35:18Z",
+            "open_issues": 3,
             "owner": "ssbostan",
             "repo": "jenkins-tutorial",
-            "stars": 358
+            "stars": 358,
+            "topics": [
+              "automation",
+              "build",
+              "build-jenkins",
+              "cicd",
+              "devops",
+              "jenkins",
+              "jenkins-pipeline",
+              "jenkinsfile",
+              "pipeline"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -2574,12 +4593,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Docker Compose samples",
+            "homepage": "https://docs.docker.com/compose/",
             "id": 240215314,
             "language": "HTML",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-25T01:56:23Z",
+            "open_issues": 417,
             "owner": "docker",
             "repo": "awesome-compose",
-            "stars": 46188
+            "stars": 46189,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "docker-compose"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -2590,12 +4618,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Define and run multi-container applications with Docker",
+            "homepage": "https://docs.docker.com/compose/",
             "id": 15045751,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T09:09:06Z",
+            "open_issues": 108,
             "owner": "docker",
             "repo": "compose",
-            "stars": 38071
+            "stars": 38072,
+            "topics": [
+              "docker",
+              "docker-compose",
+              "go",
+              "golang",
+              "orchestration"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -2606,12 +4645,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":whale: A curated list of Docker resources and projects",
+            "homepage": "https://average.joe.dev/awesome-docker/",
             "id": 24297122,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T17:04:16Z",
+            "open_issues": 25,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36736
+            "stars": 36736,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "container",
+              "docker",
+              "docker-api",
+              "docker-container",
+              "docker-deployment",
+              "docker-environment",
+              "docker-image",
+              "docker-machine",
+              "docker-monitoring",
+              "docker-registry",
+              "docker-security",
+              "docker-swarm",
+              "dockerfile",
+              "list",
+              "moby",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -2622,12 +4685,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docker Cheat Sheet",
+            "homepage": null,
             "id": 22657662,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2024-12-31T03:00:47Z",
+            "open_issues": 7,
             "owner": "wsargent",
             "repo": "docker-cheat-sheet",
-            "stars": 22544
+            "stars": 22544,
+            "topics": [
+              "cheet-sheet",
+              "docker"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -2638,12 +4709,30 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.",
+            "homepage": null,
             "id": 56728437,
             "language": "PHP",
+            "license": "Apache-2.0",
             "last_commit": "2023-07-27T10:31:38Z",
+            "open_issues": 140,
             "owner": "docker-archive-public",
             "repo": "docker.labs",
-            "stars": 11896
+            "stars": 11896,
+            "topics": [
+              "containers",
+              "docker",
+              "docker-compose",
+              "docker-tutorial",
+              "dotnet",
+              "java",
+              "lab",
+              "orchestration",
+              "security",
+              "swarm",
+              "swarm-mode",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -2654,12 +4743,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docker  - Beginners | Intermediate | Advanced",
+            "homepage": "https://dockerlabs.collabnix.com",
             "id": 153069455,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T03:32:47Z",
+            "open_issues": 28,
             "owner": "collabnix",
             "repo": "dockerlabs",
-            "stars": 8035
+            "stars": 8035,
+            "topics": [
+              "advance",
+              "beginners",
+              "docker",
+              "dockerenteprise",
+              "dockerfile",
+              "dockernetworking",
+              "dockerstorage",
+              "hacktoberfest",
+              "intermediate",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -2670,12 +4775,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":dolphin: A comprehensive tutorial on getting started with Docker!",
+            "homepage": "https://docker-curriculum.com/",
             "id": 47304932,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2026-08-12T01:12:01Z",
+            "open_issues": 17,
             "owner": "prakhar1989",
             "repo": "docker-curriculum",
-            "stars": 6089
+            "stars": 6089,
+            "topics": [
+              "aws",
+              "cloud-computing",
+              "containers",
+              "docker",
+              "microservices",
+              "tutorials"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -2686,12 +4803,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The companion to the Youtube tutorials",
+            "homepage": null,
             "id": 161267780,
             "language": "PHP",
+            "license": null,
             "last_commit": "2019-10-24T01:53:58Z",
+            "open_issues": 2,
             "owner": "willitscale",
             "repo": "learning-docker",
-            "stars": 111
+            "stars": 111,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -2708,12 +4832,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An evolving how-to guide for securing a Linux server.",
+            "homepage": null,
             "id": 169839893,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-07-13T18:25:52Z",
+            "open_issues": 35,
             "owner": "imthenachoman",
             "repo": "How-To-Secure-A-Linux-Server",
-            "stars": 30315
+            "stars": 30315,
+            "topics": [
+              "cc-by-sa",
+              "hardening",
+              "hardening-steps",
+              "linux",
+              "linux-server",
+              "security",
+              "security-hardening",
+              "server"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -2724,12 +4862,36 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🐧 A list of awesome Linux softwares ",
+            "homepage": "https://luong-komorebi.github.io/Awesome-Linux-Software/",
             "id": 65083316,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-05-03T08:15:18Z",
+            "open_issues": 0,
             "owner": "luong-komorebi",
             "repo": "Awesome-Linux-Software",
-            "stars": 25582
+            "stars": 25582,
+            "topics": [
+              "applications",
+              "awesome-list",
+              "cli-app",
+              "cross-platform",
+              "desktop-environment",
+              "free",
+              "freeware-icon",
+              "gui-app",
+              "icon-theme",
+              "linux",
+              "linux-app",
+              "linux-desktop",
+              "linux-resource",
+              "open-source",
+              "oss-icon",
+              "software",
+              "tools",
+              "ubuntu-linux"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -2740,12 +4902,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 266641317,
             "language": null,
+            "license": null,
             "last_commit": "2024-07-18T17:32:22Z",
+            "open_issues": 18,
             "owner": "kodekloudhub",
             "repo": "linux-basics-course",
-            "stars": 2075
+            "stars": 2075,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -2762,12 +4929,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of resources on HashiCorp's Terraform and OpenTofu",
+            "homepage": null,
             "id": 58478671,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-25T07:24:42Z",
+            "open_issues": 10,
             "owner": "shuaibiyy",
             "repo": "awesome-tf",
-            "stars": 6582
+            "stars": 6582,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "devops",
+              "hashicorp-terraform",
+              "infrastructure-as-code",
+              "opentofu",
+              "terraform",
+              "terraform-modules"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -2778,12 +4959,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Infrastructure As Code Tutorial. Covers Packer, Terraform, Ansible, Vagrant, Docker, Docker Compose, Kubernetes",
+            "homepage": null,
             "id": 118977874,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2022-11-19T00:17:00Z",
+            "open_issues": 11,
             "owner": "Artemmkin",
             "repo": "infrastructure-as-code-tutorial",
-            "stars": 2307
+            "stars": 2307,
+            "topics": [
+              "ansible",
+              "docker",
+              "docker-compose",
+              "googlecloudplatform",
+              "infrastructure-as-code",
+              "kubernetes",
+              "packer",
+              "terraform",
+              "vagrant"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -2794,12 +4990,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An authoritative list of awesome Azure Terraform tools and samples with help from community experiments and contributions.",
+            "homepage": null,
             "id": 123993651,
             "language": "HCL",
+            "license": "MIT",
             "last_commit": "2023-12-06T14:27:12Z",
+            "open_issues": 1,
             "owner": "Azure",
             "repo": "awesome-terraform",
-            "stars": 180
+            "stars": 180,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -2816,12 +5017,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Practical introduction to Prometheus for developers.",
+            "homepage": "https://danielfm.me/posts/prometheus-for-developers/",
             "id": 139440171,
             "language": "JavaScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-03-30T11:21:05Z",
+            "open_issues": 3,
             "owner": "danielfm",
             "repo": "prometheus-for-developers",
-            "stars": 470
+            "stars": 470,
+            "topics": [
+              "docker",
+              "monitoring",
+              "prometheus",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -2838,12 +5049,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":book: :articulated_lorry:  Curated list of awesome resources: books, videos, articles about using TDD(Test Driven Development)",
+            "homepage": null,
             "id": 34444599,
             "language": null,
+            "license": null,
             "last_commit": "2022-01-29T19:46:06Z",
+            "open_issues": 3,
             "owner": "unicodeveloper",
             "repo": "awesome-tdd",
-            "stars": 814
+            "stars": 814,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -2860,12 +5076,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Serenity BDD is a test automation library designed to make writing automated acceptance tests easier, and more fun.",
+            "homepage": "http://serenity-bdd.info",
             "id": 26201720,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-16T07:40:15Z",
+            "open_issues": 441,
             "owner": "serenity-bdd",
             "repo": "serenity-core",
-            "stars": 754
+            "stars": 754,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -2882,12 +5103,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome List of resources on Agile Software Development.",
+            "homepage": "https://lorabv.github.io/awesome-agile",
             "id": 104643181,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-08-10T05:59:46Z",
+            "open_issues": 11,
             "owner": "lorabv",
             "repo": "awesome-agile",
-            "stars": 1481
+            "stars": 1481,
+            "topics": [
+              "a-b-testing",
+              "agile",
+              "agile-architecture",
+              "agile-development",
+              "agile-manifesto",
+              "awesome",
+              "awesome-list",
+              "backlog",
+              "design-thinking",
+              "kanban",
+              "lean",
+              "okr",
+              "pair-programming",
+              "product-management",
+              "retrospectives",
+              "scrum",
+              "scrum-master",
+              "tdd",
+              "technical-debt",
+              "user-stories"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -2904,12 +5151,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✅ The programmer-friendly testing framework for Java and the JVM",
+            "homepage": "https://junit.org",
             "id": 29102367,
             "language": "Java",
+            "license": "EPL-2.0",
             "last_commit": "2026-08-28T00:54:40Z",
+            "open_issues": 127,
             "owner": "junit-team",
             "repo": "junit-framework",
-            "stars": 7043
+            "stars": 7043,
+            "topics": [
+              "java",
+              "junit",
+              "junit-jupiter",
+              "junit-platform",
+              "junit-vintage",
+              "kotlin",
+              "kotlin-testing",
+              "test-framework"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -2926,12 +5187,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TestNG testing framework",
+            "homepage": "https://testng.org",
             "id": 745749,
             "language": "Java",
-            "last_commit": "2026-08-28T11:31:00Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:31:49Z",
+            "open_issues": 243,
             "owner": "testng-team",
             "repo": "testng",
-            "stars": 2059
+            "stars": 2058,
+            "topics": [
+              "java",
+              "jvm",
+              "testing",
+              "testng"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -2942,12 +5213,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Eclipse plug-in for TestNG",
+            "homepage": "https://testng.org",
             "id": 745766,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-02-15T06:56:21Z",
+            "open_issues": 69,
             "owner": "testng-team",
             "repo": "testng-eclipse",
-            "stars": 197
+            "stars": 197,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -2964,12 +5240,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+            "homepage": "https://mlabonne.github.io/blog/",
             "id": 655099582,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-02-05T13:09:26Z",
+            "open_issues": 89,
             "owner": "mlabonne",
             "repo": "llm-course",
-            "stars": 82065
+            "stars": 82066,
+            "topics": [
+              "course",
+              "large-language-models",
+              "llm",
+              "machine-learning",
+              "roadmap"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -2980,12 +5267,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "18 Lessons to Get Started Building AI Agents",
+            "homepage": "https://aka.ms/ai-agents-beginners",
             "id": 895508656,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-08-27T09:55:57Z",
+            "open_issues": 8,
             "owner": "microsoft",
             "repo": "ai-agents-for-beginners",
-            "stars": 73420
+            "stars": 73424,
+            "topics": [
+              "agentic-ai",
+              "agentic-framework",
+              "agentic-rag",
+              "ai-agents",
+              "ai-agents-framework",
+              "autogen",
+              "foundry",
+              "foundry-local",
+              "generative-ai",
+              "microsoft-foundry",
+              "semantic-kernel"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -2996,12 +5300,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "12 Weeks, 24 Lessons, AI for All!",
+            "homepage": null,
             "id": 344190478,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-07-21T11:11:48Z",
+            "open_issues": 33,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 67548
+            "stars": 67567,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "cnn",
+              "computer-vision",
+              "deep-learning",
+              "gan",
+              "machine-learning",
+              "microsoft-for-beginners",
+              "nlp",
+              "rnn"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -3012,12 +5332,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
+            "homepage": "https://localai.io",
             "id": 615869301,
             "language": "Go",
-            "last_commit": "2026-08-28T23:04:07Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:16:01Z",
+            "open_issues": 223,
             "owner": "mudler",
             "repo": "LocalAI",
-            "stars": 48727
+            "stars": 48727,
+            "topics": [
+              "agents",
+              "ai",
+              "api",
+              "audio-generation",
+              "decentralized",
+              "distributed",
+              "image-generation",
+              "libp2p",
+              "llama",
+              "llm",
+              "mamba",
+              "mcp",
+              "musicgen",
+              "object-detection",
+              "rerank",
+              "stable-diffusion",
+              "text-generation",
+              "tts"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -3028,12 +5372,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "10 Weeks, 20 Lessons, Data Science for All!",
+            "homepage": null,
             "id": 344191198,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-08-20T01:11:34Z",
+            "open_issues": 10,
             "owner": "microsoft",
             "repo": "Data-Science-For-Beginners",
-            "stars": 36756
+            "stars": 36756,
+            "topics": [
+              "data-analysis",
+              "data-science",
+              "data-visualization",
+              "microsoft-for-beginners",
+              "pandas",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -3044,12 +5400,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.",
+            "homepage": "https://promptfoo.dev",
             "id": 633927609,
             "language": "TypeScript",
-            "last_commit": "2026-08-29T00:31:56Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:53:58Z",
+            "open_issues": 540,
             "owner": "promptfoo",
             "repo": "promptfoo",
-            "stars": 24650
+            "stars": 24651,
+            "topics": [
+              "ci",
+              "ci-cd",
+              "cicd",
+              "evaluation",
+              "evaluation-framework",
+              "llm",
+              "llm-eval",
+              "llm-evaluation",
+              "llm-evaluation-framework",
+              "llmops",
+              "pentesting",
+              "prompt-engineering",
+              "prompt-testing",
+              "prompts",
+              "rag",
+              "red-teaming",
+              "testing",
+              "vulnerability-scanners"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -3060,12 +5440,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "12 Weeks, 24 Lessons, IoT for All!",
+            "homepage": null,
             "id": 344192338,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-05-26T21:50:02Z",
+            "open_issues": 0,
             "owner": "microsoft",
             "repo": "IoT-For-Beginners",
-            "stars": 17019
+            "stars": 17019,
+            "topics": [
+              "cpp",
+              "hacktoberfest",
+              "iot",
+              "iot-device",
+              "iot-edge",
+              "microcontroller",
+              "microsoft-for-beginners",
+              "python",
+              "raspberry-pi",
+              "rpi"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -3076,12 +5472,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learn AI and LLMs from scratch using free resources",
+            "homepage": null,
             "id": 964477695,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2026-02-05T02:34:40Z",
+            "open_issues": 9,
             "owner": "ashishps1",
             "repo": "learn-ai-engineering",
-            "stars": 5967
+            "stars": 5967,
+            "topics": [
+              "agentic-ai",
+              "agents",
+              "ai",
+              "deep-learning",
+              "generative-ai",
+              "large-language-models",
+              "llm",
+              "machine-learning",
+              "mcp",
+              "ml",
+              "prompt-engineering",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -3098,12 +5512,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+            "homepage": null,
             "id": 343965132,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-08-20T01:11:33Z",
+            "open_issues": 13,
             "owner": "microsoft",
             "repo": "ML-For-Beginners",
-            "stars": 89873
+            "stars": 89876,
+            "topics": [
+              "data-science",
+              "education",
+              "machine-learning",
+              "machine-learning-algorithms",
+              "machinelearning",
+              "machinelearning-python",
+              "microsoft-for-beginners",
+              "ml",
+              "python",
+              "r",
+              "scikit-learn",
+              "scikit-learn-python"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -3114,12 +5546,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74202
+            "stars": 74202,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -3130,12 +5567,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "100 Days of ML Coding",
+            "homepage": null,
             "id": 139824423,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-12-29T07:57:53Z",
+            "open_issues": 68,
             "owner": "Avik-Jain",
             "repo": "100-Days-Of-ML-Code",
-            "stars": 51688
+            "stars": 51687,
+            "topics": [
+              "100-days-of-code-log",
+              "100daysofcode",
+              "deep-learning",
+              "implementation",
+              "infographics",
+              "linear-algebra",
+              "linear-regression",
+              "logistic-regression",
+              "machine-learning",
+              "machine-learning-algorithms",
+              "naive-bayes-classifier",
+              "python",
+              "scikit-learn",
+              "siraj-raval",
+              "siraj-raval-challenge",
+              "support-vector-machines",
+              "svm",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -3146,12 +5607,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learn how to develop, deploy and iterate on production-grade ML applications.",
+            "homepage": "https://madewithml.com",
             "id": 156157055,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-03-04T23:44:21Z",
+            "open_issues": 25,
             "owner": "GokuMohandas",
             "repo": "Made-With-ML",
-            "stars": 49257
+            "stars": 49259,
+            "topics": [
+              "data-engineering",
+              "data-quality",
+              "data-science",
+              "deep-learning",
+              "distributed-ml",
+              "distributed-training",
+              "llms",
+              "machine-learning",
+              "mlops",
+              "natural-language-processing",
+              "python",
+              "pytorch",
+              "ray"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -3162,12 +5642,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
+            "homepage": null,
             "id": 80990461,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-10-15T06:05:06Z",
+            "open_issues": 77,
             "owner": "eriklindernoren",
             "repo": "ML-From-Scratch",
-            "stars": 32542
+            "stars": 32544,
+            "topics": [
+              "data-mining",
+              "data-science",
+              "deep-learning",
+              "deep-reinforcement-learning",
+              "genetic-algorithm",
+              "machine-learning",
+              "machine-learning-from-scratch"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -3178,12 +5671,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
+            "homepage": null,
             "id": 277168957,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-07-18T22:41:02Z",
+            "open_issues": 8,
             "owner": "eugeneyan",
             "repo": "applied-ml",
-            "stars": 30096
+            "stars": 30097,
+            "topics": [
+              "applied-data-science",
+              "applied-machine-learning",
+              "computer-vision",
+              "data-discovery",
+              "data-engineering",
+              "data-quality",
+              "data-science",
+              "deep-learning",
+              "machine-learning",
+              "natural-language-processing",
+              "production",
+              "recsys",
+              "reinforcement-learning",
+              "search"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -3194,12 +5707,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimal and clean examples of machine learning algorithms implementations",
+            "homepage": null,
             "id": 70036319,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-07T06:48:35Z",
+            "open_issues": 10,
             "owner": "rushter",
             "repo": "MLAlgorithms",
-            "stars": 11172
+            "stars": 11172,
+            "topics": [
+              "deep-learning",
+              "machine-learning",
+              "machine-learning-algorithms",
+              "neural-networks",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -3210,12 +5734,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Machine Learning Course",
+            "homepage": "https://mlcourse.ai",
             "id": 83286964,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-01T09:12:51Z",
+            "open_issues": 3,
             "owner": "Yorko",
             "repo": "mlcourse.ai",
-            "stars": 10695
+            "stars": 10695,
+            "topics": [
+              "algorithms",
+              "data-analysis",
+              "data-science",
+              "docker",
+              "ipynb",
+              "kaggle-inclass",
+              "machine-learning",
+              "math",
+              "matplotlib",
+              "numpy",
+              "pandas",
+              "plotly",
+              "python",
+              "scikit-learn",
+              "scipy",
+              "seaborn",
+              "vowpal-wabbit"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -3226,12 +5773,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Machine learning tools in JavaScript",
+            "homepage": null,
             "id": 25819289,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-10-21T07:02:43Z",
+            "open_issues": 27,
             "owner": "mljs",
             "repo": "ml",
-            "stars": 2717
+            "stars": 2717,
+            "topics": [
+              "javascript",
+              "machine-learning",
+              "ml"
+            ]
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         },
@@ -3242,12 +5798,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 740346958,
             "language": null,
+            "license": null,
             "last_commit": "2024-01-10T02:39:00Z",
+            "open_issues": 1,
             "owner": "LLM-Testing",
             "repo": "LLM4SoftwareTesting",
-            "stars": 527
+            "stars": 527,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:37.538Z"
         }
@@ -3256,15 +5817,40 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:32:37.538Z",
+    "last_updated": "2026-08-29T04:38:11.611Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome learning resources for a Software Test Automation Engineer ",
+      "homepage": null,
       "id": 590043905,
       "language": null,
+      "license": "GPL-3.0",
       "last_commit": "2026-08-10T11:38:28Z",
+      "open_issues": 0,
       "owner": "mfaisalkhatri",
       "repo": "awesome-learning",
-      "stars": 1262
+      "stars": 1261,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cicd",
+        "continuous-delivery",
+        "continuous-integration",
+        "devops",
+        "docker",
+        "github",
+        "hacktoberfest",
+        "javascript",
+        "learning",
+        "learning-path",
+        "programming-language",
+        "python",
+        "software-testing",
+        "tdd",
+        "test-automation",
+        "testautomation",
+        "unicorns"
+      ]
     },
     "original_repository_sha": "dc021ec84b24bc03b226bb23d97eb2b93ebe07e3",
     "enhanced_repository": "enhansome/enhansome-learning",
