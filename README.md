@@ -1,4 +1,4 @@
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 537,432 | 🐛 104 | 📅 2026-09-02
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 538,000 | 🐛 104 | 📅 2026-09-02
 
 # Awesome Learning with stars
 
@@ -45,9 +45,9 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 # RoadMaps
 
-* [DevOps Roadmap by Milan Milanovic](https://github.com/milanm/DevOps-Roadmap) ⭐ 20,979 | 🐛 11 | 📅 2026-11-02
+* [DevOps Roadmap by Milan Milanovic](https://github.com/milanm/DevOps-Roadmap) ⭐ 20,991 | 🐛 11 | 📅 2026-11-02
 * [QA Roadmap by Anas Fitiani](https://github.com/fityanos/awesome-quality-assurance-roadmap) ⭐ 2,213 | 🐛 9 | 📅 2026-06-04
-* [Threat Modelling Roadmap by Hysn Technologies Inc](https://github.com/hysnsec/awesome-threat-modelling) ⭐ 1,839 | 🐛 26 | 🌐 Dockerfile | 📅 2024-08-02
+* [Threat Modelling Roadmap by Hysn Technologies Inc](https://github.com/hysnsec/awesome-threat-modelling) ⭐ 1,841 | 🐛 26 | 🌐 Dockerfile | 📅 2024-08-02
 * [Roadmap to learn Automation Testing](https://medium.com/@iamfaisalkhatri/how-do-i-switch-from-manual-to-automation-testing-dc726950c3a9)
 * [Developer Roadmaps](https://roadmap.sh/)
 
@@ -58,7 +58,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 # Computer Science Courses
 
-* [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses) ⭐ 84,857 | 🐛 4 | 📅 2026-11-15
+* [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses) ⭐ 84,869 | 🐛 4 | 📅 2026-11-15
 * [1200 Free Computer Science Courses from the World’s Top Universities](https://www.freecodecamp.org/news/free-courses-top-cs-universities/)
 
 # Programming languages
@@ -66,9 +66,9 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Java</summary>
 
-* [Java Design Patterns - Github](https://github.com/iluwatar/java-design-patterns) ⭐ 94,871 | 🐛 146 | 🌐 Java | 📅 2026-10-08
-* [Algorithms in Java](https://github.com/TheAlgorithms/Java) ⭐ 67,252 | 🐛 20 | 🌐 Java | 📅 2026-11-14
-* [Awesome-Java](https://github.com/akullpp/awesome-java) ⭐ 49,540 | 🐛 43 | 📅 2026-09-23
+* [Java Design Patterns - Github](https://github.com/iluwatar/java-design-patterns) ⭐ 94,877 | 🐛 146 | 🌐 Java | 📅 2026-10-08
+* [Algorithms in Java](https://github.com/TheAlgorithms/Java) ⭐ 67,262 | 🐛 20 | 🌐 Java | 📅 2026-11-16
+* [Awesome-Java](https://github.com/akullpp/awesome-java) ⭐ 49,556 | 🐛 47 | 📅 2026-09-23
 * [100+ Best System Design Resources for Interview and Learning](https://github.com/javabuddy/best-system-design-resources) ⭐ 4,506 | 🐛 6 | 📅 2026-03-31
 * [Java Best Practices](https://github.com/in28minutes/java-best-practices) ⭐ 1,458 | 🐛 2 | 📅 2023-10-07
 * [30 Days of Java](https://github.com/AaronGalloway/30-Days-Of-Java) ⭐ 173 | 🐛 5 | 🌐 Java | 📅 2021-07-27
@@ -106,8 +106,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>JavaScript</summary>
 
-* [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) ⭐ 47,003 | 🐛 367 | 🌐 JavaScript | 📅 2026-08-27
-* [Awesome-JavaScript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,032 | 🐛 40 | 📅 2026-11-10
+* [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) ⭐ 47,006 | 🐛 367 | 🌐 JavaScript | 📅 2026-08-27
+* [Awesome-JavaScript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,035 | 🐛 40 | 📅 2026-11-10
 * [JavaScript Roadmap](https://roadmap.sh/javascript)
 * [Beginners Series to JavaScript](https://learn.microsoft.com/en-us/shows/beginners-series-to-javascript/)
 * [JavaScript Certification - freeCodeCamp](https://www.freecodecamp.org/learn/javascript-v9/)
@@ -129,10 +129,10 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>TypeScript</summary>
 
-* [TypeScript](https://github.com/Microsoft/TypeScript) ⭐ 111,822 | 🐛 5,304 | 🌐 Go | 📅 2026-11-15
-* [Awesome TypeScript](https://github.com/semlinker/awesome-typescript) ⭐ 4,051 | 🐛 139 | 📅 2026-10-03
+* [TypeScript](https://github.com/Microsoft/TypeScript) ⭐ 111,835 | 🐛 5,300 | 🌐 Go | 📅 2026-11-16
+* [Awesome TypeScript](https://github.com/semlinker/awesome-typescript) ⭐ 4,051 | 🐛 142 | 📅 2026-10-03
 * [Awesome TypeScript projects](https://github.com/brookshi/awesome-typescript-projects) ⭐ 904 | 🐛 10 | 🌐 TypeScript | 📅 2023-06-13
-* [TypeScript Tips](https://github.com/jellydn/typescript-tips) ⭐ 442 | 🐛 1 | 📅 2026-11-09
+* [TypeScript Tips](https://github.com/jellydn/typescript-tips) ⭐ 442 | 🐛 1 | 📅 2026-11-16
 * [Awesome-TypeScript](https://github.com/ellerbrock/awesome-typescript) ⭐ 77 | 🐛 5 | 📅 2024-06-07
 * [TypeScript Roadmap](https://roadmap.sh/typescript)
 * [Learn TypeScript from Scratch](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
@@ -154,12 +154,12 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Python</summary>
 
-* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 334,981 | 🐛 24 | 🌐 Python | 📅 2026-11-14
-* [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) ⭐ 78,826 | 🐛 248 | 🌐 Python | 📅 2026-09-30
-* [Python CheatSheet](https://github.com/gto76/python-cheatsheet) ⭐ 38,944 | 🐛 1 | 🌐 Python | 📅 2026-07-29
-* [Python CheatSheet](https://github.com/gto76/python-cheatsheet) ⭐ 38,944 | 🐛 1 | 🌐 Python | 📅 2026-07-29
-* [Practical Python Programming](https://github.com/dabeaz-course/practical-python) ⭐ 10,942 | 🐛 3 | 🌐 Python | 📅 2025-12-22
-* [Awesome Python Books](https://github.com/junnplus/awesome-python-books) ⭐ 4,319 | 🐛 9 | 📅 2025-07-17
+* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 335,256 | 🐛 21 | 🌐 Python | 📅 2026-11-16
+* [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) ⭐ 78,941 | 🐛 249 | 🌐 Python | 📅 2026-09-30
+* [Python CheatSheet](https://github.com/gto76/python-cheatsheet) ⭐ 38,963 | 🐛 1 | 🌐 Python | 📅 2026-07-29
+* [Python CheatSheet](https://github.com/gto76/python-cheatsheet) ⭐ 38,963 | 🐛 1 | 🌐 Python | 📅 2026-07-29
+* [Practical Python Programming](https://github.com/dabeaz-course/practical-python) ⭐ 10,944 | 🐛 3 | 🌐 Python | 📅 2025-12-22
+* [Awesome Python Books](https://github.com/junnplus/awesome-python-books) ⭐ 4,320 | 🐛 9 | 📅 2025-07-17
 * [Free Python Books](https://github.com/revolunet/PythonBooks) ⭐ 1,959 | 🐛 8 | 🌐 CSS | 📅 2021-02-03
 * [Python Roadmap](https://roadmap.sh/python)
 * [Real Python Tutorials](https://realpython.com/)
@@ -207,11 +207,11 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Data Structures & Algorithms</summary>
 
-* [JavaScript Algorithm](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,728 | 🐛 439 | 🌐 JavaScript | 📅 2026-07-26
-* [Laws, Theories, Principles and Patterns for developers and technologists.](https://github.com/dwmkerr/hacker-laws) ⭐ 27,351 | 🐛 154 | 🌐 HTML | 📅 2026-11-07
-* [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) ⭐ 25,665 | 🐛 0 | 📅 2026-10-13
+* [JavaScript Algorithm](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,732 | 🐛 439 | 🌐 JavaScript | 📅 2026-07-26
+* [Laws, Theories, Principles and Patterns for developers and technologists.](https://github.com/dwmkerr/hacker-laws) ⭐ 27,353 | 🐛 154 | 🌐 HTML | 📅 2026-11-07
+* [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) ⭐ 25,666 | 🐛 0 | 📅 2026-11-16
 * [DS & A in JavaScript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript) ⭐ 7,779 | 🐛 8 | 🌐 JavaScript | 📅 2024-01-30
-* [DS & A Problems](https://github.com/mandliya/algorithms_and_data_structures) ⭐ 6,177 | 🐛 171 | 🌐 C++ | 📅 2024-02-06
+* [DS & A Problems](https://github.com/mandliya/algorithms_and_data_structures) ⭐ 6,178 | 🐛 171 | 🌐 C++ | 📅 2024-02-06
 * [Algo Deck](https://github.com/teivah/algodeck) ⭐ 5,845 | 🐛 0 | 🌐 HTML | 📅 2025-12-09
 * [DS & A Roadmap](https://roadmap.sh/datastructures-and-algorithms)
 * [Learn Data Structures and Algorithms Visually – Crash Course](https://youtu.be/RpLnQnurpLY)
@@ -225,11 +225,11 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Other Learning Materials </summary>
 
-* [Coding Interview University](https://github.com/jwasham/coding-interview-university) ⭐ 364,399 | 🐛 23 | 📅 2026-11-07
-* [Project based learning](https://github.com/practical-tutorials/project-based-learning) ⭐ 289,795 | 🐛 218 | 🌐 Python | 📅 2026-11-09
-* [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 258,737 | 🐛 180 | 📅 2024-11-19
-* [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) ⭐ 143,291 | 🐛 38 | 🌐 TypeScript | 📅 2026-08-07
-* [Awesome Books](https://github.com/linsa-io/books) ⭐ 7,775 | 🐛 17 | 📅 2026-03-04
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university) ⭐ 364,446 | 🐛 23 | 📅 2026-11-07
+* [Project based learning](https://github.com/practical-tutorials/project-based-learning) ⭐ 289,860 | 🐛 213 | 🌐 Python | 📅 2026-11-16
+* [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 259,026 | 🐛 181 | 📅 2024-11-19
+* [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) ⭐ 143,308 | 🐛 38 | 🌐 TypeScript | 📅 2026-08-07
+* [Awesome Books](https://github.com/linsa-io/books) ⭐ 7,783 | 🐛 17 | 📅 2026-03-04
 * [Awesome DevTools](https://github.com/devtoolsd/awesome-devtools) ⭐ 692 | 🐛 319 | 📅 2025-10-12
 * [Learn Regex step by step, from zero to advanced.](https://regexlearn.com/)
 * [Learn 25+ Programming Languages by playing games](http://codingame.com)
@@ -239,7 +239,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Free Programming Books </summary>
 
-* [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) ⭐ 401,646 | 🐛 113 | 🌐 Python | 📅 2026-11-12
+* [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) ⭐ 401,710 | 🐛 118 | 🌐 Python | 📅 2026-11-12
 * [Free Tech Books](https://www.freebookcentre.net/)
 * [Programming in Java - An Interdisciplinary approach](https://introcs.cs.princeton.edu/java/home/)
 * [Python Cheat Sheet](https://labex.io/pythoncheatsheet/)
@@ -301,12 +301,12 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Free tutorials</summary>
 
-* [system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐ 377,971 | 🐛 644 | 🌐 Python | 📅 2026-09-15
-* [system-design-101](https://github.com/ByteByteGoHq/system-design-101) ⭐ 91,204 | 🐛 70 | 📅 2025-04-04
-* [system-design](https://github.com/karanpratapsingh/system-design) ⭐ 46,909 | 🐛 3 | 📅 2026-10-18
-* [System Design Learning Resources](https://github.com/ashishps1/awesome-system-design-resources) ⭐ 43,399 | 🐛 26 | 🌐 Java | 📅 2026-11-01
-* [Awesome System Design](https://github.com/alexpate/awesome-design-systems) ⭐ 26,376 | 🐛 3 | 📅 2026-11-13
-* [system-design-interview](https://github.com/checkcheckzz/system-design-interview) ⭐ 23,889 | 🐛 27 | 📅 2023-04-03
+* [system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐ 378,106 | 🐛 644 | 🌐 Python | 📅 2026-09-15
+* [system-design-101](https://github.com/ByteByteGoHq/system-design-101) ⭐ 91,234 | 🐛 70 | 📅 2025-04-04
+* [system-design](https://github.com/karanpratapsingh/system-design) ⭐ 46,932 | 🐛 3 | 📅 2026-10-18
+* [System Design Learning Resources](https://github.com/ashishps1/awesome-system-design-resources) ⭐ 43,431 | 🐛 26 | 🌐 Java | 📅 2026-11-01
+* [Awesome System Design](https://github.com/alexpate/awesome-design-systems) ⭐ 26,382 | 🐛 3 | 📅 2026-11-13
+* [system-design-interview](https://github.com/checkcheckzz/system-design-interview) ⭐ 23,891 | 🐛 27 | 📅 2023-04-03
 * [System Design Resources](https://github.com/InterviewReady/system-design-resources) ⭐ 18,554 | 🐛 2 | 📅 2025-07-16
 * [System Design Preparation](https://github.com/shashank88/system_design) ⭐ 9,297 | 🐛 15 | 📅 2024-05-10
 * [System Design Roadmap](https://roadmap.sh/system-design)
@@ -349,7 +349,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Software Testing/Test Automation/Blogs and Guides</summary>
 
-* [Awesome-test-automation](https://github.com/atinfo/awesome-test-automation) ⭐ 7,225 | 🐛 176 | 📅 2025-11-28
+* [Awesome-test-automation](https://github.com/atinfo/awesome-test-automation) ⭐ 7,226 | 🐛 176 | 📅 2025-11-28
 * [How they test?](https://github.com/abhivaikar/howtheytest) ⭐ 6,887 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-13
 * [Awesome-Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,422 | 🐛 2 | 📅 2026-11-15
 * [Free Learning Resources For Software Testers](https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters) ⭐ 1,247 | 🐛 6 | 📅 2024-11-13
@@ -521,7 +521,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>Free Tutorials </summary>
 
 * [Git Roadmap](https://roadmap.sh/git-github)
-* [List of Commonly used Git commands](https://github.com/joshnh/Git-Commands) ⭐ 5,465 | 🐛 11 | 📅 2024-10-15
+* [List of Commonly used Git commands](https://github.com/joshnh/Git-Commands) ⭐ 5,464 | 🐛 11 | 📅 2024-10-15
 * [Source Control for Test Automation with Git](https://testautomationu.applitools.com/git-tutorial/)
 * [Git & GitHub FreeCodeCamp Playlist](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
 * [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://www.youtube.com/watch?v=Uszj_k0DGsg)
@@ -547,7 +547,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <Summary>Selenium WebDriver</Summary>
 
-* [Selenium with JavaScript](https://github.com/SeleniumHQ/seleniumhq.github.io/tree/trunk/examples/javascript) ⭐ 1,403 | 🐛 15 | 🌐 HTML | 📅 2026-11-13
+* [Selenium with JavaScript](https://github.com/SeleniumHQ/seleniumhq.github.io/tree/trunk/examples/javascript) ⭐ 1,402 | 🐛 14 | 🌐 HTML | 📅 2026-11-16
 * [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium) ⭐ 1,140 | 🐛 17 | 📅 2026-09-19
 * [Selenium WebDriver example code](https://github.com/mfaisalkhatri/selenium4poc) ⭐ 208 | 🐛 3 | 🌐 Java | 📅 2026-11-06
 * [Selenium WebDriver Documentation](https://www.selenium.dev/documentation/)
@@ -610,8 +610,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Playwright</summary>
 
-* [Playwright - Github](https://github.com/microsoft/playwright) ⭐ 100,254 | 🐛 47 | 🌐 TypeScript | 📅 2026-11-14
-* [Awesome-Playwright](https://github.com/mxschmitt/awesome-playwright) ⭐ 1,614 | 🐛 67 | 📅 2026-10-02
+* [Playwright - Github](https://github.com/microsoft/playwright) ⭐ 100,349 | 🐛 62 | 🌐 TypeScript | 📅 2026-11-17
+* [Awesome-Playwright](https://github.com/mxschmitt/awesome-playwright) ⭐ 1,614 | 🐛 68 | 📅 2026-10-02
 * [A detailed tutorial on Playwright & Test Runner](https://github.com/ortoniKC/Playwright-Test-Runner) ⭐ 116 | 🐛 3 | 🌐 TypeScript | 📅 2023-02-19
 * [Playwright Documentation - Nodejs](https://playwright.dev/docs/intro)
 * [Playwright Documentation - Java](https://playwright.dev/java/docs/intro)
@@ -684,7 +684,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>WebDriverIO</summary>
 
-* [WebdriverIO - Github](https://github.com/webdriverio/webdriverio) ⭐ 9,884 | 🐛 270 | 🌐 TypeScript | 📅 2026-11-15
+* [WebdriverIO - Github](https://github.com/webdriverio/webdriverio) ⭐ 9,883 | 🐛 273 | 🌐 TypeScript | 📅 2026-11-16
 * [WebdriverIO](https://webdriver.io/)
 * [WebDriverIO - YouTube](https://www.youtube.com/watch?v=GAc031zGWTM\&list=PLPO0LFyCaSo3oedws079pCNtppXAZdjv6)
 * [UI Automation with WebdriverIO v7](https://testautomationu.applitools.com/webdriverio-7-tutorial/)
@@ -717,7 +717,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Selenium Grid</summary>
 
-* [docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ⭐ 8,663 | 🐛 102 | 🌐 Go | 📅 2026-11-14
+* [docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ⭐ 8,663 | 🐛 104 | 🌐 Go | 📅 2026-11-14
 * [Selenium Grid 4](https://www.selenium.dev/documentation/grid/)
 * [Selenium Grid Tutorial: Parallel Testing Guide with Examples](https://www.testmuai.com/blog/selenium-grid-setup-tutorial/)
 * [Parallel Execution of Tests using Selenium Grid 4 with Docker Compose](https://medium.com/@iamfaisalkhatri/parallel-execution-of-tests-using-selenium-grid-4-with-docker-compose-2dc243f4fe8b)
@@ -736,7 +736,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Demo Websites for Web Automation Testing Practice</summary>
 
-* [OWASP Juice Shop](https://github.com/juice-shop/juice-shop) ⭐ 14,447 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-11
+* [OWASP Juice Shop](https://github.com/juice-shop/juice-shop) ⭐ 14,457 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-11
 * [Awesome Sites to Test On](https://github.com/BMayhew/awesome-sites-to-test-on) ⭐ 1,120 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-14
 * [Live Chat Playground](https://github.com/mfaisalkhatri/live-chat-playground) ⭐ 5 | 🐛 1 | 🌐 TypeScript | 📅 2025-08-03
 * [Demo Websites - AutomationPanda.com](https://automationpanda.com/2021/12/29/want-to-practice-test-automation-try-these-demo-sites/)
@@ -807,7 +807,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Keploy</summary>
 
-* [Keploy Open source - Github](https://github.com/keploy/keploy) ⭐ 19,804 | 🐛 844 | 🌐 Go | 📅 2026-11-15
+* [Keploy Open source - Github](https://github.com/keploy/keploy) ⭐ 19,845 | 🐛 869 | 🌐 Go | 📅 2026-11-16
 * [Keploy Official Website](https://keploy.io)
 * [Keploy Official Docs](https://keploy.io/docs/)
 * [Keploy Official Community Blogs](https://keploy.io/blog/community)
@@ -826,7 +826,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>Rest Assured</summary>
 
 * [Rest Assured Usage Guide](https://github.com/rest-assured/rest-assured/wiki/Usage) ⭐ 7,151 | 🐛 548 | 🌐 Java | 📅 2026-11-13
-* [Rest Assured Example code](https://github.com/mfaisalkhatri/rest-assured-examples) ⭐ 223 | 🐛 2 | 🌐 Java | 📅 2026-11-09
+* [Rest Assured Example code](https://github.com/mfaisalkhatri/rest-assured-examples) ⭐ 223 | 🐛 2 | 🌐 Java | 📅 2026-11-16
 * [rest-assured.io](https://rest-assured.io/)
 * [Automating your API tests with REST Assured](https://testautomationu.applitools.com/automating-your-api-tests-with-rest-assured/)
 * [API Test Automation with Rest-Assured - Free Course](https://youtube.com/playlist?list=PLMer2TvhZIw-8KszaIZFsOrE8MEJXVYoY\&si=2bRnRpVZHxsJDmku)
@@ -874,7 +874,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Playwright</summary>
 
-* [API Testing with Playwright - GitHub](https://github.com/microsoft/playwright/blob/main/docs/src/api-testing-js.md) ⭐ 100,254 | 🐛 47 | 🌐 TypeScript | 📅 2026-11-14
+* [API Testing with Playwright - GitHub](https://github.com/microsoft/playwright/blob/main/docs/src/api-testing-js.md) ⭐ 100,349 | 🐛 62 | 🌐 TypeScript | 📅 2026-11-17
 * [API Testing with Playwright TypeScript](https://www.youtube.com/live/87EIQzJl2AY?si=7GlJTuFpnGIS65mu)
 * [API Testing with Playwright TypeScript - Free Course](https://youtube.com/playlist?list=PLMer2TvhZIw-N5p555hrlW_CLn2iaXfw7\&si=84LDiUmEje7KNQbS)
 * [How to test POST API requests with Playwright Java](https://medium.com/@iamfaisalkhatri/playwright-java-api-testing-how-to-test-post-requests-4c9102d3ab03)
@@ -903,7 +903,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>pytest</summary>
 
-* [pytest-dev/pytest](https://github.com/pytest-dev/pytest) ⭐ 14,688 | 🐛 943 | 🌐 Python | 📅 2026-11-15
+* [pytest-dev/pytest](https://github.com/pytest-dev/pytest) ⭐ 14,690 | 🐛 950 | 🌐 Python | 📅 2026-11-16
 * [awesome-pytest](https://github.com/augustogoulart/awesome-pytest) ⭐ 582 | 🐛 8 | 📅 2026-06-24
 * [Testing using Pytest](https://testautomationu.applitools.com/python-api-testing/chapter1.html)
 * [Automating your API tests using Python and Pytest](https://dev.to/m4rri4nne/automating-your-api-tests-using-python-and-pytest-23cc)
@@ -963,7 +963,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Bruno</summary>
 
-* [bruno - GitHub](https://github.com/usebruno/bruno) ⭐ 48,399 | 🐛 2,005 | 🌐 JavaScript | 📅 2026-11-12
+* [bruno - GitHub](https://github.com/usebruno/bruno) ⭐ 48,416 | 🐛 2,004 | 🌐 JavaScript | 📅 2026-11-16
 * [bruno](https://www.usebruno.com/)
 * [How to Use Bruno for API Testing (Beginner's Guide)](https://apidog.com/blog/bruno-api/)
 
@@ -972,23 +972,23 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Tools/Frameworks for API Testing</summary>
 
-* [Hoppscotch - Open-source alternative to Postman, Insomnia)](https://github.com/hoppscotch/hoppscotch) ⭐ 80,819 | 🐛 901 | 🌐 TypeScript | 📅 2026-11-05
-* [Insomnia - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.](https://github.com/Kong/insomnia) ⭐ 40,159 | 🐛 948 | 🌐 TypeScript | 📅 2026-11-14
-* [HTTPie CLI — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.](https://github.com/httpie/cli) ⭐ 38,719 | 🐛 362 | 🌐 Python | 📅 2024-12-17
-* [Hurl, run and test HTTP requests with plain text.](https://github.com/Orange-OpenSource/hurl) ⭐ 19,325 | 🐛 204 | 🌐 Rust | 📅 2026-11-15
-* [Karate DSL](https://github.com/karatelabs/karate) ⭐ 9,008 | 🐛 6 | 🌐 Java | 📅 2026-11-13
-* [xh - Friendly and fast tool for sending HTTP requests](https://github.com/ducaale/xh) ⭐ 8,189 | 🐛 39 | 🌐 Rust | 📅 2026-11-06
+* [Hoppscotch - Open-source alternative to Postman, Insomnia)](https://github.com/hoppscotch/hoppscotch) ⭐ 80,831 | 🐛 906 | 🌐 TypeScript | 📅 2026-11-05
+* [Insomnia - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.](https://github.com/Kong/insomnia) ⭐ 40,160 | 🐛 959 | 🌐 TypeScript | 📅 2026-11-16
+* [HTTPie CLI — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.](https://github.com/httpie/cli) ⭐ 38,720 | 🐛 363 | 🌐 Python | 📅 2024-12-17
+* [Hurl, run and test HTTP requests with plain text.](https://github.com/Orange-OpenSource/hurl) ⭐ 19,326 | 🐛 201 | 🌐 Rust | 📅 2026-11-16
+* [Karate DSL](https://github.com/karatelabs/karate) ⭐ 9,009 | 🐛 6 | 🌐 Java | 📅 2026-11-13
+* [xh - Friendly and fast tool for sending HTTP requests](https://github.com/ducaale/xh) ⭐ 8,191 | 🐛 38 | 🌐 Rust | 📅 2026-11-06
 * [Newman - Commandline collection runner for Postman](https://github.com/postmanlabs/newman) ⭐ 7,280 | 🐛 348 | 🌐 JavaScript | 📅 2026-10-09
-* [Requestly - Free and open-source API Client & Interceptor.](https://github.com/requestly/requestly) ⭐ 6,766 | 🐛 269 | 📅 2026-11-13
-* [schemathesis](https://github.com/schemathesis/schemathesis) ⭐ 3,781 | 🐛 17 | 🌐 Python | 📅 2026-11-15
-* [Restxox](https://github.com/flawiddsouza/Restfox) ⭐ 2,780 | 🐛 31 | 🌐 TypeScript | 📅 2026-11-10
+* [Requestly - Free and open-source API Client & Interceptor.](https://github.com/requestly/requestly) ⭐ 6,767 | 🐛 269 | 📅 2026-11-16
+* [schemathesis](https://github.com/schemathesis/schemathesis) ⭐ 3,782 | 🐛 21 | 🌐 Python | 📅 2026-11-17
+* [Restxox](https://github.com/flawiddsouza/Restfox) ⭐ 2,783 | 🐛 33 | 🌐 TypeScript | 📅 2026-11-10
 
 </details>
 
 <details>
 <summary>Demo APIs for Practice </summary>
 
-* [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) ⭐ 47 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-26
+* [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) ⭐ 47 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-16
 * [Restful Booker](https://restful-booker.herokuapp.com/apidoc/index.html)
 * [Eviltester - API challenges](https://www.eviltester.com/page/tools/apichallenges/)
 * [Toolshop API](https://api.practicesoftwaretesting.com/api/documentation)
@@ -1045,7 +1045,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>Appium</summary>
 
 * [Appium Desktop](https://github.com/appium/appium-desktop) ⚠️ Archived
-* [Appium Inspector](https://github.com/appium/appium-inspector) ⭐ 1,914 | 🐛 19 | 🌐 JavaScript | 📅 2026-11-15
+* [Appium Inspector](https://github.com/appium/appium-inspector) ⭐ 1,914 | 🐛 18 | 🌐 JavaScript | 📅 2026-11-16
 * [Awesome-Appium](https://github.com/SrinivasanTarget/awesome-appium) ⭐ 463 | 🐛 7 | 📅 2026-10-25
 * [Appium Gestures Plugin](https://github.com/AppiumTestDistribution/appium-gestures-plugin) ⭐ 62 | 🐛 13 | 🌐 JavaScript | 📅 2025-12-29
 * [Appium Conference](https://www.youtube.com/playlist?list=PL9Z-JgiTsOYRCcJhDfmKAah9XmAp2b903)
@@ -1077,7 +1077,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Flutter</summary>
 
-* [Appium Flutter Driver](https://github.com/appium/appium-flutter-driver) ⭐ 541 | 🐛 87 | 🌐 TypeScript | 📅 2026-11-09
+* [Appium Flutter Driver](https://github.com/appium/appium-flutter-driver) ⭐ 541 | 🐛 87 | 🌐 TypeScript | 📅 2026-11-16
 * [Appium Flutter Finder Java](https://github.com/ashwithpoojary98/javaflutterfinder) ⭐ 13 | 🐛 8 | 🌐 Java | 📅 2025-10-12
 * [How to Test Flutter Apps? How is it Different From Testing Native Apps?](https://medium.com/@iamfaisalkhatri/how-to-test-flutter-apps-how-is-it-different-from-testing-native-apps-f6a2cb61e9a4)
 * [Automating Tests for Flutter Apps](https://testautomationu.applitools.com/testing-flutter-apps/)
@@ -1097,7 +1097,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>WebdriverIO </summary>
 
-* [Appium boilerplate](https://github.com/webdriverio/appium-boilerplate/) ⭐ 488 | 🐛 21 | 🌐 TypeScript | 📅 2026-11-12
+* [Appium boilerplate](https://github.com/webdriverio/appium-boilerplate/) ⭐ 488 | 🐛 21 | 🌐 TypeScript | 📅 2026-11-16
 * [WebdriverIO documentation](https://webdriver.io/docs/gettingstarted/)
 * [Mobile Selectors](https://webdriver.io/docs/selectors#mobile-selectors)
 * [Mobile e2e tests using WebdriverIO and Appium](https://dev.to/fmo91/mobile-e2e-tests-using-webdriverio-and-appium-4071)
@@ -1113,10 +1113,21 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Maestro </summary>
 
-* [Maestro Github](https://github.com/mobile-dev-inc/Maestro) ⭐ 16,411 | 🐛 453 | 🌐 Kotlin | 📅 2026-11-13
+* [Maestro Github](https://github.com/mobile-dev-inc/Maestro) ⭐ 16,423 | 🐛 452 | 🌐 Kotlin | 📅 2026-11-13
 * [Maestro.dev](https://maestro.dev/)
 * [Maestro Documentation](https://docs.maestro.dev/)
 * [Maestro blog](https://maestro.dev/blog)
+
+</details>
+
+<details>
+<summary>e2e </summary>
+
+* [e2e Github](https://github.com/e2e-inc/e2e) ⭐ 13,958 | 🐛 109 | 🌐 TypeScript | 📅 2026-11-16
+* [e2e.com](https://e2e.com/)
+* [e2e Documentation](https://e2e.com/docs)
+* [Mobile Testing with e2e](https://e2e.com/docs/mobile)
+* [Migrating from Appium to e2e](https://e2e.com/docs/migrate/appium)
 
 </details>
 
@@ -1134,19 +1145,19 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Tutorials</summary>
 
-* [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,356 | 🐛 2 | 📅 2026-07-21
-* [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 15,111 | 🐛 402 | 📅 2026-01-11
-* [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) ⭐ 14,057 | 🐛 16 | 🌐 Python | 📅 2026-11-02
-* [Awesome Hacking](https://github.com/qazbnm456/awesome-web-security) ⭐ 14,057 | 🐛 16 | 🌐 Python | 📅 2026-11-02
-* [Security Testing Guide](https://github.com/OWASP/wstg/tree/master/document) ⭐ 10,273 | 🐛 56 | 🌐 CSS | 📅 2026-11-14
+* [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,359 | 🐛 2 | 📅 2026-07-21
+* [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 15,115 | 🐛 403 | 📅 2026-01-11
+* [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) ⭐ 14,061 | 🐛 16 | 🌐 Python | 📅 2026-11-02
+* [Awesome Hacking](https://github.com/qazbnm456/awesome-web-security) ⭐ 14,061 | 🐛 16 | 🌐 Python | 📅 2026-11-02
+* [Security Testing Guide](https://github.com/OWASP/wstg/tree/master/document) ⭐ 10,281 | 🐛 48 | 🌐 CSS | 📅 2026-11-16
 * [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking) ⭐ 7,354 | 🐛 23 | 📅 2026-10-29
-* [Awesome Appsec](https://github.com/paragonie/awesome-appsec) ⭐ 7,141 | 🐛 45 | 🌐 PHP | 📅 2025-02-22
+* [Awesome Appsec](https://github.com/paragonie/awesome-appsec) ⭐ 7,142 | 🐛 44 | 🌐 PHP | 📅 2025-02-22
 * [Cybersecurity for Beginners](https://github.com/microsoft/Security-101) ⭐ 7,055 | 🐛 4 | 🌐 HTML | 📅 2026-08-24
-* [Ultimate DevSecOps library](https://github.com/sottlmarek/DevSecOps) ⭐ 6,952 | 🐛 39 | 📅 2026-08-12
+* [Ultimate DevSecOps library](https://github.com/sottlmarek/DevSecOps) ⭐ 6,957 | 🐛 39 | 📅 2026-08-12
 * [Awesome-api-security](https://github.com/arainho/awesome-api-security) ⚠️ Archived
 * [awesome-api-security](https://github.com/arainho/awesome-api-security) ⚠️ Archived
-* [Awesome Mobile Security](https://github.com/vaib25vicky/awesome-mobile-security) ⭐ 3,579 | 🐛 16 | 📅 2024-03-01
-* [Awesome-DevSecOps](https://github.com/JakobTheDev/awesome-devsecops) ⭐ 1,762 | 🐛 49 | 📅 2024-08-02
+* [Awesome Mobile Security](https://github.com/vaib25vicky/awesome-mobile-security) ⭐ 3,580 | 🐛 16 | 📅 2024-03-01
+* [Awesome-DevSecOps](https://github.com/JakobTheDev/awesome-devsecops) ⭐ 1,763 | 🐛 50 | 📅 2024-08-02
 * [Awesome CICD Security](https://github.com/myugan/awesome-cicd-security) ⭐ 852 | 🐛 21 | 📅 2026-09-29
 * [What is Security Testing?](https://www.hackerone.com/knowledge-center/what-security-testing)
 * [OWASP Top 10](https://owasp.org/www-project-top-ten/)
@@ -1178,7 +1189,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details> 
 <summary>Penetration Testing</summary>
 
-* [Collection of Penetration Testing resources](https://github.com/wtsxDev/Penetration-Testing#penetration-testing-resources) ⭐ 2,819 | 🐛 19 | 📅 2023-10-18
+* [Collection of Penetration Testing resources](https://github.com/wtsxDev/Penetration-Testing#penetration-testing-resources) ⭐ 2,818 | 🐛 19 | 📅 2023-10-18
 * [Penetration testing guide](https://www.softwaretestinghelp.com/penetration-testing-guide/)
 * [Pentesterlabs](https://pentesterlab.com/)
 * [The Beginner’s Guide to API Hacking - DANA EPP'S BLOG](https://danaepp.com/beginners-guide-to-api-hacking)
@@ -1261,8 +1272,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details> 
 <summary>K6</summary>
 
-* [Grafana K6](https://github.com/grafana/k6) ⭐ 32,309 | 🐛 771 | 🌐 Go | 📅 2026-11-14
-* [Awesome-k6](https://github.com/grafana/awesome-k6) ⭐ 785 | 🐛 6 | 📅 2026-10-30
+* [Grafana K6](https://github.com/grafana/k6) ⭐ 32,326 | 🐛 765 | 🌐 Go | 📅 2026-11-16
+* [Awesome-k6](https://github.com/grafana/awesome-k6) ⭐ 786 | 🐛 6 | 📅 2026-10-30
 * [Performance Testing with K6](https://github.com/cajames/performance-testing-with-k6) ⭐ 98 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-12
 * [Beginner’s Guide to Load Testing with k6](https://medium.com/swlh/beginners-guide-to-load-testing-with-k6-85ec614d2f0d)
 * [API performance testing with k6](https://circleci.com/blog/api-performance-testing-with-k6/)
@@ -1289,7 +1300,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>JMeter</summary>
 
-* [JMeter-Github](https://github.com/apache/jmeter) ⭐ 9,604 | 🐛 996 | 🌐 Java | 📅 2026-11-05
+* [JMeter-Github](https://github.com/apache/jmeter) ⭐ 9,605 | 🐛 996 | 🌐 Java | 📅 2026-11-05
 * [Awesome-JMeter](https://github.com/aliesbelik/awesome-jmeter) ⭐ 810 | 🐛 1 | 🌐 HTML | 📅 2026-11-10
 * [JMeter Maven Plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) ⭐ 440 | 🐛 21 | 🌐 Java | 📅 2025-01-03
 * [Jeter Documentation](https://jmeter.apache.org/)
@@ -1305,7 +1316,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Google Lighthouse</summary>
 
-* [Lighthouse - GitHub](https://github.com/GoogleChrome/lighthouse) ⭐ 31,113 | 🐛 439 | 🌐 JavaScript | 📅 2026-11-15
+* [Lighthouse - GitHub](https://github.com/GoogleChrome/lighthouse) ⭐ 31,134 | 🐛 436 | 🌐 JavaScript | 📅 2026-11-17
 * [What Is Google Lighthouse and How to Use It?](https://www.elegantthemes.com/blog/wordpress/what-is-google-lighthouse-and-how-to-use-it)
 * [Introduction to Chrome Lighthouse](https://www.freecodecamp.org/news/introduction-to-chrome-lighthouse/)
 
@@ -1439,7 +1450,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>SQL/MySQL Tutorials</summary>
 
 * [Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql) ⭐ 2,617 | 🐛 31 | 🌐 Python | 📅 2026-10-19
-* [Awesome SQL](https://github.com/danhuss/awesome-sql) ⭐ 456 | 🐛 45 | 📅 2026-04-25
+* [Awesome SQL](https://github.com/danhuss/awesome-sql) ⭐ 456 | 🐛 46 | 📅 2026-04-25
 * [SQL Roadmap](https://roadmap.sh/sql)
 * [SQL Tutorial - SQLTutorial.org](https://www.sqltutorial.org/)
 * [SQL Tutorial - W3Schools](https://www.w3schools.com/sql/)
@@ -1471,7 +1482,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>MongoDB Tutorials</summary>
 
-* [Awesome MongoDB](https://github.com/ramnes/awesome-mongodb) ⭐ 2,681 | 🐛 23 | 📅 2026-11-06
+* [Awesome MongoDB](https://github.com/ramnes/awesome-mongodb) ⭐ 2,681 | 🐛 24 | 📅 2026-11-06
 * [MongoDB Tutorial - MongoDB.com](https://www.mongodb.com/docs/manual/tutorial/)
 * [MongoDB Tutorial - MongoDBtutorial.org](https://www.mongodbtutorial.org/)
 * [MongoDB Tutorial - W3resource.com](https://www.w3resource.com/mongodb/nosql.php)
@@ -1498,7 +1509,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Postgres Tutorials</summary>
 
-* [Awesome Postgres](https://github.com/dhamaniasad/awesome-postgres) ⭐ 12,187 | 🐛 138 | 📅 2026-11-05
+* [Awesome Postgres](https://github.com/dhamaniasad/awesome-postgres) ⭐ 12,189 | 🐛 138 | 📅 2026-11-05
 * [Postgres Roadmap](https://roadmap.sh/postgresql-dba)
 * [Postgres Tutorial - Postgresql.org](https://www.postgresql.org/docs/online-resources/)
 * [Postgres Tutorial - neon.com](https://neon.com/postgresql/tutorial)
@@ -1526,20 +1537,20 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Learning Materials</summary>
 
-* [DevOps Exercises](https://github.com/bregman-arie/devops-exercises) ⭐ 86,827 | 🐛 59 | 🌐 Python | 📅 2025-12-27
-* [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) ⭐ 75,768 | 🐛 32 | 📅 2026-01-04
-* [90 Days Of DevOps](https://github.com/MichaelCade/90DaysOfDevOps) ⭐ 30,902 | 🐛 12 | 🌐 Shell | 📅 2026-06-24
-* [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) ⭐ 16,140 | 🐛 104 | 🌐 Shell | 📅 2026-10-31
-* [A curated list of Site Reliability and Production Engineering resources](https://github.com/dastergon/awesome-sre) ⭐ 13,781 | 🐛 124 | 📅 2025-08-28
-* [A collection of Linux Sysadmin Test Questions and Answers](https://github.com/trimstray/test-your-sysadmin-skills) ⭐ 11,908 | 🐛 20 | 📅 2024-11-19
-* [DevOps Guide](https://github.com/Tikam02/DevOps-Guide) ⭐ 9,381 | 🐛 11 | 🌐 HTML | 📅 2026-05-22
-* [Awesome DevSecOps](https://github.com/devsecops/awesome-devsecops) ⭐ 5,520 | 🐛 100 | 📅 2024-05-11
-* [awesome-devops](https://github.com/wmariuss/awesome-devops) ⭐ 4,456 | 🐛 7 | 🌐 JavaScript | 📅 2026-11-15
+* [DevOps Exercises](https://github.com/bregman-arie/devops-exercises) ⭐ 86,864 | 🐛 59 | 🌐 Python | 📅 2025-12-27
+* [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) ⭐ 75,806 | 🐛 32 | 📅 2026-01-04
+* [90 Days Of DevOps](https://github.com/MichaelCade/90DaysOfDevOps) ⭐ 30,909 | 🐛 12 | 🌐 Shell | 📅 2026-06-24
+* [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) ⭐ 16,144 | 🐛 105 | 🌐 Shell | 📅 2026-10-31
+* [A curated list of Site Reliability and Production Engineering resources](https://github.com/dastergon/awesome-sre) ⭐ 13,783 | 🐛 124 | 📅 2025-08-28
+* [A collection of Linux Sysadmin Test Questions and Answers](https://github.com/trimstray/test-your-sysadmin-skills) ⭐ 11,910 | 🐛 20 | 📅 2024-11-19
+* [DevOps Guide](https://github.com/Tikam02/DevOps-Guide) ⭐ 9,382 | 🐛 11 | 🌐 HTML | 📅 2026-05-22
+* [Awesome DevSecOps](https://github.com/devsecops/awesome-devsecops) ⭐ 5,521 | 🐛 101 | 📅 2024-05-11
+* [awesome-devops](https://github.com/wmariuss/awesome-devops) ⭐ 4,457 | 🐛 8 | 🌐 JavaScript | 📅 2026-11-16
 * [veriqta/DEVOPS-WORLD](https://github.com/veriqta/DEVOPS-WORLD) ⭐ 3,546 | 🐛 0 | 📅 2026-11-06
 * [Learning DevOps](https://github.com/Pradumnasaraf/DevOps) ⭐ 3,287 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-05
-* [DevOps and IT Cheat-Sheet Collection](https://github.com/sk3pp3r/cheat-sheet-pdf) ⭐ 2,464 | 🐛 1 | 🌐 HTML | 📅 2025-05-25
+* [DevOps and IT Cheat-Sheet Collection](https://github.com/sk3pp3r/cheat-sheet-pdf) ⭐ 2,465 | 🐛 1 | 🌐 HTML | 📅 2025-05-25
 * [Cloud DevOps Learning Resources](https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources) ⭐ 2,052 | 🐛 1 | 📅 2024-06-24
-* [Awesome-CIandCD](https://github.com/cicdops/awesome-ciandcd) ⭐ 2,015 | 🐛 41 | 📅 2026-04-14
+* [Awesome-CIandCD](https://github.com/cicdops/awesome-ciandcd) ⭐ 2,015 | 🐛 40 | 📅 2026-04-14
 * [Lets-DevOps/awesome-learning](https://github.com/Lets-DevOps/awesome-learning) ⭐ 1,662 | 🐛 9 | 📅 2026-09-17
 * [DevOps - Step by Step](https://github.com/MohamedRadwan-DevOps/devops-step-by-step) ⭐ 1,131 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-10
 * [DevOps Books](https://github.com/DevOps-Projects-Ideas/DevOps-Books) ⭐ 744 | 🐛 0 | 📅 2024-09-25
@@ -1640,12 +1651,12 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Docker</summary>
 
-* [Awesome Docker Compose](https://github.com/docker/awesome-compose) ⭐ 46,706 | 🐛 440 | 🌐 HTML | 📅 2026-11-14
-* [Docke Compose GitHub](https://github.com/docker/compose) ⭐ 38,872 | 🐛 121 | 🌐 Go | 📅 2026-11-13
-* [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) ⭐ 37,238 | 🐛 82 | 📅 2026-11-12
+* [Awesome Docker Compose](https://github.com/docker/awesome-compose) ⭐ 46,720 | 🐛 440 | 🌐 HTML | 📅 2026-11-14
+* [Docke Compose GitHub](https://github.com/docker/compose) ⭐ 38,909 | 🐛 114 | 🌐 Go | 📅 2026-11-16
+* [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) ⭐ 37,244 | 🐛 83 | 📅 2026-11-12
 * [Docker Cheat Sheet - GitHub](https://github.com/wsargent/docker-cheat-sheet) ⭐ 22,556 | 🐛 7 | 📅 2024-12-31
 * [Docker Labs](https://github.com/docker-archive-public/docker.labs) ⚠️ Archived
-* [DockerLabs - Getting Started with Docker](https://github.com/collabnix/dockerlabs) ⭐ 8,044 | 🐛 29 | 🌐 JavaScript | 📅 2026-11-09
+* [DockerLabs - Getting Started with Docker](https://github.com/collabnix/dockerlabs) ⭐ 8,045 | 🐛 29 | 🌐 JavaScript | 📅 2026-11-09
 * [Docker Curriculum GitHub](https://github.com/prakhar1989/docker-curriculum) ⭐ 6,127 | 🐛 23 | 🌐 CSS | 📅 2026-10-23
 * [Learning Docker](https://github.com/willitscale/learning-docker) ⭐ 111 | 🐛 2 | 🌐 PHP | 📅 2019-10-24
 * [Docker](https://www.youtube.com/@DockerInc)
@@ -1691,9 +1702,9 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Linux</summary>
 
-* [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) ⭐ 32,068 | 🐛 33 | 📅 2026-09-07
+* [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) ⭐ 32,077 | 🐛 33 | 📅 2026-09-07
 * [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software) ⚠️ Archived
-* [Free Linux Basics - KodeKloud](https://github.com/kodekloudhub/linux-basics-course) ⭐ 2,105 | 🐛 18 | 📅 2024-07-18
+* [Free Linux Basics - KodeKloud](https://github.com/kodekloudhub/linux-basics-course) ⭐ 2,107 | 🐛 18 | 📅 2024-07-18
 * [Linux Journey - Tutorials and lessons to learn Linux](https://linuxjourney.org/)
 * [LinuxZoo - Learn Linux](https://linuxzoo.net/)
 * [How to Use Vim – Tutorial for Beginners](https://www.freecodecamp.org/news/vim-beginners-guide/)
@@ -1713,7 +1724,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Terraform</summary>
 
-* [awesome-tf](https://github.com/shuaibiyy/awesome-tf) ⭐ 6,681 | 🐛 27 | 📅 2026-11-09
+* [awesome-tf](https://github.com/shuaibiyy/awesome-tf) ⭐ 6,685 | 🐛 27 | 📅 2026-11-16
 * [Infrastructure as code - Terraform Tutorials](https://github.com/Artemmkin/infrastructure-as-code-tutorial/blob/master/docs/05-terraform.md) ⭐ 2,304 | 🐛 11 | 📅 2022-11-19
 * [Awesome Terraform - Azure](https://github.com/Azure/awesome-terraform) ⚠️ Archived
 * [Terraform Tutorials](https://developer.hashicorp.com/terraform/tutorials)
@@ -1726,7 +1737,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Prometheus</summary>
 
-* [Prometheus for Developers](https://github.com/danielfm/prometheus-for-developers) ⭐ 470 | 🐛 4 | 🌐 JavaScript | 📅 2026-03-30
+* [Prometheus for Developers](https://github.com/danielfm/prometheus-for-developers) ⭐ 471 | 🐛 4 | 🌐 JavaScript | 📅 2026-03-30
 * [Prometheus - Official Website](https://prometheus.io)
 * [Getting Started with Prometheus](https://prometheus.io/docs/tutorials/getting_started/)
 * [Guides for Prometheus](https://www.civo.com/learn/categories/prometheus)
@@ -1768,7 +1779,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details> 
 <summary>Learning Materials</summary>
 
-* [Serenity Core](https://github.com/serenity-bdd/serenity-core) ⭐ 756 | 🐛 444 | 🌐 HTML | 📅 2026-11-03
+* [Serenity Core](https://github.com/serenity-bdd/serenity-core) ⭐ 754 | 🐛 444 | 🌐 HTML | 📅 2026-11-03
 * [What is BDD?](https://cucumber.io/docs/bdd/)
 * [BDD - A Complete Tutorial](https://www.softwaretestinghelp.com/bdd-framework/)
 * [Beginners guide to BDD](https://inviqa.com/blog/bdd-guide)
@@ -1802,7 +1813,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Learning Materials </summary>
 
-* [Awesome Agile](https://github.com/lorabv/awesome-agile) ⭐ 1,498 | 🐛 14 | 📅 2024-08-10
+* [Awesome Agile](https://github.com/lorabv/awesome-agile) ⭐ 1,500 | 🐛 14 | 📅 2024-08-10
 * [What is Agile?](https://www.coursera.org/articles/what-is-agile-a-beginners-guide)
 * [Agile Software blogs by Mike Cohn](https://www.mountaingoatsoftware.com/blog)
 * [Agile Software Guide - Martin Fowler](https://martinfowler.com/agile.html)
@@ -1877,7 +1888,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>JUnit</summary>
 
-* [Junit 5 - GitHub](https://github.com/junit-team/junit-framework) ⭐ 7,064 | 🐛 114 | 🌐 Java | 📅 2026-11-15
+* [Junit 5 - GitHub](https://github.com/junit-team/junit-framework) ⭐ 7,065 | 🐛 116 | 🌐 Java | 📅 2026-11-16
 * [JUnit 5 - Documentation](https://junit.org/)
 * [JUnit 5 Tutorial](https://testautomationu.applitools.com/junit5-tutorial/)
 * [Beginner’s Guide to JUnit 5](https://medium.com/@iamfaisalkhatri/beginners-guide-to-junit-5-7756286cd4be)
@@ -1896,7 +1907,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>TestNG</summary>
 
-* [TestNG GitHub repo](https://github.com/testng-team/testng) ⭐ 2,059 | 🐛 147 | 🌐 Java | 📅 2026-11-11
+* [TestNG GitHub repo](https://github.com/testng-team/testng) ⭐ 2,058 | 🐛 147 | 🌐 Java | 📅 2026-11-16
 * [TestNG Eclipse Plugin](https://github.com/testng-team/testng-eclipse) ⭐ 198 | 🐛 71 | 🌐 Java | 📅 2026-02-15
 * [TestNG documentation](https://testng.org/)
 * [Test Automation University - Introduction to TestNG](https://testautomationu.applitools.com/introduction-to-testng/)
@@ -1953,13 +1964,13 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>AI</summary>
 
-* [LLM Course - Roadmaps + Notebooks - GitHub](https://github.com/mlabonne/llm-course) ⭐ 85,117 | 🐛 92 | 📅 2026-02-05
-* [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners) ⭐ 79,719 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-11-07
-* [AI for Beginners](https://github.com/microsoft/ai-for-beginners) ⭐ 70,833 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2026-11-15
-* [LocalAI](https://github.com/mudler/LocalAI) ⭐ 50,378 | 🐛 184 | 🌐 Go | 📅 2026-11-15
-* [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners) ⭐ 38,066 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2026-10-21
-* [Promptfoo - Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs.](https://github.com/promptfoo/promptfoo) ⭐ 27,237 | 🐛 963 | 🌐 TypeScript | 📅 2026-11-15
-* [IoT for Beginners](https://github.com/microsoft/IoT-For-Beginners) ⭐ 17,191 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-05-26
+* [LLM Course - Roadmaps + Notebooks - GitHub](https://github.com/mlabonne/llm-course) ⭐ 85,128 | 🐛 92 | 📅 2026-02-05
+* [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners) ⭐ 79,844 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-11-17
+* [AI for Beginners](https://github.com/microsoft/ai-for-beginners) ⭐ 70,927 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2026-11-15
+* [LocalAI](https://github.com/mudler/LocalAI) ⭐ 50,394 | 🐛 190 | 🌐 Go | 📅 2026-11-16
+* [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners) ⭐ 38,079 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2026-10-21
+* [Promptfoo - Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs.](https://github.com/promptfoo/promptfoo) ⭐ 27,330 | 🐛 968 | 🌐 TypeScript | 📅 2026-11-16
+* [IoT for Beginners](https://github.com/microsoft/IoT-For-Beginners) ⭐ 17,193 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-05-26
 * [Learn AI Engineering](https://github.com/ashishps1/learn-ai-engineering) ⭐ 6,236 | 🐛 9 | 📅 2026-02-05
 * [AI Engineer Portfolio Projects](https://github.com/landedjobs/ai-engineer-portfolio-projects) ⭐ 94 | 🐛 0 | 📅 2026-10-26
 * [AI Engineer Roadmap](https://roadmap.sh/ai-engineer)
@@ -1995,15 +2006,15 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Machine Learning</summary>
 
-* [Machine Learning for Beginners](https://github.com/microsoft/ML-For-Beginners) ⭐ 92,198 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2026-11-07
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,832 | 🐛 34 | 🌐 Python | 📅 2026-11-12
-* [100 Days of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) ⭐ 52,070 | 🐛 68 | 📅 2023-12-29
-* [Made with ML](https://github.com/GokuMohandas/Made-With-ML) ⭐ 50,026 | 🐛 25 | 🌐 Jupyter Notebook | 📅 2026-03-04
-* [ML from Scratch](https://github.com/eriklindernoren/ML-From-Scratch) ⭐ 33,370 | 🐛 84 | 🌐 Python | 📅 2023-10-15
-* [Applied ML](https://github.com/eugeneyan/applied-ml) ⭐ 30,925 | 🐛 12 | 📅 2024-07-18
-* [ML Algorithms](https://github.com/rushter/MLAlgorithms) ⭐ 11,183 | 🐛 9 | 🌐 Python | 📅 2026-09-29
-* [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) ⭐ 10,805 | 🐛 1 | 🌐 Python | 📅 2026-09-03
-* [Machine Learning Tools in JavaScript](https://github.com/mljs/ml) ⭐ 2,722 | 🐛 27 | 🌐 JavaScript | 📅 2024-10-21
+* [Machine Learning for Beginners](https://github.com/microsoft/ML-For-Beginners) ⭐ 92,256 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2026-11-07
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,842 | 🐛 34 | 🌐 Python | 📅 2026-11-12
+* [100 Days of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) ⭐ 52,073 | 🐛 68 | 📅 2023-12-29
+* [Made with ML](https://github.com/GokuMohandas/Made-With-ML) ⭐ 50,066 | 🐛 25 | 🌐 Jupyter Notebook | 📅 2026-03-04
+* [ML from Scratch](https://github.com/eriklindernoren/ML-From-Scratch) ⭐ 33,373 | 🐛 84 | 🌐 Python | 📅 2023-10-15
+* [Applied ML](https://github.com/eugeneyan/applied-ml) ⭐ 30,933 | 🐛 12 | 📅 2024-07-18
+* [ML Algorithms](https://github.com/rushter/MLAlgorithms) ⭐ 11,183 | 🐛 9 | 🌐 Python | 📅 2026-11-16
+* [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) ⭐ 10,808 | 🐛 1 | 🌐 Python | 📅 2026-09-03
+* [Machine Learning Tools in JavaScript](https://github.com/mljs/ml) ⭐ 2,721 | 🐛 27 | 🌐 JavaScript | 📅 2024-10-21
 * [A collection of papers and resources about the utilization of large language models (LLMs) in software testing.](https://github.com/LLM-Testing/LLM4SoftwareTesting) ⭐ 532 | 🐛 1 | 📅 2024-01-10
 * [MLOps Roadmap](https://roadmap.sh/mlops)
 * [Machine Learning Free Course by Standford University](https://see.stanford.edu/Course/CS229)
@@ -2016,4 +2027,4 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
